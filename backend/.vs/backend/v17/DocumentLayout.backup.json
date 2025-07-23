@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\csis290\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receipt\\receiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receipt\\receiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receiptitem\\receiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receiptitem\\receiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receipt\\createreceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receipt\\createreceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receipt\\updatereceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receipt\\updatereceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receiptitem\\updatereceiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receiptitem\\updatereceiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\receiptitem\\createreceiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\receiptitem\\createreceiptitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\domain\\entities\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\domain\\entities\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\domain\\entities\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\domain\\entities\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwIAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:51:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\ReceiptDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Receipt\\ReceiptDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\ReceiptDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Receipt\\ReceiptDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:44:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceiptItemDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\ReceiptItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\ReceiptItem\\ReceiptItemDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\ReceiptItemDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\ReceiptItem\\ReceiptItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:44:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateReceiptItemDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\UpdateReceiptItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\ReceiptItem\\UpdateReceiptItemDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\UpdateReceiptItemDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\ReceiptItem\\UpdateReceiptItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:43:43.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateReceiptItemDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\CreateReceiptItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\ReceiptItem\\CreateReceiptItemDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\ReceiptItem\\CreateReceiptItemDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\ReceiptItem\\CreateReceiptItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:42:59.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateReceiptDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\UpdateReceiptDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Receipt\\UpdateReceiptDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\UpdateReceiptDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Receipt\\UpdateReceiptDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:42:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateReceiptDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\CreateReceiptDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Receipt\\CreateReceiptDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Receipt\\CreateReceiptDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Receipt\\CreateReceiptDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:42:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiptItem.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Domain\\Entities\\ReceiptItem.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\ReceiptItem.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Domain\\Entities\\ReceiptItem.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\ReceiptItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:41:34.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:23:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Domain\\Entities\\Receipt.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Receipt.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Domain\\Entities\\Receipt.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:53:01.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

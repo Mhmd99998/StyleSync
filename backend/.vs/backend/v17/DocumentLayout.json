@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\csis290\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\buyer\\updatebuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\buyer\\updatebuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\buyer\\createbuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\buyer\\createbuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|d:\\dev\\csis290\\backend\\src\\application\\dtos\\buyer\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B239B452-F169-407E-93F4-D1AD8206ACE4}|backend.csproj|solutionrelative:src\\application\\dtos\\buyer\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBuyerDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\UpdateBuyerDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Buyer\\UpdateBuyerDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\UpdateBuyerDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Buyer\\UpdateBuyerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:08:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBuyerDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\CreateBuyerDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Buyer\\CreateBuyerDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\CreateBuyerDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Buyer\\CreateBuyerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:07:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyerDto.cs",
+              "DocumentMoniker": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\BuyerDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\Buyer\\BuyerDto.cs",
+              "ToolTip": "D:\\dev\\csis290\\backend\\src\\Application\\DTOs\\Buyer\\BuyerDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\Buyer\\BuyerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:06:42.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

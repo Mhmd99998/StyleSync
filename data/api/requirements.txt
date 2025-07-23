@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+joblib
+pandas
+numpy
+scipy
+scikit-learn
+implicit
+sentence-transformers
+tensorflow
+torch
+torchvision
+torchaudio

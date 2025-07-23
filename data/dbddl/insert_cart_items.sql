@@ -1,0 +1,12186 @@
+-- Cart Items
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3eeb7008-3b32-4751-b568-fc7758d5e7a8', 'e97cf0fd-5d19-4541-8e04-9840091912bf', '4d29712e-2b94-481a-8719-9b9da0d2045c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb980747-7857-4bf0-9672-08c4d7f1fe22', 'e97cf0fd-5d19-4541-8e04-9840091912bf', 'cc177f86-59f4-41ab-9110-132b77f0637a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '421653e8-4a13-4578-b513-4b39f627ef0a', 'e97cf0fd-5d19-4541-8e04-9840091912bf', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33a770bc-d62e-478d-afeb-d59fa22616ca', '814d8d1b-b7ce-45b6-8929-9662cb27bc8d', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9870728d-0dd6-4d30-bf8a-ca694936fb2e', '814d8d1b-b7ce-45b6-8929-9662cb27bc8d', '61b99f83-7f95-4787-a062-db76c3d65dec', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cf7badf-e4be-4d74-8534-4e3cd55c41ce', '814d8d1b-b7ce-45b6-8929-9662cb27bc8d', '9dfefd94-7a13-431b-9e8f-d55b21eafa3a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0748806a-0e8e-416d-a975-7d3fbf7988ca', '814d8d1b-b7ce-45b6-8929-9662cb27bc8d', 'd2c22c5c-57f3-48db-9005-9219a766292c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b1432c8-e943-45a0-962e-d0d580771678', '814d8d1b-b7ce-45b6-8929-9662cb27bc8d', '1173c2cb-1a20-4b34-aa05-037d950c379f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa999aed-8396-4f4c-8a8c-0d23344dc5ab', '6fdfb5d9-4e1e-495a-889c-484d73412644', '229fef64-186d-4ce3-8fab-d793b75b8f24', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53ae588a-a6f5-41a7-95bb-6166fc7760a9', '6fdfb5d9-4e1e-495a-889c-484d73412644', '3db7844b-3456-4d13-9ee3-880467cc46cb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1dbc022-c587-4edd-878c-a27c164c5915', '6fdfb5d9-4e1e-495a-889c-484d73412644', 'db4c1a63-5dfc-44fe-907d-3c6deffaf354', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2ac87d25-026c-4548-b4cb-8d698bc1f3a7', '6fdfb5d9-4e1e-495a-889c-484d73412644', '3f55507b-7916-4254-9fef-65767ad04c2f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60ca1dd0-472e-4e35-8004-2941f285eb71', '6fdfb5d9-4e1e-495a-889c-484d73412644', '477db028-694a-4546-a5f5-7fb5c97782c2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '534ba81c-c851-49e3-9191-d7e16422d57f', '6fdfb5d9-4e1e-495a-889c-484d73412644', 'a3b4345a-4b47-4225-a460-6c0e52b8c547', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e94db878-baf6-4859-b7b9-af279a9d03cd', 'b970a340-7c8d-4975-8add-a8e3fa918201', 'bfbb30ea-d21b-400f-920e-538b7256a116', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0a7a1ed-1ff2-4629-8d56-461234610f8e', 'b970a340-7c8d-4975-8add-a8e3fa918201', '3f69dad2-7ca8-4fa3-b123-0e1deab2d37f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd265b8f2-a134-4a1a-811c-f2c274efa89e', '2dd18dcf-cb2a-40ce-9eca-e5779ae3dfa3', 'abd69b2d-c6b1-4fd4-8b72-b47fc13081ce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '59abf264-2e07-41dd-9876-f18327a88f6d', '2dd18dcf-cb2a-40ce-9eca-e5779ae3dfa3', 'd1cfa948-763f-44f0-9ef9-96673d076c20', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '22325b7d-e100-409c-ae8d-def5bebd638b', '0f779936-31ee-4cbc-9f20-9c29f1000582', '3149f24b-c530-4b9b-9268-4ac1b49416b7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '482b1b2e-216a-48af-adf1-b62bf4d6ca11', '0f779936-31ee-4cbc-9f20-9c29f1000582', 'ed48cc79-9797-4959-a365-10424d70099e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '00aceba9-2f32-4728-a814-aabec9efa092', '0f779936-31ee-4cbc-9f20-9c29f1000582', 'cba46003-f00d-44ad-b614-a3f5221add11', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba4dba98-bddf-48b0-8198-f1420c18cb35', '0f779936-31ee-4cbc-9f20-9c29f1000582', '8462b910-a45b-42ef-a683-f91a7923c596', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3fae112-3370-47ad-ba9b-e17f6d0cafb1', '12d7c380-5a27-4eec-afdb-d2779c822eab', '3672eceb-bdd3-4864-80b5-5a4fffdb0685', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1771bdcb-eb1a-4224-ab86-c369fb82369e', '12d7c380-5a27-4eec-afdb-d2779c822eab', '0fe62712-48de-484d-b9af-d494124090b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0fcb96c-e9d6-4c7c-b331-333b14677b71', '12d7c380-5a27-4eec-afdb-d2779c822eab', '5e204116-1ede-49e6-9bcd-e8913913dfa7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f894ecf-f765-4bd3-b2f1-cd59f8df989c', '12d7c380-5a27-4eec-afdb-d2779c822eab', 'a21dcd16-930c-4a85-8353-4ba11bb5bbcc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '45f9a1b2-7348-4ab6-bad7-b58fd4734369', 'bb8bd062-befa-4d16-a8cb-a6c7fec8b1d8', '3f6afe65-5c6b-4105-8c88-99b8165603d0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '23fdac40-72d6-4578-a5ac-b403a9f59bab', '419f2376-5f95-4d85-8fe6-95554f69311c', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1316739-a4e7-4988-a332-b963d7e55b30', '419f2376-5f95-4d85-8fe6-95554f69311c', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd2707bbf-28fa-44bb-b594-a11c023e6743', '419f2376-5f95-4d85-8fe6-95554f69311c', '6e4f5fd8-7fa9-48e4-b24c-073705bc3643', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e8dc1acb-8d6c-48ec-a372-6bcf70928bee', '419f2376-5f95-4d85-8fe6-95554f69311c', 'fd784dbf-f098-44ad-9ece-a8480c689e08', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cd7fc91-ba26-48c5-860c-e0561bcd8e17', '419f2376-5f95-4d85-8fe6-95554f69311c', '6a44091e-edb0-45a9-a197-14546f76758d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72765ccb-d63e-4f95-a33c-a2d2b42c8a40', '419f2376-5f95-4d85-8fe6-95554f69311c', 'ade958e5-9d02-4115-929c-457ba199fcac', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd04040d-8c70-48f1-b023-0b87cc101c79', '7b935a1f-cc4f-4676-bb44-3448b4ec8541', 'bca6e8b5-56f0-4d91-8535-f084c2cc4b20', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2fdf34f5-5157-4201-a880-48b5dfc0d070', '7b935a1f-cc4f-4676-bb44-3448b4ec8541', 'd56099a4-7de9-4185-85c9-78b95fb11007', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '461b2619-c5a8-4300-9ecf-1bdbc9dcf3a5', '5b856dea-a952-4a19-b0e0-3e1393a2e385', 'c2dea58b-7faa-4a58-9f18-15acbc0f360b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34ebcb30-8a72-4ab9-bc92-6a1d6994043d', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', '20679dc4-527c-4143-bb60-7451bebe9c5c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7ab4d2e-3679-4411-bf01-5382ec77b2f2', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', 'fe3297c5-7375-4269-b13f-0747aad0de5a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bfe2b58d-9990-498e-8ae1-fdc94f26ecd6', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', '33220ed2-f3fc-4ad4-8c3a-58452d7ae64b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b0708496-bc03-4ec9-a126-944e90c85413', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', 'd9153e23-c718-4523-af98-009a062d0ba7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b53ea68c-9ca2-47ae-b43b-e4785294071d', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', '88e45452-d27d-4fd9-a9d9-7fe580c94602', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c16e654e-755e-4ebf-89d9-afec0e863ea2', '5cf0fbbe-44e3-4c70-b121-ae85ca787ccf', '10c48a85-efbe-4f16-8d9a-f3634ab40a00', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55dd0879-c827-496a-987f-25b25d5d0828', '490d8690-7127-4808-b4dd-1a119062b1a7', '389e8562-0f60-4aa9-8a0a-24a676d327f6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4d142c1-47cd-409e-b74e-3fdcde571c68', '490d8690-7127-4808-b4dd-1a119062b1a7', '93c45de6-2a80-4cb0-9c8d-e21caf65c792', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b0702ce-f0df-43c9-955e-84be72e6b3f4', '490d8690-7127-4808-b4dd-1a119062b1a7', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c03096e-eed5-4e18-bae1-92c19581aad4', '490d8690-7127-4808-b4dd-1a119062b1a7', '6a19772a-c6e9-4d34-9190-2d109b8d7ba5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c30fa5d9-fb58-4e58-a92e-1a5fde6a7e8d', '490d8690-7127-4808-b4dd-1a119062b1a7', '604b83d6-8d38-4a94-b62d-00b33f757d9b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd17755dd-0d6f-4127-b611-8e209e503ca2', '490d8690-7127-4808-b4dd-1a119062b1a7', '54afabe2-6eca-4f17-b4e1-4b2ac6f8a2b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6828235-16f2-4a6e-ab94-e3caab751e88', '0a89857d-1381-4e53-9e6b-0c450974fc20', '88d3d5f4-9d0b-4ecd-9bfe-5ce8f6daa53d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91787ed6-58ce-47a9-bc05-19fd9a838deb', '0a89857d-1381-4e53-9e6b-0c450974fc20', '22d769b1-a85f-450b-bcf5-ed263d7297ae', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7149bb6-a20f-4873-9b31-edbc87d45815', '0a89857d-1381-4e53-9e6b-0c450974fc20', '05d77378-d892-43ee-aed2-e363ea3c4e5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '39018004-4ef4-4ee1-bd52-279c62f68833', '0a89857d-1381-4e53-9e6b-0c450974fc20', '04a923a5-be91-410a-b1d9-10487dd6face', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52c85353-5c10-4b77-86fb-4be3d37278d5', '0a89857d-1381-4e53-9e6b-0c450974fc20', '70c43410-906e-44e8-a87e-e0a1de12651b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4d4d7b86-a97a-4396-bce2-db4c516cbb85', 'ebcbc2d1-f64f-4791-b4c5-69cffbb0d841', '8c5d182c-1115-4a26-8913-7c4c603f5813', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f6f30e76-bc5f-4d1f-9968-1f8c05abdd40', 'ebcbc2d1-f64f-4791-b4c5-69cffbb0d841', '7a261736-c373-4804-9d3c-f78c058f4656', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60436926-7508-469a-8505-86264b689e6f', 'ebcbc2d1-f64f-4791-b4c5-69cffbb0d841', 'd97089ef-5da5-4f8d-8bed-bd500184201f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71310704-523f-44ee-9f6f-ef8823844cf3', 'ebcbc2d1-f64f-4791-b4c5-69cffbb0d841', 'eb2a61d5-a402-403b-9a4a-914d21eb6f69', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '785287fd-a719-4ccb-bb10-a5e5082e3885', 'ebcbc2d1-f64f-4791-b4c5-69cffbb0d841', '9ef69afb-827d-49b9-ad20-b34d04d2147c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd6ec7fdf-0c89-4c98-af92-3ea2289b7ee7', '9b4d4037-d8b9-4f77-99f8-b2349f8abeb6', '68f9d8ef-4050-4d98-99c9-238bde83f790', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3fbebd2-0c22-45b6-8e62-4aae0fdff304', '9b4d4037-d8b9-4f77-99f8-b2349f8abeb6', '36692a05-a437-45a1-b4c7-c4d830347ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '430083d5-5934-4825-9c6b-590c4a7ebfd2', '9b4d4037-d8b9-4f77-99f8-b2349f8abeb6', 'fe613ba0-055a-4281-a554-5716f785eb6e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4f410549-30c4-4e24-9530-b87f67ba09e8', '63103b8e-47eb-44ea-b3eb-38e57fb68c2c', '83ead427-df06-4a53-a873-219f272c394c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fd92898b-35a9-432a-868c-5b8697c3cc44', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', '9fbd48a9-2d70-4821-846e-0720e4e3a740', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9c2758fe-cb24-419e-a5d3-eb15fc37adc1', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', 'd6e040fd-e233-4792-be5b-e824ce9abb62', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd1677f0f-0be4-4202-a50d-8f9b94670283', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', '1dfdb021-d014-41f5-adcb-21c475d0885f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7dd15f7-0d6f-40e7-ae86-e093ff4469a1', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', '2daeef64-6984-4a46-9cc7-7138d35c1990', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90eb6c1d-e560-4e5e-bc9d-3f985e65d595', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', '1958fcd5-f4d9-4a9d-9f52-4444917d0c32', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '08df64c8-5873-4741-902a-0bde855bac9c', 'fb7ccad2-9dbc-4e16-957b-8a01034dfa0a', '914ca3de-e0ff-4966-8aee-285650505d69', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0a17918-c0af-4166-aa39-2c1c48722234', 'c9e037f3-068f-4991-a732-7bde692abbab', '1b3cf24a-99e0-4be7-b9b0-9d961ca646a4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37a23a33-9aa0-41e4-af42-83dc690c56a6', 'c9e037f3-068f-4991-a732-7bde692abbab', '46963fa0-1103-4084-b770-51ab7cc8d465', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '14be7b5d-91e9-41d6-beb1-7adef07626fd', 'c9e037f3-068f-4991-a732-7bde692abbab', '3754c7d9-1199-405c-9424-43b991746c41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06d5d4b4-a969-4135-8abd-2f81f1b92a16', 'c9e037f3-068f-4991-a732-7bde692abbab', 'a3b4345a-4b47-4225-a460-6c0e52b8c547', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dc5eb5e6-fb6d-4d6e-bbfa-540194642273', 'c9e037f3-068f-4991-a732-7bde692abbab', 'b05cde7a-6ce2-495e-af46-253cfdff1437', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b6e7dc56-9422-49d2-8d13-eabdbf601627', 'bd63ea15-bd2a-4bbc-8d87-20e2e2a7fc19', 'b832e0fb-5b9d-4925-a782-33e4f8312629', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f6d54dd-a1b4-4985-a0df-7f1442359bc3', 'ac98c323-a739-4c8e-a000-d194d05edd15', 'fd784dbf-f098-44ad-9ece-a8480c689e08', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44128f23-f6b8-4b9c-b6ab-cebb4aef6774', '63a687c4-99dc-4c83-812d-965f2fa821c6', 'b214455c-a3a9-49e6-ae52-c5315286e64a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d5d5e10-3b11-4bd8-aab6-c40e50aa544f', '63a687c4-99dc-4c83-812d-965f2fa821c6', '309e0f9d-34f1-4040-bebe-ceed4c70c9c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e04313f-000e-401e-bf30-d90445a19f9b', '1be90a75-a6af-4062-a858-5267a6a55458', '02a8b0d2-92aa-433f-b035-0ae6e53ba50e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f2c0c7a-66c1-46b8-b2f9-89fa45ab3616', '1be90a75-a6af-4062-a858-5267a6a55458', '1bb0d9c6-c6c7-46f3-a2b0-d8f5434e9e34', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eda668ba-4a84-413f-89d1-1ed573ddb196', '1be90a75-a6af-4062-a858-5267a6a55458', '5ea49cb5-7e76-4352-a854-24acbb35776e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0bb294ba-9e5a-4816-a7cc-436798a5b578', '8fc191bd-45c1-4b2e-875b-bfd020078dfa', '02a8b0d2-92aa-433f-b035-0ae6e53ba50e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '11aed021-a6fe-44a0-a97e-cc0a1441bda7', '8fc191bd-45c1-4b2e-875b-bfd020078dfa', 'b1cbb984-650f-4a2e-bd0e-bad269c3b494', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f976f2d0-5131-4302-8d5a-b3fbcf9400ca', 'caccdd9d-a25f-4b2c-bc7c-27178bfbbb9d', '0fe62712-48de-484d-b9af-d494124090b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33e18a8e-5b24-484b-bb7f-44815b8aadc3', 'caccdd9d-a25f-4b2c-bc7c-27178bfbbb9d', 'a73f58dd-8149-4e7a-bafb-d5ff6132e5c5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44690cdd-2ab7-4335-9019-1ebc2cd2c1d1', '97d7ce0b-572d-46da-ab0e-00af4988e463', '8d4345cf-1b6f-49fc-b63c-ef90c0785cbc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be6ff190-2bcf-4fd4-82ae-850064882778', '97d7ce0b-572d-46da-ab0e-00af4988e463', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2aef560e-aa48-49ec-a6a2-0f62a10a2a37', '97d7ce0b-572d-46da-ab0e-00af4988e463', '70788350-dc58-4dd8-969f-7684159279d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cbe89fc-da1e-48d6-b457-77df7b8fae97', '97d7ce0b-572d-46da-ab0e-00af4988e463', 'd0cd7230-c8f4-42ed-b50c-0a063fa3ea4b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dadd0b47-35bf-41bd-b55a-fcf56520ff2e', '97d7ce0b-572d-46da-ab0e-00af4988e463', '392be400-5c12-4f6e-ab36-0465a797d9db', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3b6ef70-9ba3-4d69-b2f4-b6643ec76c32', 'ee26bd2f-731f-4ea3-94e4-b6f5918b6202', 'f56545cd-39ff-4184-a51e-033b379a45ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd20a4923-359e-42fb-aa21-a2e59ec1ffbb', 'ee26bd2f-731f-4ea3-94e4-b6f5918b6202', 'd396b699-1df3-4405-bbca-db0b6cc8e683', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b3e71983-b1fe-4476-87ec-ff3718aae60b', 'ee26bd2f-731f-4ea3-94e4-b6f5918b6202', '25cd3b70-bca3-46d9-98b4-19c23c57e1dc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ccf60cba-6165-494b-8867-1dc5d473fed1', 'ee26bd2f-731f-4ea3-94e4-b6f5918b6202', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f87527c-5df9-42bd-8d93-17c0cca904e6', 'b69be259-f6b7-46f7-94bb-adcb598c9ff9', 'd3d83d15-8be1-447b-bae5-9bd96bcc7208', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '97046065-13bf-417a-be7c-a5facec9a089', 'b69be259-f6b7-46f7-94bb-adcb598c9ff9', 'b9125b1a-0506-4d94-bdfc-551c7f9c52fb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6dae5156-7bb0-4250-ac6a-b5a38c5a5f9c', 'b69be259-f6b7-46f7-94bb-adcb598c9ff9', '657e95be-2b81-4022-8f76-556fbb5adef0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fffee63f-9965-46c9-b190-15eac0b0b23e', 'a8732471-f680-4303-90a7-2e53f406ebc2', '3e73f03e-2654-49e1-a75a-afb905b21daa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f706d2fe-d049-40c6-a38e-9066d176104f', 'a8732471-f680-4303-90a7-2e53f406ebc2', '3f237f8d-0f0f-419a-bb84-291bd584022a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01258849-dd62-47b1-bd8b-ec32c2197438', '6ef37dcd-0884-464b-ae6e-3d15acf2fe5e', '8d4345cf-1b6f-49fc-b63c-ef90c0785cbc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc6dc1a5-6420-4893-9206-fb351c5ccbf5', '6ef37dcd-0884-464b-ae6e-3d15acf2fe5e', 'c0b85182-1c32-4b3d-85f6-954e482ae060', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe196043-8075-4450-b06a-9c426454a7cd', '6ef37dcd-0884-464b-ae6e-3d15acf2fe5e', '7464ab9f-cd70-4741-b8d9-12e31ebf599e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '790b9025-7b67-4e91-88ac-1890cdef2178', '6ef37dcd-0884-464b-ae6e-3d15acf2fe5e', '715f12ea-5dfd-404b-81e8-c8baf29738f3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '749442b9-122b-41ed-a803-6a4db6e53180', '89304ef6-3f20-48b9-bafc-b52a2d1b6188', 'daaa4288-2d27-4d43-ad89-4f45bf76e834', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44aa1e3f-a6ad-4eaf-a9d9-9d9000a16f14', '89304ef6-3f20-48b9-bafc-b52a2d1b6188', '05d77378-d892-43ee-aed2-e363ea3c4e5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3716dbee-30eb-470b-9b2a-966d9c810dda', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', '9e55c916-a861-4d6d-8c98-93a5d35137b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47fe2df6-b517-4fd7-a141-3c232ab4b030', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', '392be400-5c12-4f6e-ab36-0465a797d9db', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6fe7214e-915a-481c-9cdf-81083f3c8657', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', '27ef212a-1cb1-4ec0-87c3-1af84262006b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0354a8c5-0f8b-43a7-b021-cec962b33ded', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', '1dede9b0-46a7-4162-9023-361a91571096', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4afeea97-3574-4f3b-b535-1d2e35b6f394', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', 'b0e5e485-dcca-45c1-8e65-f00f8580d09e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cdb71c8f-18f4-47aa-9aed-597555e9f04b', 'b40f21fb-13eb-4bfa-a08b-6bb3d87d96ef', 'd659df36-86ba-41e6-b353-f987a0136525', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3c650fa-031f-4106-a2f0-c92def0a08a8', 'fd64b3ab-e566-4d04-8c69-6a0300612ea3', 'c2dea58b-7faa-4a58-9f18-15acbc0f360b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '356a0b3a-047c-45ab-af15-3ade338c7340', 'fd64b3ab-e566-4d04-8c69-6a0300612ea3', 'afac821b-021a-4ded-b552-ab52d18f3777', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '86f86ecd-24b8-4c3f-b757-02c4d8104dfc', 'fd64b3ab-e566-4d04-8c69-6a0300612ea3', '456620c0-01e9-4eea-a89a-6bf728e015c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '81f5ac8d-e749-44af-a63c-1bb6155855a5', 'fd64b3ab-e566-4d04-8c69-6a0300612ea3', 'd8292bb1-1828-4d9b-ad1b-5bcf1624e8d8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f47487f-fe85-4ffd-a60b-6f10ebafbaa3', 'd52275ae-8026-46ec-bd9e-f2a5911db2ad', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c2cd4615-5c2e-4cdb-859b-18e004c6df0a', '4ca715ec-5929-4c11-8345-0c4a6f4c6ea6', 'd4a170b1-d72c-4d17-897f-0c2ce50e91db', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ee709d0-6d3b-43eb-bfcf-9d701a2ab164', '4ca715ec-5929-4c11-8345-0c4a6f4c6ea6', '913e1f18-2480-4178-9d7a-7bfe7e2933eb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e80020be-b0b9-4923-a167-6431040d732b', '4ca715ec-5929-4c11-8345-0c4a6f4c6ea6', 'b09857ef-73af-4606-86b8-b517d8203080', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7e823d28-cbdb-49f8-90d3-7e9ddea819f6', '4ca715ec-5929-4c11-8345-0c4a6f4c6ea6', '20679dc4-527c-4143-bb60-7451bebe9c5c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8065f0bc-05a2-4445-8ce4-bf5695b01a45', '8b45760b-379d-4922-be42-53a9f26ea1b8', 'c209b8c7-75eb-4c25-b660-2d73c5aa8fec', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2ddab0a-74b0-4ed7-83e2-5fa08c07317a', '8b45760b-379d-4922-be42-53a9f26ea1b8', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f07a775d-a3ac-4346-a8df-1d74ab863961', '8b45760b-379d-4922-be42-53a9f26ea1b8', 'e4f32b74-4f04-4cc4-82a1-19193852c9fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e539999b-3413-4cd6-8862-8f8ed2cb3a1a', '8b45760b-379d-4922-be42-53a9f26ea1b8', '0e10d3c3-1565-4b2d-90ba-479657a75f72', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff0eadb1-d47e-4efc-9d78-6273a458f64b', '8b45760b-379d-4922-be42-53a9f26ea1b8', '60ffc5e7-2f17-413c-9a2e-14bbb4b554a1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b39f1d24-f5b7-4595-87df-98c8fb15fb32', '83db7a5d-9143-4d50-a38e-2f4ca3a0a62e', 'c4bd9154-f54b-4cab-838e-3c18d9458904', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '82105730-c2cb-4b8f-a734-ea1c48749cf8', '83db7a5d-9143-4d50-a38e-2f4ca3a0a62e', 'b832e0fb-5b9d-4925-a782-33e4f8312629', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1de017c-de7a-4d1c-810d-d26566b9ac32', 'cdebf15d-9ed5-44ba-a54c-c2ed3a69e52c', '8571e7bc-c17b-4268-871e-65365f88fae0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0e1b0108-3501-49ea-8bbd-4394ef6492ab', 'cdebf15d-9ed5-44ba-a54c-c2ed3a69e52c', '68c9c359-aeb4-4526-91a5-c9f914869793', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5813f229-59ce-46e0-b999-c7b57df55535', 'cdebf15d-9ed5-44ba-a54c-c2ed3a69e52c', '7464ab9f-cd70-4741-b8d9-12e31ebf599e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb003906-2118-4a6c-942f-e24ffd2607b5', 'eb091118-67f9-46c0-9e9b-926f692885a8', '9cfec75b-ebaf-4e7a-ac64-f3caed8901d8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6dc7a9a9-f47c-4295-9eec-58989682b6f6', 'eb091118-67f9-46c0-9e9b-926f692885a8', '0c25350d-10e7-4b18-89d0-915dc099afe1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b355724-5566-4e5d-b37e-e2c2e6f0e6c4', 'eb091118-67f9-46c0-9e9b-926f692885a8', '8f042032-ab6e-4510-aa57-feedc3e64fe7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '29796c54-fc48-4f63-a628-2fb3543fad25', 'bf46f12d-3425-4fec-87f3-590521c62a4c', 'c739e95f-6c4e-47bd-82ee-8963ca4d42b6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '97b60667-2616-49c0-bbcc-aaa6c96d79b4', 'bf46f12d-3425-4fec-87f3-590521c62a4c', '8d20ed38-3e6e-4733-beaf-9a632c8591bb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '80a0cadc-59b8-4ac2-8db1-3e1afec165b0', 'bf46f12d-3425-4fec-87f3-590521c62a4c', '4accff2d-d435-42f8-9335-46faa3d6975a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '85a95c8b-7835-4805-a1d9-d955ef179ee6', 'bf46f12d-3425-4fec-87f3-590521c62a4c', '35aa68a0-35e6-4268-a272-89ace38a4f0f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6ad0cb5-76f0-49e1-9bc4-fbd4a5390382', '0dc66dd8-9eb2-4026-b090-b25c45f99506', '36187c51-6edc-4062-bdb6-6c09cac6dc22', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb525c7a-ec8d-4d67-b4c3-f94a8e8b0c0c', '0dc66dd8-9eb2-4026-b090-b25c45f99506', 'bc57798d-2df4-46ee-87af-5d0e26fc142d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a9f5c5ba-4c6f-4953-9fa7-0a521b475b9d', '0dc66dd8-9eb2-4026-b090-b25c45f99506', '2c298184-9836-4202-93af-af9c389a13e6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0deaaf33-eb3b-4694-8670-ac9000c1470c', '9c17368e-7c90-4050-b935-c7efb192ae20', 'd396b699-1df3-4405-bbca-db0b6cc8e683', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab9512ad-01e5-4463-80b1-426227a10fd5', '9c17368e-7c90-4050-b935-c7efb192ae20', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af0db75a-29d0-4ff6-a465-f10652b4c4ac', '9c17368e-7c90-4050-b935-c7efb192ae20', '70b2ba76-85db-402a-acc3-15a2518817b0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '13532e75-90d7-4fd5-9947-280b32125fb6', 'f0cf1d73-cdff-40d0-af43-7c1fa0fb398d', 'f3246397-36fc-49e1-9a4c-3e5c24cb5a76', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '67ba130b-2e96-4f74-be03-320aa46ce29f', '7742c3e2-7741-4597-9bce-46307d445a56', '58722f5e-e835-4b2f-b769-25d649d8c979', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f30e5a8a-259f-49f2-8431-d0362e535b04', '7742c3e2-7741-4597-9bce-46307d445a56', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ace1fe3-5f0d-47dc-8af1-33ed14bfa53b', '7742c3e2-7741-4597-9bce-46307d445a56', 'c37daf23-0363-4119-9179-71de03e1c751', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36d12cf5-2ec7-4755-82c1-d3674bcdcd85', '7742c3e2-7741-4597-9bce-46307d445a56', '34f8f1ec-61a5-4d38-90eb-8bf15a6f5f4c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f9e0eb96-523a-42d6-9036-9ae92a1e2c41', '7742c3e2-7741-4597-9bce-46307d445a56', 'afac821b-021a-4ded-b552-ab52d18f3777', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee790830-2dce-4a9b-8ded-75b09ec2e9c2', '60e37fc8-58cd-43a6-a828-622a13e80b9a', '597d69d5-a8c6-4b68-81df-71f61978bae6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e95003c-48c1-444f-9fc9-c7e8a4b4e33f', '7d2c6bd5-a035-4c28-88f5-277dc911d8ba', '1ad32f84-294f-49c3-b1b5-8e22727d30cc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c5a191f3-e0ee-4445-babc-dbd9ec5944ee', '7d2c6bd5-a035-4c28-88f5-277dc911d8ba', '8d1c8db8-506b-404d-ac41-8d1a25d1061f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd15933c-5ac3-4e0d-9e59-0ab0882f2bbc', '7d2c6bd5-a035-4c28-88f5-277dc911d8ba', 'db96f610-142e-4d7c-9b4b-4e8e2159681d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ecee2ba4-da46-4915-8ad6-0ee8ca138013', '7d2c6bd5-a035-4c28-88f5-277dc911d8ba', '9c720167-3295-4eb9-b038-7e97d690b30c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1dee5628-95ac-46cf-af71-f9a8f90a5406', '902eb131-dbe8-482d-9f81-2b3990fa5731', '4c9ce67f-4c33-4657-82a3-9aadea238a87', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6394fec3-4a3a-489e-909d-959730a8c35f', '902eb131-dbe8-482d-9f81-2b3990fa5731', 'cc4ef514-f438-4f31-9904-d5f4a756f620', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ab8d59b-98fb-44bf-8af6-9049b19395dd', '902eb131-dbe8-482d-9f81-2b3990fa5731', 'a30b8920-b3c8-470c-aaf4-9a1cfd931f40', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '456675eb-2aec-4367-b1d1-80f0b4a0b3dc', '902eb131-dbe8-482d-9f81-2b3990fa5731', '7464ab9f-cd70-4741-b8d9-12e31ebf599e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '595dd975-eafe-47bf-b51b-f8ad0d35a90f', '902eb131-dbe8-482d-9f81-2b3990fa5731', '0c2274e9-8d29-4046-affe-6046d4ab6e62', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ffcf4d91-66a1-44e9-9741-18f97e11b30d', 'cbe09a6a-76da-4cbf-86c3-e767f2368bb4', 'fd784dbf-f098-44ad-9ece-a8480c689e08', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0cefe014-d978-4788-947f-2289d8f3b513', '77cb16d9-702b-42ca-9c74-c6571605d3d1', '2a7a1d85-d810-4a7b-8f00-1552ea38df70', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fa30425-29bf-4865-94c7-a898eda115b8', '77cb16d9-702b-42ca-9c74-c6571605d3d1', '88d3d5f4-9d0b-4ecd-9bfe-5ce8f6daa53d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f27279b6-8aa2-4cf2-842a-d5985131747a', '77cb16d9-702b-42ca-9c74-c6571605d3d1', '17697376-7ee1-4718-9afc-9c7594768651', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0b738a2-517a-4823-ac1d-b11bdfb3c561', '77cb16d9-702b-42ca-9c74-c6571605d3d1', '14f85bfb-f7c2-4469-853c-3b4380849fe4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1123640-6c20-4278-8ba4-230e602262f5', '77cb16d9-702b-42ca-9c74-c6571605d3d1', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5fe8176-302b-4d76-8c1a-0b6b7a03a4d8', '75dc4dc6-dd7f-47b4-b675-13c4fca87230', '2d1efbb9-7a7a-4ca9-b766-4dcc8fffd32e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0708ff49-352d-435e-a0fb-963b515c42c5', '75dc4dc6-dd7f-47b4-b675-13c4fca87230', 'ff47d807-d82d-4085-8f02-9e82c1786b99', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a1a5c1e5-311d-41bf-be98-2ae15e62d1c5', '75dc4dc6-dd7f-47b4-b675-13c4fca87230', '0010f8ac-8ced-4ff2-9e9a-dcc1be27d332', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f6b7e6fb-efdd-4dff-9990-1bacc8dd0be0', '75dc4dc6-dd7f-47b4-b675-13c4fca87230', '48ddf878-2b13-416c-83e9-3df03f14e7a7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77fbeece-da20-4fd7-8d7f-04eaa1ae71cb', '75dc4dc6-dd7f-47b4-b675-13c4fca87230', 'cb34e36f-85f8-418c-880b-68e473bb3f05', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43876391-ce1f-4393-8b96-ee21a1d6527f', 'b19427a4-e095-490c-8183-8682e1e81178', '55c2e6e2-9a57-43f5-8c15-b9bdf9668162', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9691e281-11ef-492e-b549-a20f003ea922', '1a7c9b3a-a2fc-4583-a6e0-d238de05b5e1', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '118ddbdf-69fd-4d4b-bcae-379f51d96166', '1ce860db-7724-4138-a743-d33212b7f158', 'fd0bd4c1-41c0-4b68-ae6c-9018ff205943', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '976b8fa9-136d-40f6-baaa-663b0f855cd7', '1ce860db-7724-4138-a743-d33212b7f158', 'fb372a2a-594b-4815-afb1-edb36dc77da3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88acafb2-342e-401b-a1df-6642e989f833', '5f46c3be-21a3-4303-adbd-1c8df462693a', 'd1ccdf6c-9fb1-42a0-b80e-d203d6d79766', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f359f4d-b1bb-44c3-886c-576875a02103', '5f46c3be-21a3-4303-adbd-1c8df462693a', '6e7f34ed-2355-4192-8520-0cd377bf3178', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c31e56dd-86c0-4e10-ac0d-33c5fad8d1ff', '5f46c3be-21a3-4303-adbd-1c8df462693a', '5a199dda-1e90-4490-8502-add33d2a6f7a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a49d51c-87e5-41af-ac39-02836e41585f', '5f46c3be-21a3-4303-adbd-1c8df462693a', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4f99f885-22a5-4965-8453-2c9dac340f65', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', 'b0be56fb-ee74-45b2-8ef5-28188b7e61f8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4eef46f1-cb48-48c4-ac42-b6b2a0fec9f4', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', 'feb489b1-5d57-41cc-a636-cd2fadb3a906', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4bbe187-16a8-496b-9f21-563a57f95b01', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', '1aacd9ed-e2ca-448c-ab94-d78536cc1af3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '29ff623a-1b82-4b0e-b41d-3695f28101b6', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', 'e1f0df74-2db0-496b-8765-d23e7e61856c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c22a71f8-244e-4f84-ae71-89a77a69b861', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', 'a385c312-0a26-4c0c-86a7-bfe17068fa66', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a8e479e-ec6e-4c83-9049-c4aa30b07220', 'd2c138d6-18b7-46cb-a480-342aefc9dfa3', '3e80dc67-bb7a-4ba7-8eee-6f532a8e44b9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6515858b-1a6c-4fbd-9cd5-f5620318cac4', 'b1cff2ac-38ee-44d4-b779-4b79511facbc', '3f6afe65-5c6b-4105-8c88-99b8165603d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a5140e2-1bf3-4149-a852-c57d9dcd1c00', 'b1cff2ac-38ee-44d4-b779-4b79511facbc', '6bde9d7d-29e8-4a21-a89a-2c8e703aa445', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a16bb958-c45b-4bd2-a831-6fa763ff62ae', 'b1cff2ac-38ee-44d4-b779-4b79511facbc', '04a923a5-be91-410a-b1d9-10487dd6face', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21c88846-1a87-4832-86d2-0c4a7ddac7ba', 'b1cff2ac-38ee-44d4-b779-4b79511facbc', '309e0f9d-34f1-4040-bebe-ceed4c70c9c8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88de2ae5-e497-4250-8f5c-de417effb89a', 'b1cff2ac-38ee-44d4-b779-4b79511facbc', '004e163e-5b7b-486e-8368-53fe4110c44d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2240abe1-8c27-48fd-942e-54a82298f039', '4962f0a0-8894-40c5-9232-8376b97b929c', 'd396b699-1df3-4405-bbca-db0b6cc8e683', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d02df15-eb77-4a19-bbb2-1fd2200fa06a', '4962f0a0-8894-40c5-9232-8376b97b929c', 'bee8964e-69c5-4a27-b5b9-fb7d30b6b43f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '079b4bda-fef6-417f-adb3-c7a71e8dee7e', '4962f0a0-8894-40c5-9232-8376b97b929c', 'f81c1435-6d11-443f-aafd-59d5c772482e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '872ab207-2642-492e-817d-1951fdd61142', '4962f0a0-8894-40c5-9232-8376b97b929c', '49ac692b-2df9-4221-910a-cee1227ffb22', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec25d0bb-ec0f-40e5-8056-95fdf327f21b', 'dcaaad9b-9e4d-466a-83dc-c0ba50de5029', 'ed07dadc-082d-47a4-8768-94f9733d9126', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52fac445-a050-4fa8-84dc-cd8ae0772723', 'dcaaad9b-9e4d-466a-83dc-c0ba50de5029', '89af2d7f-3d96-4dea-89ab-360eb015d167', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52fa49a0-1b7a-49d2-888c-944b66d1eb72', 'dcaaad9b-9e4d-466a-83dc-c0ba50de5029', '8d4345cf-1b6f-49fc-b63c-ef90c0785cbc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5fa8170-4db3-4c4d-8fa9-8881fc6f185a', 'dcaaad9b-9e4d-466a-83dc-c0ba50de5029', '0a8b67f9-a4fe-4508-aa39-8e64a4b63b6d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e1aa4b1-99e5-4d87-88f0-1bc06529b70a', 'dcaaad9b-9e4d-466a-83dc-c0ba50de5029', '6a8e2a1e-1084-495c-9c26-8eee5eb4a134', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '437242ac-bbc8-4fb7-98ef-d61af0ec0c9c', '192e17b0-6735-476c-8bbf-9eeed5f14dec', '1d015fea-31df-42c6-973b-f90785f52972', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8a0ccf10-c053-4fa6-9a87-637ef57f8607', '192e17b0-6735-476c-8bbf-9eeed5f14dec', '792056e1-2ffb-44ce-82ad-2dbb803ff390', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d63c211-5c3b-4ef8-971d-c6c8dc1d9138', '192e17b0-6735-476c-8bbf-9eeed5f14dec', '13c05956-b96e-4cc0-b680-3869834d47a9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f4f6ae8-66e5-48b1-be30-d86a9608ad60', '6285d744-6b38-4ea7-a4b9-3964d9cb31ee', '758dd499-afba-4f81-8424-a7bfb3679a9f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c9420c44-287a-419a-9dda-133bde79b583', '6285d744-6b38-4ea7-a4b9-3964d9cb31ee', 'df5854a3-de05-404b-85be-d3496485e9d5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7b6fabb8-b943-4aa4-ab6d-c62a167ecf75', '520223a5-013f-4ff9-82ce-e806ffd84245', '0b71f8e0-e3e1-43a6-9d33-a87a2e08b47f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fbdf2575-4f58-4c69-9d26-d10bcfc97334', '520223a5-013f-4ff9-82ce-e806ffd84245', '477db028-694a-4546-a5f5-7fb5c97782c2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c30055ee-b59a-444f-8574-95ed88a2493f', '520223a5-013f-4ff9-82ce-e806ffd84245', '3905ffdd-8dfe-454a-b9dc-ef01b81750d5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8a56e76d-d21c-47c2-877e-7a74396f23a3', '520223a5-013f-4ff9-82ce-e806ffd84245', 'd6e040fd-e233-4792-be5b-e824ce9abb62', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cad8a70d-3a60-4eb4-893b-9b01546184bb', '520223a5-013f-4ff9-82ce-e806ffd84245', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51a1a62b-6c0d-4962-87ec-87f148b421e6', '0e17e1a0-b776-438f-9cff-041790d38130', '35466ad9-8105-42b8-840e-2e6fcb6b4d44', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f22c2745-2ce4-4dda-9dc1-75ad92b82715', '0e17e1a0-b776-438f-9cff-041790d38130', 'a0b391a3-b775-4ade-a403-621d0bc3b1b6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc115dc6-9526-4765-a180-198038e4a477', '0e17e1a0-b776-438f-9cff-041790d38130', 'f893637f-80a6-41f9-9fd9-dd73ac86c6c6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aa8050b5-9df0-4754-8a72-3d25714c252d', '0e17e1a0-b776-438f-9cff-041790d38130', '5f11a5ee-0e64-44e1-bbb5-33562f7b5ec5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '729d38a7-3425-481f-9414-95246cf3fcfe', '0e17e1a0-b776-438f-9cff-041790d38130', 'a30b8920-b3c8-470c-aaf4-9a1cfd931f40', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2906b00-bd16-4831-a41b-ccfe947d7bbf', '0e17e1a0-b776-438f-9cff-041790d38130', '70788350-dc58-4dd8-969f-7684159279d9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2074d071-f36d-415f-a57f-abd8d0e9b377', '91e38f24-7510-4ce9-9f5c-e4772ef88095', '76a9714f-7a32-4384-968d-9f478b31aa73', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63fb1426-d983-4856-8117-cfcba2945281', '91e38f24-7510-4ce9-9f5c-e4772ef88095', 'f872c558-b37b-4e7d-a8b0-4d56b0330602', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7192531-e4b9-455b-98cb-d50a0fe7b72b', '91e38f24-7510-4ce9-9f5c-e4772ef88095', '307c10c5-268a-41b6-847b-9eeeff56dcda', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b0d60cee-9381-43ad-9350-cdab1f89db1e', '91e38f24-7510-4ce9-9f5c-e4772ef88095', '76efdee8-4275-42d8-99bf-9d47082ecd1b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ffacbe2a-6ed6-4da4-b903-24ccab442fbc', '91e38f24-7510-4ce9-9f5c-e4772ef88095', 'a952c7bb-d160-4b3e-a901-03af3ee5efa7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '691d18b1-822a-4c18-9b1e-c91e570dedac', '2d87ce29-13ff-47e8-acdb-1d4b7cfa8e27', '4c9ce67f-4c33-4657-82a3-9aadea238a87', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21987c08-b29b-474a-bae3-e0d7bc338680', '2d87ce29-13ff-47e8-acdb-1d4b7cfa8e27', '6efaf3d1-78cc-4936-a0ef-06c1d6984a86', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f03f83ac-6a82-468d-8d9a-3a5d38ca2d1e', '2d87ce29-13ff-47e8-acdb-1d4b7cfa8e27', '79a17ec0-327d-4c2c-afc7-1fa0e8724d9c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71caba54-e7be-4fb1-91cc-1a5aa1c2a018', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5066f1b3-08a1-4a6f-b702-6df4dc9920a6', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', '803a6f4b-e30b-41e3-8dbe-a0f4607bb262', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8677d919-a5b3-4476-9443-1c2a58a1c6b0', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9ef7dea-cbf7-4209-b53a-c83276a15a26', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', 'ccae9821-14af-4f7e-a2fb-eb11c3b6b9e3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '434ba3a8-f47b-4cc0-b8ed-dbbda2f3efd9', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', '3e80dc67-bb7a-4ba7-8eee-6f532a8e44b9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5765c132-92e9-4bfe-b365-812e04000ee5', '535b3e9c-6f7c-4e8b-a820-198d7256fc87', 'e5ea7b16-1837-43eb-9fec-7446affd6040', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b59271a8-d11f-4db1-802d-b22c8a876dd2', '1738ea9e-084e-4d7c-8a54-344fd9401d02', 'b5917921-7c21-4360-8afe-d1b9d9a935ed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '85e9bf96-242c-4a5c-bea6-8ecb82286f70', '1738ea9e-084e-4d7c-8a54-344fd9401d02', '9f00dfc5-fcd4-44a7-9a0e-b43bd74dc0d1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0fce67a8-6566-464e-ab71-ee8a10f28aba', '1738ea9e-084e-4d7c-8a54-344fd9401d02', '068b4c61-0e16-4be2-824e-9dd5acb33682', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77add837-1d66-4e4b-8c69-4a491d8abcc1', '91b60d31-9d4a-48d9-aef2-ca7652f2cf90', 'ae5a7175-192d-4b04-9a43-9ce0fb4c81e7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '45b29ec6-0bbe-450b-b3e2-7c455f490cae', '91b60d31-9d4a-48d9-aef2-ca7652f2cf90', '6e92a54e-e5f0-4b9a-b437-eb407953a1ad', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1e5d8d4-3ea1-4fa1-80c7-3daf297b4da1', '91b60d31-9d4a-48d9-aef2-ca7652f2cf90', '6b46d3f9-268a-44ba-882a-254e29e857c1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b63dac6c-80bc-4a12-8e42-68a193900e2a', 'd0be0477-7dca-4f97-b644-4a49eef4519a', 'b70bf667-0b66-4fd7-a5ad-eb7113f718fa', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e15b140-4c04-4230-ba84-464fc79a3939', 'd0be0477-7dca-4f97-b644-4a49eef4519a', '7c80c86c-3dad-49c8-ab50-58571c898042', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b4c5fcb-3e23-4c76-8ce6-a77bc8a0b7c7', '31b1b73d-22c6-423f-9c2a-24fd5b4378fb', '059cd722-3069-4523-89dd-d801a059909c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '83465e0e-587d-409d-8a67-1700711630a9', 'e7329579-1804-4b4d-bff8-c70d36207126', 'dbed8eb1-0774-4c28-ad7b-ad9962e518e7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cfe034ca-546d-4a0f-a113-269b70b80526', 'e7329579-1804-4b4d-bff8-c70d36207126', 'cc4ef514-f438-4f31-9904-d5f4a756f620', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd460e167-ef29-4bb4-9670-ee2e4fa116fd', 'e7329579-1804-4b4d-bff8-c70d36207126', '7f18a34c-1207-4310-94a0-8ce38f23f508', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9e84eb0e-1811-471e-b953-5b09b3325fb5', 'e7329579-1804-4b4d-bff8-c70d36207126', 'd8292bb1-1828-4d9b-ad1b-5bcf1624e8d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31033cc1-f18a-4b5c-a8c4-f6ca56784c9c', 'e7329579-1804-4b4d-bff8-c70d36207126', 'fa3702b7-a708-422d-9f2b-9832006af8e3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c13d29d3-fbf9-434d-8b30-a0b547111afa', 'e7329579-1804-4b4d-bff8-c70d36207126', '8ff577f7-6463-4207-a371-004f9ddc57f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '418fcb86-c2fb-4aa8-b52b-120043f4965b', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d7db8ae-0b13-45f4-b0b3-85767ede11eb', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '88e45452-d27d-4fd9-a9d9-7fe580c94602', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1603e8d-33e3-4330-aa77-15d3795ab55a', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '2a185ebb-9ae0-4f36-91e9-f8054b7ed32a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a998da52-5006-473c-a741-c4683d2aa18e', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '3f55507b-7916-4254-9fef-65767ad04c2f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '89bb133b-de75-482a-a468-68663b60119e', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '609ab455-ec7f-4155-9b06-1b44ed909cdc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '11f2fcc7-e211-4d8b-868a-b595cff18567', 'bf271c94-f56a-4240-ba6b-b0f426cd7953', '80193932-5d46-4131-ba46-39d94cfbbe95', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4271169a-600d-43b4-b008-df23fd27e673', '63ce2d1e-391a-416c-85df-20ee609093c2', '4ebb8dab-b6d0-42a8-a35a-434d58e956a5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd17f0b56-160d-42f4-8719-b591c7d140da', '63ce2d1e-391a-416c-85df-20ee609093c2', '3e2652e1-cb99-4f61-b473-75affbac1b98', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b87e639e-43a4-4d0b-a3bb-61b9c18b5438', '63ce2d1e-391a-416c-85df-20ee609093c2', '91c5a706-c994-4370-af51-031026d06f19', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9cc4133-51f5-4a89-ae9b-c748e10bbcb7', '63ce2d1e-391a-416c-85df-20ee609093c2', '282d469d-bf99-4b3d-9529-956eb5389d07', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc09b16b-235a-43fa-b802-f16c6595dbe4', '63ce2d1e-391a-416c-85df-20ee609093c2', 'afac821b-021a-4ded-b552-ab52d18f3777', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b5752b89-6f5e-4a34-9c46-533e2e2fa234', 'cedf7839-010c-4ba3-92a9-b4df8298a19d', '89af2d7f-3d96-4dea-89ab-360eb015d167', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3718b7dd-544f-4f90-8933-a3ee52fd9aab', 'cedf7839-010c-4ba3-92a9-b4df8298a19d', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '896f2d92-2d31-45cd-a7b0-874212880234', '0f6c2fe3-9285-4ace-a2a8-b1d668ad80d4', 'fbde9fab-c2a4-43dc-b41e-1034886c95fd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a5bfbce-63c6-4e9c-8d68-8ea936d76b26', '0f6c2fe3-9285-4ace-a2a8-b1d668ad80d4', 'a10d454f-7171-4d3f-bc4f-ae5affc0c374', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2bc1e7e-76e4-42a8-af1c-3ac9da888a81', '0f6c2fe3-9285-4ace-a2a8-b1d668ad80d4', '21a45a26-a909-4b3c-8011-399bed88b276', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c097b6b8-a444-4ef6-8cf9-78577572dc1c', '0f6c2fe3-9285-4ace-a2a8-b1d668ad80d4', '0f4ed965-22cd-4d7e-96ba-780ecbb69bf1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a72ca88e-2d2f-4194-aaa2-695113559fd6', 'ecfc8984-6ff8-402a-be70-0e974731f0ce', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b0d4797f-e7f3-4838-ab51-39c49918c150', 'ecfc8984-6ff8-402a-be70-0e974731f0ce', '7464ab9f-cd70-4741-b8d9-12e31ebf599e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6eb4f85-f65d-475e-8e40-65e506d71778', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', 'cb34e36f-85f8-418c-880b-68e473bb3f05', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06abced9-c8d8-4584-9a7e-d7daba0e7d76', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', 'de168f86-9631-482b-b894-a074dae1fd26', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b09f41a4-d64e-42bd-add4-8da01b401864', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', '5f4a7eaf-c105-4a62-bb21-899e2f384927', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '418a7d86-fb0c-46dc-b6de-3e4db4c9aeca', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', '75b999e5-0db2-4ac6-8000-33685d24e1c9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '260f9f36-29ce-4cef-8054-7297ee35a0e7', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', 'b5917921-7c21-4360-8afe-d1b9d9a935ed', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e4d4278-61c6-4c50-bfc4-aee3b495dc91', 'ac857ab7-74c6-458c-8e10-470d0cf0ac46', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2c83f695-7925-4a12-a05b-335e12997cd3', '8c110f92-4515-4e2b-be1d-c9cfc07c5c8e', '4e98e1c3-0a21-4725-8f9b-414522a60bea', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b3519be-75ba-43f4-a366-3f799b4f510d', 'b135d976-1be1-4f54-89a9-5d8ae4f3adc1', '307c10c5-268a-41b6-847b-9eeeff56dcda', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4adf05e1-c0ba-45ab-a527-4afd84a55a61', 'b135d976-1be1-4f54-89a9-5d8ae4f3adc1', 'cece20db-225b-4839-8bc1-909b13552db6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f8fd75c-0756-4a4b-9216-57a65465f491', '635aadf3-a23f-43f2-b548-7b730335da3e', '1315eb53-cb37-4b2a-93dc-da9922df0a2c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '510ff659-f63e-491b-b6ad-1d391b083ce0', '635aadf3-a23f-43f2-b548-7b730335da3e', 'be06fd03-469f-48d3-b0ba-759238cd79ef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9aef320e-08bb-4931-8f74-b806ceb1e487', '635aadf3-a23f-43f2-b548-7b730335da3e', '2750bfb7-2217-4219-a574-76c4c6c3e689', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '461ff48a-d424-4282-9f2b-69b2904be467', 'bfdf3b63-10a4-40f2-883b-dd608efebfda', 'dba9c458-15ce-4adf-94ec-8202ae4cc442', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cce1e225-f337-469d-9e07-8f60bc7f4483', 'bfdf3b63-10a4-40f2-883b-dd608efebfda', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '837a27f6-03e7-4795-96cd-999f2a7ffe6e', '95f522a8-ddde-4218-bd79-a7e25c029b14', 'b15c828e-97ac-420d-a5bb-885ffbbccbd6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2df4c11b-a7dc-4390-a2f3-5d7ea532a431', '95f522a8-ddde-4218-bd79-a7e25c029b14', 'd6f94d6c-7c35-448c-b7fd-3b6437bcbb6f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7376da55-c460-4d42-a7a1-4b96299aff84', '95f522a8-ddde-4218-bd79-a7e25c029b14', '307c10c5-268a-41b6-847b-9eeeff56dcda', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c7f31a3c-c75e-4389-9198-f122728d4de6', '95f522a8-ddde-4218-bd79-a7e25c029b14', '237a8f6d-ef0e-44ac-b0eb-aef587f4c04f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44e12d64-097a-4337-b930-87373c85538f', '95f522a8-ddde-4218-bd79-a7e25c029b14', '175937c7-477f-4901-bbea-365c73de0062', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc5f53ee-9aea-4c71-83e9-293731b4c236', 'f43a55c9-ecb6-40ed-8166-77c271b8ad57', '3944b4d5-988d-42b0-9660-ea1d2013045e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1738d94b-2e92-4779-82d0-8c3861701a41', '92536232-c94a-4712-8a59-d63d65e6c4f8', 'f1e8cb70-7df2-4bc8-ae98-3ecdf44ce09e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc7abed3-0e0a-4006-af11-82243e7726ac', '92536232-c94a-4712-8a59-d63d65e6c4f8', '9088da5b-59b7-4f73-b605-57e3fa16de81', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34f0c7ad-bbe3-4eed-aa87-717dfb7e8462', '92536232-c94a-4712-8a59-d63d65e6c4f8', '1315eb53-cb37-4b2a-93dc-da9922df0a2c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '79a290dd-66f6-438b-ac1d-20882c69069d', '92536232-c94a-4712-8a59-d63d65e6c4f8', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4d1d420a-d92f-4890-8d84-642937394639', '92536232-c94a-4712-8a59-d63d65e6c4f8', 'd43dccb3-3fad-42c1-91df-a864c0101afc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7bfd0890-32f7-41f7-bfc6-97b17811c8ca', '92536232-c94a-4712-8a59-d63d65e6c4f8', 'f8ca9956-3d61-4c76-bbb0-f441bf2f286e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b8ebbe9-6221-4951-b2ee-7dd5bca6b6b1', '1bf52b5d-cce8-4532-ba85-ffc199e7220e', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '901dfc1b-5c93-4d48-8634-9079e140cc2b', 'b7a8fd27-f329-4538-841a-7e339608be33', 'f95da8b1-d12a-4255-8f97-36fd96217310', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce251398-b3cc-4fe4-9e8e-d9d02ae89fb5', 'b7a8fd27-f329-4538-841a-7e339608be33', '4375fe02-a93b-4b98-a140-e1b1382be199', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '233783d9-e7f4-4f64-aace-a353267a1fef', 'b7a8fd27-f329-4538-841a-7e339608be33', '604b83d6-8d38-4a94-b62d-00b33f757d9b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fb6028d-3c59-470a-bb5d-96f488529b02', 'b7a8fd27-f329-4538-841a-7e339608be33', '792056e1-2ffb-44ce-82ad-2dbb803ff390', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df007dc7-5a2a-4bcd-ae82-28de9741fc42', 'e2452ad2-945d-4903-91d2-eb58d601d61a', '1173c2cb-1a20-4b34-aa05-037d950c379f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'da098620-d0e2-4a85-b16a-024500d63e82', 'e2452ad2-945d-4903-91d2-eb58d601d61a', '389e8562-0f60-4aa9-8a0a-24a676d327f6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eee70fd6-51fd-45dd-978f-9f8a43aaab3d', 'e2452ad2-945d-4903-91d2-eb58d601d61a', '604b83d6-8d38-4a94-b62d-00b33f757d9b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb064dff-c89f-4576-a194-f79f603b508d', 'e2452ad2-945d-4903-91d2-eb58d601d61a', 'baa4a034-00c9-4890-bbe7-335c0dc91400', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a79ea3e0-1607-4779-bbc1-947061ae06a9', 'e2452ad2-945d-4903-91d2-eb58d601d61a', 'd9715fec-8106-4b10-aa87-54df24f321dd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e8e0d533-0e44-460b-8c97-6059f2076b8e', 'f80e8f20-de40-4bdd-ad5a-8dcf7ec7f733', 'ab39aa88-3735-4ac3-9cfe-b2e2a432e509', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71f8972c-5d77-4f67-8842-5a68ecf73d48', 'f80e8f20-de40-4bdd-ad5a-8dcf7ec7f733', '58722f5e-e835-4b2f-b769-25d649d8c979', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f04cfc16-b355-48d6-b680-171dec4bcfb7', 'f80e8f20-de40-4bdd-ad5a-8dcf7ec7f733', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f90b1b8-379e-47a4-913a-0bc2e82d5cba', 'f80e8f20-de40-4bdd-ad5a-8dcf7ec7f733', 'b70bf667-0b66-4fd7-a5ad-eb7113f718fa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8e66c21-a45d-485d-bc7f-d4d74ef4d63f', 'c518f65a-f2e0-47d9-84fe-0e10b57f8b19', '886755b2-c253-4d71-9513-e366a5f4d3f8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a361c3e-00a4-456a-8387-8ac417216ea5', '3851ab12-3ce5-4397-a074-40125e69b987', '80193932-5d46-4131-ba46-39d94cfbbe95', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77f8eb63-4823-4cdc-a66e-43b35b7e5123', '3851ab12-3ce5-4397-a074-40125e69b987', '88e45452-d27d-4fd9-a9d9-7fe580c94602', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f71a4984-e04e-498a-86d3-94bbb7e571b3', '3851ab12-3ce5-4397-a074-40125e69b987', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f5f2f8e1-872d-4690-8b47-fed632d00e8a', '3851ab12-3ce5-4397-a074-40125e69b987', 'b1cbcbb3-c064-4941-b686-ab9626bde810', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2b28e014-ce3c-4fc0-b2af-ff3765c1a3c6', '295a383c-90dd-424f-b734-7cfdb8954860', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd019dfc-5511-4aea-8caf-3857ce68608b', '295a383c-90dd-424f-b734-7cfdb8954860', 'ace6b1ba-e979-41aa-b070-2fcb93531c15', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1a4fc5f-b177-48f9-b750-9eda8c1ad62b', '295a383c-90dd-424f-b734-7cfdb8954860', 'e0cf806f-ef3f-4b70-a5dd-b9b0b3c21d22', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb363986-8fe1-45c6-a4f8-521035783599', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', 'e1e63d17-aa8f-4eca-884f-94af4f81e269', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e56a4d26-9f18-4a1f-b7a6-d48c3b351c87', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', '7d66c19f-575a-4e4c-ad89-776f802c4c62', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07e165e0-7c03-48cd-aef7-40b0067de665', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', 'aec1f4fa-7b45-465d-a509-1758afe64800', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e46e2a8-32fd-4ef0-aff4-1ede2bc5fbf3', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', 'dace4477-5de0-492f-ae01-464457049bac', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6ebe0bf5-edf0-4a9f-8013-23533496ed67', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '20369020-1916-4bd0-94f3-0f5caeb8ca41', '4cbf52cb-a9c6-4cf5-b678-36b7cc55c3e8', '25283adb-4cca-4204-8c2a-50ddd0b4721f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '22e6c120-165c-4360-a7c7-99fc37a937df', '847e77ff-9d25-40bd-8c43-d5f50bf4f2ca', '0a8b67f9-a4fe-4508-aa39-8e64a4b63b6d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2534ea84-3570-4a4f-bbb7-facfeec31952', 'd65c3473-ee4f-4c61-956e-c786db782526', 'a12348ce-e39a-484d-8a8e-d9b9534ec322', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '033e0a85-0b71-4189-9bca-e6a8b14ac199', 'd65c3473-ee4f-4c61-956e-c786db782526', 'a30496c5-4df9-4e83-97e4-173e04ac3417', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5fe3493c-91c6-446a-8ab2-aeaaf28aff49', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', 'cd082850-c5ed-4baa-8702-67d6466400ee', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc282271-789e-44e0-af0f-00e80b5979ce', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', 'c73f44a3-ded9-485c-854d-2e1bb4718c8f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3fd8e947-173e-4661-a6d4-d53a1a8c8f51', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '223115f8-2a99-471e-8680-633d1d7f6e02', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e01f7c27-2448-40bf-89cc-22b2e1618001', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', '7a9883bc-0e30-45f9-84c9-bca818a0d557', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28a5222e-7935-47ed-b2ed-557dc95544aa', 'f19d3a8e-f903-40df-b7e8-4cc6ca1bdd16', '9df550a9-e885-40d8-8380-28f787934c71', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd9a47259-baa2-4860-b96e-5aa6eee01c82', 'b96975ee-778d-42f3-8b26-c84c6694edfc', '568b5723-383b-4367-bb62-a754012c2ff7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '249b40b9-333e-46ff-912d-572eb0d7a386', 'b96975ee-778d-42f3-8b26-c84c6694edfc', '98e291c6-a267-4fbd-9ae5-704734886aaa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ad155a2-6b0e-46f3-b3db-eb4d24dd52bf', 'c6688fa4-0c4b-419f-83b3-e9e4cc61ebab', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3c89d294-81b6-455a-8b6a-ace374f2a4ad', 'c6688fa4-0c4b-419f-83b3-e9e4cc61ebab', '1065f0d8-bff3-41cf-8cb9-4fb6077a96de', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '82ff9fe5-217c-4528-9a09-82b6ecfe7233', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', '5b0e60af-a249-40cc-b7a1-1e552b535545', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe9165da-d417-476f-9ca4-1f80430958a5', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', '5bd27a19-7d02-442a-960c-ec86d467aedb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25cee74c-e008-411c-bbc3-633b96e66433', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', 'fd0bd4c1-41c0-4b68-ae6c-9018ff205943', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba950194-4ede-433c-af87-81c665998e0e', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', '5ea49cb5-7e76-4352-a854-24acbb35776e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed1ced16-728d-4d00-91cc-1096479f3842', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', '17b7e560-fe03-44a9-9188-d866867ae501', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '797c34c4-d98a-47e8-84ad-a31e5a0f195d', '2bb31632-ddd7-40e4-8fac-bee81cf09d07', 'ff47d807-d82d-4085-8f02-9e82c1786b99', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b848b778-2ebb-4f4e-8449-f47ca2546e9d', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', '00e009aa-f79b-4481-9d8c-8bf4b77e1bad', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '035b2ebb-41de-475c-983c-0df1426dec31', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', '12883bca-a306-445f-9f1d-97127b8590ef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '86b48917-68ed-4b6d-a3e5-c64a008bf844', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', '326e3f17-668c-48e5-9b60-c3a9ad218784', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0ce21ea-01af-4de4-9b72-d5147c420f1a', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', 'a30e0288-2e37-43fd-abec-248899a86cbf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '78252968-83c2-498c-a48f-5058c7a53bfc', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', '1bcf439e-b03b-4a87-97c1-ca0150d2f07c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '815467ea-cd45-4842-aa69-b81196d9c21b', '6b52543d-f6c3-401b-a6e9-0af1c9934d17', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '798134c7-4abe-46f8-b41d-8dc2c642449f', 'f98a613b-d0f5-4fbe-81a3-6201a8a3535b', 'f893a4ab-7dc7-4356-a15d-cbf5aaf0021b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5a0e7c7-09cb-495a-896a-2ae9669bbc1c', 'f98a613b-d0f5-4fbe-81a3-6201a8a3535b', 'e862d6fa-fb66-42ce-9788-a47119350b61', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a14fcde6-0e61-414b-b7e2-b3ea7124ecd3', '5371f18e-5fab-451d-b876-72fda2f4539b', '6e92a54e-e5f0-4b9a-b437-eb407953a1ad', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd9bc66fd-91f4-451a-ab8d-bc18cb57a42d', '25d946b0-768d-4cd8-b922-760a396716a9', '830c4859-9968-4816-870e-f7f50dc88224', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf0b6be3-4abf-48e8-b19d-67f5bd71838c', '25d946b0-768d-4cd8-b922-760a396716a9', 'a54620b9-d27f-473f-9173-0a15459bf8b5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2af7e994-4b42-4617-a15f-965b108e4235', '25d946b0-768d-4cd8-b922-760a396716a9', '09586172-a929-4f1a-9d30-987216e63c8a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7653c34-17e5-430d-b993-8001c32c6f65', 'ea9ee6d0-d787-4c8f-ab99-8352453a3a6a', '60d1c8ce-550c-42a6-a43d-a367bb1c72c0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '817bd228-def9-4ef3-b5bc-ff7cf78ef501', 'ea9ee6d0-d787-4c8f-ab99-8352453a3a6a', 'e900d6c4-80da-467e-a53c-70bda130538e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6daa4de6-44af-418d-9344-ee8adeb282f6', '9d669391-6243-4590-bc7f-8fe77803d7bf', '7d9a3a11-ee00-482a-a108-bcda66912fce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c52f0071-18bc-4b2f-87d4-d04302fc6aa8', '9d669391-6243-4590-bc7f-8fe77803d7bf', '4a8d84bf-ab25-4459-8b8d-fb89a2196a31', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b619cc68-8643-4f5c-a0ac-8c2f9c4f729c', '9d669391-6243-4590-bc7f-8fe77803d7bf', '3b441c71-6156-48d0-9931-a0d3e6ae3392', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ea7ffa68-1e5e-4c36-950a-076f87adf747', '644ccc08-946d-4f22-8675-c39b15f51b5f', '597d69d5-a8c6-4b68-81df-71f61978bae6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '95c070ab-ea97-4be8-947c-4399af98ea8a', '10b102b0-1f14-49c4-a91f-24c3adb4a366', '83ead427-df06-4a53-a873-219f272c394c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff418cc6-eadd-4d0c-b476-463696beb5e6', '10b102b0-1f14-49c4-a91f-24c3adb4a366', '86965d74-453b-470c-8d90-e7bd57232ee9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc1e0690-c459-4283-b75a-a66946d22959', '10b102b0-1f14-49c4-a91f-24c3adb4a366', 'e8ddcc25-d210-4c6f-820e-1a2ab72ae749', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6fa2c50-3e12-4331-a081-d04a1ad227b1', '10b102b0-1f14-49c4-a91f-24c3adb4a366', 'f76224be-3da3-42c2-98e2-ac97cbdb8efd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b457823-1ae6-4183-9830-d72f817cbeaf', '10b102b0-1f14-49c4-a91f-24c3adb4a366', '4a8d84bf-ab25-4459-8b8d-fb89a2196a31', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '73e7c05e-72b3-44bc-b351-a8101c585145', 'c5672298-8c63-42b7-b658-b4275241ebf2', '61a5f01e-a7ed-498a-9901-b406f38f9ccb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba2acd5f-016c-434c-9711-d4734cd200d7', 'c5672298-8c63-42b7-b658-b4275241ebf2', '8d985cb7-1d42-48b5-b238-6e843f9089fe', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '553fd79b-181c-441a-b8d3-d742f17ce460', 'c5672298-8c63-42b7-b658-b4275241ebf2', '094a3fdd-cf67-47fc-a83d-996e75010e13', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f75da7c-e130-4f18-8457-62be35537f97', '5943571d-a15a-42fd-a587-e67e820354c3', '4d254302-736b-4c9e-bd77-4d3036856570', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '126173ef-5c44-4200-acff-810429f114a2', '5943571d-a15a-42fd-a587-e67e820354c3', '77a27af2-a19f-42d9-86a2-c5ad800e5bff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '38b367b9-830f-46bd-872d-cd93962ee90e', '5943571d-a15a-42fd-a587-e67e820354c3', '480686ef-424d-46b7-9a22-5225d05581dc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '22e578ad-f54d-452b-a22d-c4ef9bbd75df', '5943571d-a15a-42fd-a587-e67e820354c3', '2a7a1d85-d810-4a7b-8f00-1552ea38df70', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '74732b54-38d2-4e62-b040-61c72ce00b09', '5943571d-a15a-42fd-a587-e67e820354c3', 'a96b7998-30fe-4bd8-b6d9-fb67e2d9e9d9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '323660b1-0a01-4516-ad17-7e781b33b0cc', 'afad694e-fe4d-4f08-bc33-463475a2eaa5', '8ff577f7-6463-4207-a371-004f9ddc57f7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b50d7f7-ac93-426a-893c-dcbb2b3a6839', 'afad694e-fe4d-4f08-bc33-463475a2eaa5', 'cd082850-c5ed-4baa-8702-67d6466400ee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b17fb476-d255-4ca2-9674-0d27a386cb89', 'c364a837-05a7-4235-8da8-032bf0ebdb65', 'd55af6bf-30da-4d0d-a736-316948bf541f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1cc8aa18-22f3-4845-968e-e1f206f51916', 'c364a837-05a7-4235-8da8-032bf0ebdb65', '237a8f6d-ef0e-44ac-b0eb-aef587f4c04f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '99529cc5-ff85-44da-ab49-5fc2b1945fa4', 'c364a837-05a7-4235-8da8-032bf0ebdb65', 'f347be98-7311-419f-9368-fc9c3bcda993', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ecbc59c-878b-4497-a03a-a0601d1b348d', 'c364a837-05a7-4235-8da8-032bf0ebdb65', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '03fe8c98-aff8-4e18-b976-7da82d08f2f6', 'c364a837-05a7-4235-8da8-032bf0ebdb65', '1568c6f9-a8bb-464f-8d6a-17851ee7022a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8c79ff1-ee71-4670-a185-36824e6bdda7', '187a05dd-adc3-43df-a327-9021266e5cfb', '6e40a324-86af-4b6f-a713-ab0cc5998b51', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '371b8545-108f-425d-a5ad-8bcb7c00ecff', '187a05dd-adc3-43df-a327-9021266e5cfb', 'a0b391a3-b775-4ade-a403-621d0bc3b1b6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '760889ad-fb4d-4308-8a20-c8fbe44c5388', '9664a7bb-b9c2-4bff-a1d3-23143f4fa180', '81aa80db-200a-453a-befe-5af4185195bc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '46a5a0c1-2fbb-4452-af8e-78f2a8437518', '9664a7bb-b9c2-4bff-a1d3-23143f4fa180', 'b778e810-da76-4d18-a57f-e050006ab51e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3afe02b-84e9-4c65-8dd4-6f0eaff55d4b', '9664a7bb-b9c2-4bff-a1d3-23143f4fa180', 'd2cd2b37-3296-4997-a3fc-11c36d4da52d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17241217-ec77-4551-a108-21ddf33bb766', '9664a7bb-b9c2-4bff-a1d3-23143f4fa180', 'bee8964e-69c5-4a27-b5b9-fb7d30b6b43f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd772609b-fc2e-4846-b373-d168cce21470', '9664a7bb-b9c2-4bff-a1d3-23143f4fa180', '1ad32f84-294f-49c3-b1b5-8e22727d30cc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c605948-0cfc-4e2c-94ba-bb7f2e3e03a9', '6a02a463-45f2-426d-9606-e09c00d71b38', '3944b4d5-988d-42b0-9660-ea1d2013045e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c6766db-2ff0-477f-b023-3bd4d8ed5abc', '6a02a463-45f2-426d-9606-e09c00d71b38', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0118cc29-a96a-4c4d-901c-8b6a16b149c4', '81a65d63-fcab-4abe-af2b-d80bfc41ef46', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd59883ba-dd71-472a-af3e-b82a843c5bc1', '81a65d63-fcab-4abe-af2b-d80bfc41ef46', '597d69d5-a8c6-4b68-81df-71f61978bae6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '05d3bd30-2a8a-410f-a495-1d1bce92464c', '992343d7-c79b-43ba-8ab9-0df5802cac37', 'aaf048b7-303e-4f0c-bb3d-6b08d0a399ce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '388e025a-86dc-4bdc-ba97-cf6c2a9ceb46', '992343d7-c79b-43ba-8ab9-0df5802cac37', '442573a3-ae08-4f32-bb59-e9be6c283e57', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43437042-3672-4aba-acaa-314867ce2b10', '992343d7-c79b-43ba-8ab9-0df5802cac37', '8c363725-27cb-431a-a4ea-ff9cab9dc661', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'adcbb177-598e-46b8-9fbb-135fa0be48bb', '86df1a94-c880-415c-81c2-7dd557e65495', '5e204116-1ede-49e6-9bcd-e8913913dfa7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '787e2f41-3357-4a2a-a939-1134ab423a65', '86df1a94-c880-415c-81c2-7dd557e65495', '43af3018-d41a-429e-b60b-fa2336854a70', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aabb740f-defb-40c6-b042-71c94549dae5', '86df1a94-c880-415c-81c2-7dd557e65495', '01ebc779-045f-4aaf-aa37-8641ceb27814', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6b9e550-aa91-4525-ab41-0df86e665a14', '86df1a94-c880-415c-81c2-7dd557e65495', 'cc3b7984-5cd5-49d0-9258-6befebba62d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c2589da7-18bf-47ef-ac80-adff8a774731', '86df1a94-c880-415c-81c2-7dd557e65495', '880f623f-bf0d-4a16-b8b0-4b2e0d1bc197', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9457e77a-1749-43da-a88f-0b632e67c02f', 'e84cc2e0-958d-4cb9-b0d4-f7056ea051ce', '64fd095c-ce62-4bc3-8cee-51e74338d985', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f05037fd-264f-4cab-8974-e2ead3b87bcb', 'e84cc2e0-958d-4cb9-b0d4-f7056ea051ce', '17697376-7ee1-4718-9afc-9c7594768651', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98c403d2-7cca-4872-8df1-f12b0ca50e64', 'e84cc2e0-958d-4cb9-b0d4-f7056ea051ce', 'be06fd03-469f-48d3-b0ba-759238cd79ef', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb12eb40-5476-423e-870a-e5610e517142', '82844e4a-dd3b-495e-884d-99ba49c0191e', '3d93eac5-ade4-4aeb-bec3-d227b1bd3550', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '609ec080-1ef8-4669-9904-57fb5a5e8307', '82844e4a-dd3b-495e-884d-99ba49c0191e', '4fbad14f-573a-43f7-b420-d32c2c371732', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1016ce7c-a2f8-49bd-9eb5-deaa2285c36e', '3d7ddb0a-1ea8-4db3-ae95-ddf15156181f', '56b4129a-3ff4-480c-8dfc-1c3a1c4701f5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '303878e0-4984-4ad7-9fb4-aa2cb205690a', '3d7ddb0a-1ea8-4db3-ae95-ddf15156181f', '68c9c359-aeb4-4526-91a5-c9f914869793', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e89d594e-5296-41fc-881e-4891314bca83', '3d7ddb0a-1ea8-4db3-ae95-ddf15156181f', '758dd499-afba-4f81-8424-a7bfb3679a9f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e549c3c-17ad-4841-8870-d33117c1009b', 'a78b555e-8e95-4089-995c-81c5e4f8d43b', '60ffc5e7-2f17-413c-9a2e-14bbb4b554a1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d6b5867-07f0-4216-8848-e021a2942295', 'c7755ae7-1571-4a84-a6cc-3d1bc12ebeb1', 'd7ea6948-a1bd-42ef-8423-844b5f686462', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ed3607d-6795-4237-950c-80499ded3f31', 'c7755ae7-1571-4a84-a6cc-3d1bc12ebeb1', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '67b5927b-8e38-41de-b2ed-35eb05601d22', 'c7755ae7-1571-4a84-a6cc-3d1bc12ebeb1', '8c73e5b6-11fb-419b-a319-1868d8cb89aa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2ff91e8-c9c3-4104-acc6-ccae99daaa80', 'c7755ae7-1571-4a84-a6cc-3d1bc12ebeb1', '83ead427-df06-4a53-a873-219f272c394c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c31eec0d-0a68-490b-978d-14d081defa10', 'c7755ae7-1571-4a84-a6cc-3d1bc12ebeb1', '6734afeb-f0e2-421e-8478-41619c0f2f24', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7d0b8b53-e5c7-4d02-b890-81b002efcc73', '4ddc8d61-9eb7-4933-bd8e-55543265dfda', '6a8e2a1e-1084-495c-9c26-8eee5eb4a134', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8c2159c-0292-45a5-90eb-6ebe641a8e34', '4ddc8d61-9eb7-4933-bd8e-55543265dfda', 'adf20b81-dd4f-42de-a6f6-dc0caa96ebce', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '705e1bf1-6cf5-495c-9acb-b295f7ab134e', '4ddc8d61-9eb7-4933-bd8e-55543265dfda', '6d521b89-7a5c-4321-914c-109ad65203a4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a26432e9-ba96-4c4a-9907-5af1d6c872fe', '4ddc8d61-9eb7-4933-bd8e-55543265dfda', '3d93eac5-ade4-4aeb-bec3-d227b1bd3550', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b3b914d2-6a33-401f-95ec-3cb161ef55eb', '50d26289-b405-4d9e-b954-712bf643118f', 'f65cfcef-de16-40fd-b880-e4ded6fbe1a2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '530b673c-acc6-43f3-a9c9-ef718150b736', '50d26289-b405-4d9e-b954-712bf643118f', 'fddf3bfd-3c3c-4a3b-a1e7-5b340e48c198', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cb59a78-aec1-4d19-b9bd-a2d1d9ece3b7', '50d26289-b405-4d9e-b954-712bf643118f', '5e4b1d8d-8b57-4dfd-9605-33b8d2c63009', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '897cc41a-5059-4c3f-8d7f-ca4e349826cf', '50d26289-b405-4d9e-b954-712bf643118f', 'da3d903f-18c1-4250-a1ec-996ca81af877', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '452f29e8-034c-46ba-8817-6c6836f1f8ec', '50d26289-b405-4d9e-b954-712bf643118f', '5678af82-fe08-4db6-b3c2-3e6f8340da74', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c06f8cf9-730e-4b75-be9b-806c56217b0b', 'e896a1ed-4228-4e1e-84b5-705e7a5d992b', 'c6069f56-4402-4b7d-899e-b201812fcf9c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd5dc4811-60ba-4172-9384-414bbd946a40', 'e896a1ed-4228-4e1e-84b5-705e7a5d992b', 'b9452a66-af66-4696-8d47-da1d3b10a790', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce93e5be-2eb1-490d-8607-5a1c39f82676', 'e896a1ed-4228-4e1e-84b5-705e7a5d992b', '55336b12-8a45-49e6-9ecf-080a7fca92de', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd65645e8-f5a3-4196-bfd2-f36a4e75b228', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', '0d9bbc4e-7f49-42b4-aa3d-2743d47482f4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54e55354-74c7-45f9-b214-f90eaac46742', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', '7ece6d8a-3f5f-4eb6-a6fa-12189670958c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd13abe59-4c91-4b0d-b884-6355ba9871a7', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', '31f4a8ab-7922-422f-92cf-73d0eaea13a3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4e8ff403-3f6e-42e6-9916-c66e5429ce73', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', '5a199dda-1e90-4490-8502-add33d2a6f7a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'feb2bf33-5d49-4632-9975-c88e9717bd23', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', 'f893637f-80a6-41f9-9fd9-dd73ac86c6c6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb23b1ab-0b0d-4ec7-8095-a96a2c19e69c', 'e3d1baa6-b17b-4074-9633-7df04e0393a3', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b7a4f44-a570-489b-96d6-a5e510b3785a', 'fe05a69c-858f-438d-820e-485a5dceafbd', 'f9770d92-92eb-4ee6-802c-aae4b2e7bb2a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8481eb7b-3562-46d5-b91e-e02c6f84a67a', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', '6ebe8812-fed0-4b95-b129-32275583f40d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f9196d3-789c-4312-a880-3503d5f791a0', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', 'd97089ef-5da5-4f8d-8bed-bd500184201f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8ed75fda-59cd-4728-b0c0-2659c6252d32', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'edc43fc1-126b-450f-a45b-d6d28d57c044', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', '6800ec1e-1e88-45f5-8aac-f384b277db7f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '723e4697-cb21-4b0f-a23d-d03f67061dee', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', 'bfbb30ea-d21b-400f-920e-538b7256a116', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4cd4caa3-3321-47f8-b541-8fd8c75f8e99', 'dfcbc78d-c1df-49b6-80fa-6720ac3b1224', 'd659df36-86ba-41e6-b353-f987a0136525', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7dad88de-d26d-4353-870d-5d46b92907bd', 'c1c60f17-89b2-4041-8cc0-4ea132fd0170', '2b0f7fe2-d13a-47c4-9397-0695fd0744bc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1d8234c1-3031-4693-be30-d7bb87ec8eda', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', 'e776fefa-9cab-4bfa-9fa0-2ad228dbb88a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c45d2276-9abe-4f1e-a81e-94fb958cce66', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', '70788350-dc58-4dd8-969f-7684159279d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c35bdee2-d25f-41d7-8458-3ba017eca59e', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', '9088da5b-59b7-4f73-b605-57e3fa16de81', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c6bad9a-2a24-4c8b-adda-b911d6e73cb2', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', '0ece0ec0-da04-4b37-8c85-949cb882d961', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '301fc3b6-8d4b-4c9d-a111-d8caa16d3e55', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd02d24d-3624-4d70-a3a7-ebd666aeae20', '97af72d9-5515-4e3c-8c40-ea119d2cc6db', '8db0e867-57ce-4c92-b1c8-e1fcccd4f3b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd2e8c5ff-b864-4980-810a-38a0b849dafc', '482a8b3c-5c2d-4d6b-b7c8-33c042c54d44', 'c7e2a24d-34b7-450f-adff-283570f2d3c3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7d6c6e99-be2b-4c14-93e7-aa9056697077', 'c1c353cf-312f-4bdc-a4cc-5515edcb8869', '309e0f9d-34f1-4040-bebe-ceed4c70c9c8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '48908df1-687a-4042-8eb4-6a5b125c5fa7', 'c1c353cf-312f-4bdc-a4cc-5515edcb8869', '2bcd72db-a169-4e4c-ab3a-b4d05a9b4ea4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd59b29f-8f56-4fb1-9ac0-aef0822b1102', 'c1c353cf-312f-4bdc-a4cc-5515edcb8869', '4c424f97-6de0-4eb7-b5c5-30fe8bc4066e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8dc8428-60bb-4a7f-8853-54b46b1561d6', 'c1c353cf-312f-4bdc-a4cc-5515edcb8869', '94dff0bb-86cd-4c63-9940-f1c6a46b1e2c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3a2a0dd-6ade-43f0-a3b4-a9f20ca697dc', 'c1c353cf-312f-4bdc-a4cc-5515edcb8869', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01aee4b9-65c4-4ebb-bd98-131ae858bccc', '4de1d6cb-0384-4ec7-a7b8-9cc6f146dad9', '6d89a54c-7d5a-499a-96be-3aaf17ebd683', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb750a32-ea4a-4376-8bed-511351523ef0', '4de1d6cb-0384-4ec7-a7b8-9cc6f146dad9', '4ebb8dab-b6d0-42a8-a35a-434d58e956a5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5f461a8c-e947-43c6-aa1b-58648422c43b', '4de1d6cb-0384-4ec7-a7b8-9cc6f146dad9', '3dd65778-543c-4c82-8044-a78918bac64e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '10f29b7b-1f92-4b06-bca5-d5865f980975', 'c38dee72-902d-4d48-8062-5a21e6590c41', '229fef64-186d-4ce3-8fab-d793b75b8f24', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a52a93c-f116-4874-9e7c-517e7ee8c878', 'c38dee72-902d-4d48-8062-5a21e6590c41', '3f678dc6-011b-45c8-b5ce-c407d45ed1ba', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8bd555c8-ea45-48a8-95cc-d072f543627e', 'c38dee72-902d-4d48-8062-5a21e6590c41', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '830a5ed7-de9f-4709-bd11-1a3f281d2ed5', 'c38dee72-902d-4d48-8062-5a21e6590c41', '79d8d205-6c9b-4d59-8ee4-7ab63c5e9443', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '00e8639d-b0ba-486b-b1af-280f2a5a4605', 'a7edc9fb-0f8a-4a16-8073-9458a588ecdf', '1501eac9-6133-46f0-bb6f-386ff5b980bc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '87153dea-6ae5-4216-bd3a-a2e65bb3ebd7', 'a7edc9fb-0f8a-4a16-8073-9458a588ecdf', 'd13522a9-fff2-4869-a835-c62d3900a771', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7bd5729a-3d60-46cd-a6a3-9d4d96943e44', 'a7edc9fb-0f8a-4a16-8073-9458a588ecdf', '22047ed2-d5b7-4a33-99f6-8147118d3cdf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aaa408d8-d545-4fcc-8728-ab0ffa1ec966', 'a7edc9fb-0f8a-4a16-8073-9458a588ecdf', '797833bc-6d18-49f0-aed2-a8175832a517', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ec7ed1d-d104-495d-9b2f-9d311dbde9f2', 'a7edc9fb-0f8a-4a16-8073-9458a588ecdf', 'f1e8cb70-7df2-4bc8-ae98-3ecdf44ce09e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31e3a951-f851-4793-a3db-e88802154963', '3b5e3480-499a-46de-aa81-7dab4e12ddfd', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c4ee8bd2-690d-4b71-9925-1cfba8a45901', '3b5e3480-499a-46de-aa81-7dab4e12ddfd', '4b9c13a2-080a-40fd-9ffc-0a0090f7c5ab', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f034a9a-30fc-49c2-921d-18d6170d4f4f', '3b5e3480-499a-46de-aa81-7dab4e12ddfd', '0c96b326-0e2c-4825-8bc0-9afca92cf73f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aedeace4-f946-4808-b8a8-4f410f931602', 'ac447126-f8df-4ee6-a224-4610ef45ac55', '1c0adc5f-7329-4fa6-998e-bdbb9260d741', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2294b171-6f93-489c-8ec1-a53e82d17ea0', 'ac447126-f8df-4ee6-a224-4610ef45ac55', 'a54620b9-d27f-473f-9173-0a15459bf8b5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '863680c4-7b29-4218-8e43-c3f584d9f79a', 'ac447126-f8df-4ee6-a224-4610ef45ac55', '3d1d493d-d62e-4f0e-9ecc-a45d6ab64c7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba786378-37c4-45c4-b6c7-2ac55dd3c257', 'ac447126-f8df-4ee6-a224-4610ef45ac55', 'b14c2def-842b-46f3-a1b5-59bec942a7d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '226de133-cf83-41e2-9735-ef31b9dcaa04', 'ac447126-f8df-4ee6-a224-4610ef45ac55', 'd6046b2f-eed3-4139-abab-34e6555f8bc5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bbd45d1c-dd7e-46c6-85ea-82ef1349ff3a', 'ac447126-f8df-4ee6-a224-4610ef45ac55', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a0a39fd5-c6a9-432e-a34d-4c260b37c2eb', '274ac00c-3b51-4416-9a35-14bcca731904', 'c17d154f-0d0a-431d-8f99-7f20b91624c2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e85fbe9-b579-4fbf-af2d-fff92ae0db2d', '274ac00c-3b51-4416-9a35-14bcca731904', '491b9d32-2ad4-44df-82e4-b74559feddaf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7937719f-445e-4ad5-bbce-5ecea1abdd33', '274ac00c-3b51-4416-9a35-14bcca731904', 'b4d24b8b-7528-472d-8f09-a13bdebbe9e1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6702dc02-db43-4b90-887a-f248f53bc465', '274ac00c-3b51-4416-9a35-14bcca731904', '01ebc779-045f-4aaf-aa37-8641ceb27814', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ead7fe60-c147-42c8-8e0c-1349bbbb57c4', '274ac00c-3b51-4416-9a35-14bcca731904', '6d4f4c9d-83f4-442c-a84b-bd3d820511c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '805d6666-d9ea-4c84-abc0-ed24dff3751e', '274ac00c-3b51-4416-9a35-14bcca731904', '2bcd72db-a169-4e4c-ab3a-b4d05a9b4ea4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc337868-bf20-453b-a2ea-16bcc1621f30', 'bbe1e518-ceea-4da8-9c84-b6d7e629b9e3', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af157950-aa08-4bce-bc4e-c057ad0e5994', 'bbe1e518-ceea-4da8-9c84-b6d7e629b9e3', 'da3d903f-18c1-4250-a1ec-996ca81af877', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f85d8aea-bdb4-4d18-b97a-9661b7e5c6d5', 'dec77867-4deb-4330-92e1-e33f2fe2d702', '0cb38ef6-8e16-4d99-81c2-907dbca7fbc4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5c213ac0-a469-4888-9076-7c67427c39dc', '20abb13d-7483-46d6-af1c-45fe33080675', 'cc177f86-59f4-41ab-9110-132b77f0637a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7752d56a-97ef-4db0-bd0f-d321785f1065', '20abb13d-7483-46d6-af1c-45fe33080675', '68f9d8ef-4050-4d98-99c9-238bde83f790', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '32fbe4a7-3ddc-43fb-ad43-5700be9c813f', '20abb13d-7483-46d6-af1c-45fe33080675', '2b48190f-ab1d-45c7-86f2-69eb523e715e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a125929f-b8db-459d-a4c2-872a1bdf4d93', '20abb13d-7483-46d6-af1c-45fe33080675', '89cf02bf-17e2-454d-9770-f74d8e246c54', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b4d197da-de12-416c-9a99-34b1cd0121ab', '20abb13d-7483-46d6-af1c-45fe33080675', '4a6d24d1-6c36-4570-8c17-12ee6f9c9581', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fd8537e0-4004-4d71-9445-ad84320621da', '2a82c469-712f-40f6-a059-8426a34f7c81', 'fbde9fab-c2a4-43dc-b41e-1034886c95fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a97aff96-4fba-46ee-be84-517ef2a9d045', '2a82c469-712f-40f6-a059-8426a34f7c81', 'b0e5e485-dcca-45c1-8e65-f00f8580d09e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '710b44ba-79a5-4ecd-8acb-2da0827f7835', '2a82c469-712f-40f6-a059-8426a34f7c81', '1608b57f-4edf-42a9-b547-0f70195d22da', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '027cbb87-4c9e-4550-a075-c0e67304f169', '2a82c469-712f-40f6-a059-8426a34f7c81', '4f51c1fa-19be-46e7-ac33-552a259f910f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '13c36f6c-4d19-4b89-ba8d-de9c4438dc93', '654faa40-fe33-4104-bbab-3d93082c4b8f', '1e0625cd-58f6-4e81-912f-0f7f61893eaf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8973df26-ef22-435f-a46a-a5cb180e9097', '654faa40-fe33-4104-bbab-3d93082c4b8f', '955ba84c-23a0-4525-8884-92218884b3e9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4e772f2c-2fd7-458c-935f-6e715926e9fa', '654faa40-fe33-4104-bbab-3d93082c4b8f', '5b619205-8c9d-4292-98bd-ce44ddd6bd27', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '899daacf-c341-4b13-a231-e92c910d690e', '654faa40-fe33-4104-bbab-3d93082c4b8f', '3fd6d0dc-c9bb-4ae1-ac8f-75ce7c21e9c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '04d47f59-9fdb-4b77-8672-6b404f2d3b93', '654faa40-fe33-4104-bbab-3d93082c4b8f', 'd0191083-64d2-4f70-9ea3-ba531b682285', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cfc167e9-31a9-4ca4-8ae2-9c419e9fdee9', 'bfbfff03-9160-4076-a223-b2919b3dd980', 'c3c8a8e6-20b6-482c-94cb-45fbcf68c0ef', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd9036275-69e5-42a8-84e8-21a30aaefee8', 'bfbfff03-9160-4076-a223-b2919b3dd980', '6efaf3d1-78cc-4936-a0ef-06c1d6984a86', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c65dffcd-47d5-4734-9321-7c55fee1eb1f', 'bfbfff03-9160-4076-a223-b2919b3dd980', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47631189-4abc-4fca-8818-bc66f78b9c25', '4a9f28d0-4aaf-43a3-b505-e38d9e94e8ab', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7d4616e-3841-4e9a-a6fb-cd0019676ae8', '4a9f28d0-4aaf-43a3-b505-e38d9e94e8ab', '366b704c-4f36-418d-bb5e-4fb58fe76528', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd9ebc3f1-c031-44ba-b4c6-12959baeddf6', '637414a8-addb-4f30-bf53-4be788d097ae', '480686ef-424d-46b7-9a22-5225d05581dc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '39d452f2-45dd-4120-bb4c-bdee40cdefec', '637414a8-addb-4f30-bf53-4be788d097ae', 'f3388d36-3602-46f2-86fe-ca14e7c9948b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '424b563c-adde-4d94-af8f-aafbae2f39ce', '637414a8-addb-4f30-bf53-4be788d097ae', '61aef84e-6ab7-4bb6-a8c7-fa0817b4e1b0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '217bd583-2331-4ba5-aaf6-61337830d325', 'c3c6bb68-39f3-40d8-863a-12c4eca9de95', 'e05ab1bc-9f32-4c40-8278-cfc14e39ad39', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d5ab921-d3f5-46da-ac4d-80ce7b604821', 'c3c6bb68-39f3-40d8-863a-12c4eca9de95', '221b9453-e4db-43fc-9cd8-87cd2abd2402', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6f92a19b-187f-4512-9c44-4dc38ca16386', 'c3c6bb68-39f3-40d8-863a-12c4eca9de95', '3177fdfe-c677-4947-99e1-b1cdce8264f6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1c4b4ed-0338-43f4-b696-984239d1844d', 'c3c6bb68-39f3-40d8-863a-12c4eca9de95', '36692a05-a437-45a1-b4c7-c4d830347ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'db764a72-007f-4ed3-b962-887f84308201', 'c3c6bb68-39f3-40d8-863a-12c4eca9de95', 'f5290303-16c4-43cc-8c8a-3d97f5c3a174', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52e1941e-7c66-446d-b70c-c034d5a24056', '904711bc-443d-41a4-8a61-4e43e7e0ccf7', '1fa5a045-897c-4a04-ac97-14c65d053721', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '32adb3df-711a-4772-b282-09958af23f43', '904711bc-443d-41a4-8a61-4e43e7e0ccf7', '480686ef-424d-46b7-9a22-5225d05581dc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49b9bbc1-6abf-4871-980f-a593aae1968d', '904711bc-443d-41a4-8a61-4e43e7e0ccf7', '263b3524-b994-4bd0-b81c-c2982595a8df', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b20ff2d4-bb6f-4c31-8daa-30d179e39aca', '904711bc-443d-41a4-8a61-4e43e7e0ccf7', '4f6bc159-1ab4-449d-9539-7567470aa58b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2ea6cfec-5157-4dac-b454-572efae5627c', 'e6aa5254-49fc-4200-a7e7-3aea34d4c87d', '80193932-5d46-4131-ba46-39d94cfbbe95', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '05ab3434-bdc2-45de-bc28-c5cbb8f09bec', 'e6aa5254-49fc-4200-a7e7-3aea34d4c87d', '0a9aae87-5212-4e11-a0c6-52ac3a3cbe4a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd031d862-7eb7-44d9-8557-73e7c99d3c71', 'e6aa5254-49fc-4200-a7e7-3aea34d4c87d', 'be9c626f-1c18-4e30-8a66-74fa110b8515', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd72bf219-1595-47ba-9e7e-644887d39083', 'e6aa5254-49fc-4200-a7e7-3aea34d4c87d', 'd9715fec-8106-4b10-aa87-54df24f321dd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91dc1351-b835-43fb-86af-fc2121b981a9', 'e6aa5254-49fc-4200-a7e7-3aea34d4c87d', '16c6e541-9047-4c48-811f-c1128a729d71', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '93499faf-c79c-44cf-bdb0-e197a935287a', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', '5eb15397-9a77-4ba6-b51e-8527d8113ce7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa47db44-570c-4e95-b3f3-8df8b5ea7ed4', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8dfb6471-cf9e-4a3a-ba5a-8da72c7d8276', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', '7e547338-ad9d-4144-9098-e450b5db4a7e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '206b3cf5-ab8c-400e-b5bf-b8b6ad2ed12f', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', '46c7a13f-578f-4387-a603-e571096bfc41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7822718-7c17-4146-83b1-3f78daed9800', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', 'fc09214f-42f4-4912-b869-4cda97effbc4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3c146713-b22e-4afa-86bb-8603991a8f84', '5123ac2b-bb0b-4ec1-8f58-0fecd74ec1b0', '6a8e2a1e-1084-495c-9c26-8eee5eb4a134', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd0e7cfa9-6214-4420-bdf4-6066486580a3', '020a2995-8b62-4e9b-b055-7acad32f6e86', 'c98266a2-35bf-4c9a-9cc7-d2fe7898f10a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '10a83320-c172-45ee-837b-2f030c3c2b71', '020a2995-8b62-4e9b-b055-7acad32f6e86', '4a6d24d1-6c36-4570-8c17-12ee6f9c9581', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df9cfcff-06dd-43ad-9f88-1d3869b8f932', '020a2995-8b62-4e9b-b055-7acad32f6e86', 'f5f59c20-0ea1-4526-a8f0-35f6ca1a9033', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f71ea1b5-9015-4dcc-afd6-9819a33d129c', 'ff23d946-2726-44d4-af75-09c6c49f8cdc', '4e8e9849-aca2-48d2-930f-a2dad7e7e885', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47092ff6-29f3-49f6-b2bb-d4304277da4d', 'ff23d946-2726-44d4-af75-09c6c49f8cdc', '6a44091e-edb0-45a9-a197-14546f76758d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4dd64205-9592-41f0-afee-281b6a8a918d', 'ff23d946-2726-44d4-af75-09c6c49f8cdc', '58722f5e-e835-4b2f-b769-25d649d8c979', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ac3e8e19-796c-4938-a3f1-c81ff5586749', 'ff23d946-2726-44d4-af75-09c6c49f8cdc', 'a10d454f-7171-4d3f-bc4f-ae5affc0c374', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8984a8e8-a248-4a6c-9c01-326f24bebe62', 'ff23d946-2726-44d4-af75-09c6c49f8cdc', 'f58201b7-910a-432f-bde2-a4d23e683a7a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1adbc923-105f-4356-8808-d58d2e4bfdf1', '9071cff1-8df8-42ea-96f0-748f748111c5', '88fe4d1d-f875-47e6-8f5b-62269e3763d4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd56b9121-7d5b-48f4-ba99-2d261cb3e456', '9071cff1-8df8-42ea-96f0-748f748111c5', '5acb88e9-ee98-47cf-8ef0-4243afc4c617', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec8b7d2c-a822-42c7-9971-c92115259d3c', '9071cff1-8df8-42ea-96f0-748f748111c5', '9a29daa4-ac48-47d6-a182-ca0be94c6127', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '65b668f9-f494-436f-b91e-9d8a43489d05', 'dd674414-1ee9-4645-beda-c6f2d7652760', 'bc57798d-2df4-46ee-87af-5d0e26fc142d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1387e53-2e88-4a40-a5fb-3a345505cec4', 'dd674414-1ee9-4645-beda-c6f2d7652760', '95d11dec-5e23-486b-8045-af3b2644bfb6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'da12c609-e8e2-4c42-8201-3210d507428b', 'dd674414-1ee9-4645-beda-c6f2d7652760', '4b85cbc0-8baa-4cb5-8b9c-de9516384f32', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '73ba303e-1da7-48ec-8e04-c3ff83967182', 'a0b00553-7ab1-4665-833b-b4a3956b0798', '913e1f18-2480-4178-9d7a-7bfe7e2933eb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5d2c61d-0201-4ce6-938b-c04d94fe8ff9', 'a0b00553-7ab1-4665-833b-b4a3956b0798', '17697376-7ee1-4718-9afc-9c7594768651', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '97de9af9-ece6-47b1-94a2-d92f799e668c', 'a0b00553-7ab1-4665-833b-b4a3956b0798', '9a29daa4-ac48-47d6-a182-ca0be94c6127', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '171ff5b5-3bab-43a7-9d22-ce4568775863', 'a0b00553-7ab1-4665-833b-b4a3956b0798', '9ee8d647-1cf6-4945-8003-3a664e1a3ff9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '180febcc-c552-4131-ab6f-ad64fee82abd', 'a0b00553-7ab1-4665-833b-b4a3956b0798', 'cfa6eb46-5d95-41f3-b491-e57a9c65c620', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60e15b3e-b42d-4ed8-9471-5df69578d28e', 'a0b00553-7ab1-4665-833b-b4a3956b0798', '55c64a92-af1c-471c-9768-8bd9e2905a68', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '724c74a3-fbf8-47e3-bf97-06e51c7aaa58', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', '456620c0-01e9-4eea-a89a-6bf728e015c1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2134a176-026d-42c0-896f-f72c0985d847', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', '3f55507b-7916-4254-9fef-65767ad04c2f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3cfbe62-d8c1-4879-aa7e-c52c0c119e32', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', 'ed48cc79-9797-4959-a365-10424d70099e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '342a6a49-e7fc-437a-87d7-469422597657', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31c2f90d-def7-469b-bd36-6d7782db2ffd', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', '8ff577f7-6463-4207-a371-004f9ddc57f7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6ba5437b-5eee-4156-817b-039316c1ca92', '295485ce-cfd8-4b1e-86bd-d56e4634d45b', 'bf6be0e2-0baf-447a-bb52-8f7c1d794a41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb46757d-4d06-429a-b551-32a4d730cdd1', '9d43ac8c-ca71-4290-9330-999aa0ba5ac7', '2b1a798d-9c53-441b-9ccf-147f48d8ba1d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8af9f774-a4e1-4142-84d4-1f0a008fb1b4', '9d43ac8c-ca71-4290-9330-999aa0ba5ac7', 'ac41d7ff-128b-440a-9f16-0b5d15ba822f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ef0abcb2-96c9-4b09-963c-bd3553e0f731', '9d43ac8c-ca71-4290-9330-999aa0ba5ac7', 'a15bb16f-cff0-455a-bd79-41dee86ca24b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc39b62a-48d0-4a95-ac41-d3237c585c33', '9d43ac8c-ca71-4290-9330-999aa0ba5ac7', 'd07a660b-defb-4d08-a20a-c11635150717', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3f06a6c-5846-4e1a-97e9-f63b3439ce0b', '9d43ac8c-ca71-4290-9330-999aa0ba5ac7', '8b56bd31-8007-4ae4-9318-17cae0d3a3d1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd0825184-8b53-47ac-9ba8-e22fb8ddc727', 'cc19ee2a-9ab2-477c-b802-b8d84ef4d65e', '216e73d8-171a-4c4a-9455-b5dd4df21e81', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4324f9a4-911d-4deb-be43-909f317bc6f6', '51b93c1f-813d-44b4-85cd-ab4d68286020', 'aa7b4a73-88a0-4b44-8880-5cd7d70f02ba', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52420fad-be5e-4787-b0de-ab1c335e8ba0', '8dc20624-4ac2-4d03-b397-be01bdfacb9a', '76eabba6-6f29-4ff7-a280-1b3e388fd5c7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '64604f9c-d07e-49cb-81fc-129364076cdc', '681fbfa4-c094-4b9d-b03b-5aecb81c9d95', 'f845528f-e90f-4bc2-9250-6e9fe6916412', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf0c513c-d7ad-4886-ae8b-1fc701952e28', '681fbfa4-c094-4b9d-b03b-5aecb81c9d95', '0f4ed965-22cd-4d7e-96ba-780ecbb69bf1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6dd63fe1-f14c-46e8-bf68-9e13928325f7', '681fbfa4-c094-4b9d-b03b-5aecb81c9d95', 'a4e0ae4f-f4aa-45ed-b1c5-b0a41f9864d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '16139c7c-6be7-41a3-8891-15f599959e8e', '681fbfa4-c094-4b9d-b03b-5aecb81c9d95', '880f623f-bf0d-4a16-b8b0-4b2e0d1bc197', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '65bfbc7d-dd27-4be7-9b47-b6a0d9978086', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', 'ebb553bb-93a7-4c8f-aa61-ae0e46072f32', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88671d89-4699-4ac5-9258-bf756fcf8877', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', '291b1f28-41d5-45fd-ac05-d535a38a411c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '74ce7da5-bfe9-44aa-b587-1201bbb74a0d', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', 'bca6e8b5-56f0-4d91-8535-f084c2cc4b20', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a20a55b8-699a-4774-9077-ffca0e230e64', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', '6b82cab3-4d62-450c-9897-59b0ceb72dd3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cfa48e4e-ceb5-4381-9727-b046728c1b87', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', 'd9715fec-8106-4b10-aa87-54df24f321dd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '95960901-e488-4540-89f2-7b6c6da9b149', 'cf37a5d7-551b-4fc6-8455-ee1b6e482e96', '1315eb53-cb37-4b2a-93dc-da9922df0a2c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6334df83-5271-4a06-af14-97a1997b5903', '1ffaef74-5485-4a57-8f61-4bfebc87ec09', '34850c8b-1e22-469a-9861-8c0246e884f7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b61d190c-7b46-41e8-8ac6-d75a8d026ff1', '1ffaef74-5485-4a57-8f61-4bfebc87ec09', '5052e645-2258-4874-a91c-12d386514e9b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f2162a2f-53b1-4a3d-a8ea-b84f4838f9f0', '1ffaef74-5485-4a57-8f61-4bfebc87ec09', 'b9452a66-af66-4696-8d47-da1d3b10a790', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c7ab9271-875a-46a8-8d98-14d0ec9a52d0', 'dbfb7312-a084-4192-b982-dcdf95978e86', 'c4d59b6b-5ca5-43b7-a727-fde0e6b34cf3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a0e1034-b586-4aa4-a32d-5c63d60d93c7', '7e163bb6-75ae-42ca-8f93-f89e0f24c20b', '8ae5c6cb-9c56-4af6-890e-e291d7ec5436', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f03b017-323c-4ae6-8ee5-4328254af3c8', '0c85d943-3818-49a2-b049-ca45f84a92af', '64695f59-0d72-455c-a9bf-8ef79f249cff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '175d462b-c2c1-40a7-a087-fe321f59f258', '0c85d943-3818-49a2-b049-ca45f84a92af', '11548b2e-3164-41d6-b7c0-652f6ebbb3fb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '316badf1-368a-4db2-bfb9-9dde9187f89a', 'c732704c-6300-47fb-b7c2-a0f6fb4e80f1', '8c5d182c-1115-4a26-8913-7c4c603f5813', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8da7158-ed2b-4c24-9dcb-60bcf16aaff5', 'c732704c-6300-47fb-b7c2-a0f6fb4e80f1', 'f3980c21-4b82-406b-9fc0-32a402328609', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf68429a-4820-4ae3-9989-6b5df5f0fdcb', 'c732704c-6300-47fb-b7c2-a0f6fb4e80f1', '74bcb337-2165-47d1-b757-1f0d33082169', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec25c069-e9a6-4bb7-b8d3-59dd82157768', '51a1cade-2b62-45a0-a429-de62fe7cbc33', '33e7abbc-a6d6-4fd2-adde-d051e43862f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '488fe7fe-5188-4b1f-9126-8e3420f030ac', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', '282d469d-bf99-4b3d-9529-956eb5389d07', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'adbe9061-38bb-4324-8ed4-6b95c1a5086b', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', '7ff095a8-1f97-4f9d-be8d-e0f607801bd9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5e0f6be0-1682-4839-962d-6b03d52a68a0', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', 'b9125b1a-0506-4d94-bdfc-551c7f9c52fb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2851a2f3-3a02-4e5a-8819-9daffe18c03d', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', '4f435f2a-c15c-438c-b34c-2b2060d4569f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25d20482-36f5-4dd4-9770-1a3414bb81e7', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', 'b0e5e485-dcca-45c1-8e65-f00f8580d09e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a35759fe-ac41-4767-96b2-da1ec36ca683', 'b452ca5d-54cd-4368-ade1-fb4af1538a45', '2b48190f-ab1d-45c7-86f2-69eb523e715e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0175276-856f-4ca6-85ab-1883c358b9c7', '1fef7e08-1f3d-48ed-b281-03e3901dc087', '00e009aa-f79b-4481-9d8c-8bf4b77e1bad', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '19cf6326-cdb9-4c59-a616-e8459dbf2d2e', '1fef7e08-1f3d-48ed-b281-03e3901dc087', '08df5c6e-4379-4eca-a396-115d68c261f5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4370cc82-c036-402f-b477-a92e92f13be5', '1fef7e08-1f3d-48ed-b281-03e3901dc087', '8ff577f7-6463-4207-a371-004f9ddc57f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c3f6998-598a-4add-8a37-40a696e46698', '1fef7e08-1f3d-48ed-b281-03e3901dc087', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '02a0334b-9892-4d07-85b6-0984a4cac664', '1fef7e08-1f3d-48ed-b281-03e3901dc087', 'f347be98-7311-419f-9368-fc9c3bcda993', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '39406d00-65ce-4e74-a479-01c8906ab5ac', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', '7dbc9008-0803-45e0-92f8-e090b570f30e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '450dd0f0-4348-4d81-af97-aab9cb36e46b', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', '60ffc5e7-2f17-413c-9a2e-14bbb4b554a1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0a2f8269-3c48-4d31-b9a6-5031fa9a6225', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', '3e73f03e-2654-49e1-a75a-afb905b21daa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7344b376-cd5a-41a8-ac4b-111b1055f3c9', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', '3da63262-6d9a-44e7-98b2-5c2185650455', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4203915-0827-420f-bf15-c6cbf4ba55df', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', '1f9bd6c9-c5dd-4d6b-9588-b1e96de1b1f0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54c4f2c1-a262-47b3-aa59-7931ae07cd4e', '5b63bd1e-1e94-4494-98b0-e7161b4a0f59', 'c98266a2-35bf-4c9a-9cc7-d2fe7898f10a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d691fca-8944-4715-93f3-f4220daaded1', '4514c7be-05b6-4b3e-a8e5-8129b35da8cd', '3ca3226f-8c0f-4446-a24d-0beddbdf0c9a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce8d4090-3b3c-4a60-bbde-4e62dca2b0e4', '4514c7be-05b6-4b3e-a8e5-8129b35da8cd', '4fbca8d1-a455-44a9-b279-c127fb52fb0e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06f1f119-6f12-4852-bf0f-b481939d63ff', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', 'b1cbb984-650f-4a2e-bd0e-bad269c3b494', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed20dcbe-6f73-4bc4-bfeb-2ae5ea000da3', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', 'd80a903f-0861-4675-84c0-be7249a5ade1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb134437-1ee5-41c0-8cf2-de6e3670df23', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', '580fb600-c101-46af-94ea-1a223cb6fae1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a0aa9692-422b-41b5-a126-6b487a4b1511', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', '07fc5652-eb2d-4130-95be-60b085e5332a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '75ba3548-9aef-4742-9665-a3b9ea39497e', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', '8462b910-a45b-42ef-a683-f91a7923c596', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fbc853b4-363e-41b5-a22a-4bc327c8515a', 'f2ecd5e5-e3dc-407f-b28b-47f425941196', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8bc70f4d-a171-40a3-b378-380a1a814baf', 'fa5bce6b-c129-44bf-8927-966a15d10e70', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15ada70e-b9af-4f57-b003-a32cfb5a91e6', 'fa5bce6b-c129-44bf-8927-966a15d10e70', 'c23e25b2-5547-4d5d-9388-ff34b7122a1f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0ad1a4fe-b01c-445c-962f-2fb2442f61a5', 'fa5bce6b-c129-44bf-8927-966a15d10e70', '7a261736-c373-4804-9d3c-f78c058f4656', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f17c5957-6d5e-4de8-ba16-07080c9ff869', 'fa5bce6b-c129-44bf-8927-966a15d10e70', '59b31eb0-ef48-4632-be9c-efdcdd35fa17', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72a0a50c-c827-4f16-951f-13f4916dcda8', 'fa5bce6b-c129-44bf-8927-966a15d10e70', '2749d10b-4198-4e3c-b2ae-d02826d84e4b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5c2f599d-d583-486c-a9c9-1bd75549647b', '0e4081a1-6ab8-4bcc-b588-ee6676cfd3f3', '90a102b0-6995-44db-aa21-60ebc06ab545', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2eb44e22-104a-4217-b4cc-978e87310ed9', '0e4081a1-6ab8-4bcc-b588-ee6676cfd3f3', '0e0568bc-4c2f-4731-93d1-0270b219dba2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c4b432a7-c4c7-47e1-92e8-6bfc2ae52661', '0e4081a1-6ab8-4bcc-b588-ee6676cfd3f3', '1e17815d-62f8-4a7a-bbf1-03586e94687a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '56f7e9b6-f207-4d43-8fc2-512973c17dac', '230b8cee-cdbd-444a-a9e2-a507347af04b', 'b4c46d99-7732-4655-8680-4e5db00d1b42', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71b84d4c-47d9-4607-8ca8-cd356ced1d21', '9b851087-c09b-4535-a92c-d8a6e232d702', '76a9714f-7a32-4384-968d-9f478b31aa73', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b4b8156d-3719-4e59-ade9-b21ea852f922', '6597fc48-3475-4b70-8890-56c93035c87d', '5acb88e9-ee98-47cf-8ef0-4243afc4c617', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6908480a-f3e7-49e0-a186-c311e98594aa', '6597fc48-3475-4b70-8890-56c93035c87d', '5b0e60af-a249-40cc-b7a1-1e552b535545', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d0234cd-8023-4708-a8b4-c5408d647dc4', '6597fc48-3475-4b70-8890-56c93035c87d', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55719b74-450f-4c31-a064-27d5354b5bcd', '34956d82-db18-4b37-84c6-06e5bdc74c13', '366d2b5f-1445-48b5-8f76-e59443e2dffb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1afd2956-d041-4b18-9baa-e7d74ba5f593', '34956d82-db18-4b37-84c6-06e5bdc74c13', 'a8cacc36-d721-436f-af84-5ab7739e9c35', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0860108-1db9-49de-8e70-8004ea6e0f6e', 'bb08ea9d-d744-46a8-a384-fa12523f523a', '8462b910-a45b-42ef-a683-f91a7923c596', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0b2b608-6b97-4e4c-834f-7f0c90331481', 'bb08ea9d-d744-46a8-a384-fa12523f523a', 'f5290303-16c4-43cc-8c8a-3d97f5c3a174', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '89bf2d57-9d0b-4cc6-b659-a538bb353667', 'fb993b4f-784a-4e70-aea1-71b1237d5fcc', 'b214455c-a3a9-49e6-ae52-c5315286e64a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c07a4b51-378f-42c7-9cc2-be64c263741f', 'fb993b4f-784a-4e70-aea1-71b1237d5fcc', 'd13522a9-fff2-4869-a835-c62d3900a771', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '049c903c-c251-4e2c-887b-0e69793edce6', 'fb993b4f-784a-4e70-aea1-71b1237d5fcc', '273dfa6c-20dc-472c-937e-5dabebc4f1ee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb8e3b0d-48de-41b1-99b5-89d4e760416c', 'fbe2a02f-0d7d-4142-a557-c9a739e4db8a', '2b61bb62-5753-4481-bcdc-b96e09c63809', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee2ff24a-35ef-468b-9df5-dedeac8da008', 'fbe2a02f-0d7d-4142-a557-c9a739e4db8a', '89cf02bf-17e2-454d-9770-f74d8e246c54', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c5faf191-b56c-40b7-acd3-2f87f714acd0', 'fbe2a02f-0d7d-4142-a557-c9a739e4db8a', '456620c0-01e9-4eea-a89a-6bf728e015c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2c913b5f-6097-4493-8ef3-1c19701fc618', 'fbe2a02f-0d7d-4142-a557-c9a739e4db8a', '103f660b-aaf0-4078-a715-fbfc1503d259', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '833a5db0-18c7-4cb2-97d3-b38c8b906aec', '87592404-6504-41b5-bdb1-603df411fd9f', '9f3663b9-3a79-44f7-928d-fee786890f21', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f146644-7b8b-44cd-bf3a-c341ee528ec8', '87592404-6504-41b5-bdb1-603df411fd9f', 'fa47533e-a058-4532-970f-9f3b8df44340', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '04124735-58d8-4128-abad-6e9e6adb5a9f', '87592404-6504-41b5-bdb1-603df411fd9f', '3754c7d9-1199-405c-9424-43b991746c41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '642af186-f434-4957-8958-a2500bce1f28', '87592404-6504-41b5-bdb1-603df411fd9f', '0ece0ec0-da04-4b37-8c85-949cb882d961', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a0f51b3b-7456-4a7e-b76b-4e13d0e4c491', 'f0b25e71-622e-477d-8fe0-17204a8aef5a', '181e1e5d-779a-47c5-a6b7-5236f9ebe895', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb6e7c6c-94b2-4bd6-b6ac-0ea1e1b1698b', 'f0b25e71-622e-477d-8fe0-17204a8aef5a', '2a7a1d85-d810-4a7b-8f00-1552ea38df70', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '890c8941-00a8-4a60-aa56-a9a8e16149f6', '21b82733-6b97-4303-ab58-5518f61db1d6', '16c6e541-9047-4c48-811f-c1128a729d71', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e94d192d-d058-4bfa-9d3c-f78b9615e8c0', 'c02bee88-a27b-4a17-8d44-12a04fdf717a', 'e2212014-8a08-48c1-b04f-e1ed85c532ae', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7627f5a5-0fc7-4774-b5f4-4123fa8757cd', 'c02bee88-a27b-4a17-8d44-12a04fdf717a', 'fde28256-99f3-43f7-83dc-4004d645fa06', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0fe2caa6-4cfa-452d-82c0-62bfa5987ff1', 'c02bee88-a27b-4a17-8d44-12a04fdf717a', 'f8cbccfd-db71-4bdf-9968-cb58ea6a7e0d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc7805a3-dd94-4c1e-bd9f-5e9995d7aa80', 'c02bee88-a27b-4a17-8d44-12a04fdf717a', 'a0b7f90d-582c-40ec-9766-e6f66fb5b5a0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1fd61804-67ed-4b93-9117-9a90e697aa88', '11bddeec-4cc8-44ad-a440-82681051f367', 'ba064cb2-9bb9-4820-a4b7-b6879d0823a4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f752b38b-f33b-4b57-a9db-a494a5dd7be4', '11bddeec-4cc8-44ad-a440-82681051f367', '2eafb172-4259-4db6-b040-149d2dd78659', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3cfc5a3b-d10e-4709-b04e-b417cc5b4d24', '11bddeec-4cc8-44ad-a440-82681051f367', '4b9c13a2-080a-40fd-9ffc-0a0090f7c5ab', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ef275e8-c8db-457d-b8ee-77b737350835', '11bddeec-4cc8-44ad-a440-82681051f367', '260f6df0-cd75-428d-af40-74a679149184', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77ab61a6-4413-412b-b20e-64e879a0c557', '11bddeec-4cc8-44ad-a440-82681051f367', '0151db4c-4fdf-4c4a-81c7-8ef0f19b7f2f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aa74d74e-c231-46a1-a6c6-2438fce997a6', '998d434d-678e-4719-bf03-8b33abeafbc2', '0f4ed965-22cd-4d7e-96ba-780ecbb69bf1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '672a3b16-04ac-4be4-8b54-527b21cc0dd4', '998d434d-678e-4719-bf03-8b33abeafbc2', 'c135c4b3-1aaf-45b4-91f1-eeafbe780310', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b046450b-e7f4-426e-bb38-a934f2c8eed7', '998d434d-678e-4719-bf03-8b33abeafbc2', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd954ec20-9221-4725-b80d-db137ada7577', '998d434d-678e-4719-bf03-8b33abeafbc2', '5bd27a19-7d02-442a-960c-ec86d467aedb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9663b5e7-6f0b-4871-b733-bbdccbaa6b91', '998d434d-678e-4719-bf03-8b33abeafbc2', 'b4daf5f7-670a-4086-baf2-ad9e1949d7cf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '256c534f-029d-4270-a7d1-96f623c29822', '998d434d-678e-4719-bf03-8b33abeafbc2', '094a3fdd-cf67-47fc-a83d-996e75010e13', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '887b2d8d-e443-4835-abb9-976df9916b81', '7e4cf00e-c470-443a-9068-26c1175d3dfa', 'd3a76a7f-19cb-47fe-960a-2fc6a45bd22d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '22599162-2e39-403a-afae-0446567ee137', '7e4cf00e-c470-443a-9068-26c1175d3dfa', '647a51ad-accf-470b-a677-62ccf2ee2d56', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '796ad6f1-2eef-48a6-bd76-a973bc361c2b', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', 'a0e8bac5-bf57-44cf-bc6e-8cecd1d9df6f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1fdc97eb-9516-4bda-8650-12d1f39b45ef', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec85c003-7c32-4a86-ac7f-3294f2217621', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', '19edde11-1a42-4777-8b04-f126ffe4559b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7d2dd7b7-2e92-480e-962b-3656b9d9c5b9', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', '46fbeb32-c100-44e4-9c75-f13b68c50aa5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3056fea0-5fef-4eec-868d-f03c04c85fcf', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', '3b88bd1c-595c-4a73-9945-87b197dbf2a0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ea2ef711-8a99-4d89-a23a-41245d7dbae5', '8f249c6b-c7b4-413d-b7b2-3e64374ccb48', '98e291c6-a267-4fbd-9ae5-704734886aaa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '985d5b24-22e6-4ce2-8eef-ed39c0df25f1', 'a09c2014-6354-4d64-a25f-cadd955fa942', '3d1d493d-d62e-4f0e-9ecc-a45d6ab64c7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f519392f-0c69-441f-9493-ed5c426acb1e', 'a09c2014-6354-4d64-a25f-cadd955fa942', '8462b910-a45b-42ef-a683-f91a7923c596', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0dd5de9e-7a03-4fd5-9658-65d7f6917980', 'a09c2014-6354-4d64-a25f-cadd955fa942', 'e270ff85-ee00-4cbd-8b43-a5f00759c0ec', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '12182505-3d44-4dfc-88b2-82b773db0542', '6c415155-c200-4c37-855e-95b104c24421', 'b10fbcb9-a17d-4891-b32d-f065b9481513', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1d326f0e-152d-412c-beed-7a2bf0e7ae38', '6c415155-c200-4c37-855e-95b104c24421', '4c424f97-6de0-4eb7-b5c5-30fe8bc4066e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e51d2345-1813-498c-85e6-804320ea8dd5', '6c415155-c200-4c37-855e-95b104c24421', '59a11857-0804-4f14-a05a-1510efe4772e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17e68cf3-da2c-4230-aba2-b71d34b72a00', '6c415155-c200-4c37-855e-95b104c24421', '36187c51-6edc-4062-bdb6-6c09cac6dc22', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b45481de-b234-4b24-8100-665f73aadb68', '6c415155-c200-4c37-855e-95b104c24421', '6a63746f-79a6-487e-99d6-4da3fa36843b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c31e208-a33b-48a7-ba4e-74b92ccd7b1c', '6c415155-c200-4c37-855e-95b104c24421', '1586840f-db27-4ae0-b2c1-d94b89509643', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f49d2589-38e8-4fef-979c-d6f6c0e23ba6', 'b1929fdb-db93-4067-a20c-19e3907d6145', '28ee18c4-6518-4f36-b23b-e2ca4e911459', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3893f346-5d27-4c79-812b-ba9e51bd933b', 'b1929fdb-db93-4067-a20c-19e3907d6145', '3dd65778-543c-4c82-8044-a78918bac64e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '314b01ba-88cd-4332-899b-08096f24b16f', 'b1929fdb-db93-4067-a20c-19e3907d6145', 'a9b56f5f-5476-42fa-af8b-b0362c828e92', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '286bbae9-70c9-49d9-8de4-eb93a74e1773', 'b1929fdb-db93-4067-a20c-19e3907d6145', '34b3a595-b161-4ad8-8707-12dee9a27e49', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34f26ade-c75e-4b0c-8dc9-6e6233729bd8', 'b1929fdb-db93-4067-a20c-19e3907d6145', 'ac551793-b05d-4b3b-82cc-613c0cf2245f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0236b623-2e81-4107-9264-f5df42068022', 'b1929fdb-db93-4067-a20c-19e3907d6145', 'cffcb8a9-60d2-46b5-9c0f-0f152a460ecc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd2974d7-70d1-44be-8bd1-9a75370e899f', 'f9f3eba9-4000-492e-be12-9e12457b3ace', '797e1ff7-b6b1-40ae-8715-074e12daa67d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c92f6962-c230-4557-a6e5-30a55305188a', 'f9f3eba9-4000-492e-be12-9e12457b3ace', 'f9770d92-92eb-4ee6-802c-aae4b2e7bb2a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd8476ee-6a83-46cc-8182-7803ce42b51b', '0a4f8251-caec-4627-b7cc-ff0b0c33e502', 'eb2a61d5-a402-403b-9a4a-914d21eb6f69', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e34ae504-0045-4969-af55-f8433360dfb6', '0a4f8251-caec-4627-b7cc-ff0b0c33e502', '8d17fc30-d615-4f2f-8b06-587c72e077ac', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90816f33-022a-41e5-bbe0-d60983392ce4', '0a4f8251-caec-4627-b7cc-ff0b0c33e502', '5c46b843-fa05-4b8a-8cdf-9b7fc61adbfd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '00d9a6f4-8906-4b26-a582-5b920c6e9607', '83c7fd1b-b2c3-489c-8013-9f17a0d04c60', 'd139ac27-7e9d-48b5-ac6f-9ae720a8abfa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '663c57ca-5a97-40dc-a4f1-ca2e4a0abced', '83c7fd1b-b2c3-489c-8013-9f17a0d04c60', '9f00dfc5-fcd4-44a7-9a0e-b43bd74dc0d1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3fbdf926-0c98-427c-aa29-21065390764f', '253beaa9-61ac-49a8-8569-f7e198be4a90', '8f61e370-93f6-4d15-bfa2-05350b5e6c01', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd07969ab-2b72-4dff-977b-568024601c3e', '253beaa9-61ac-49a8-8569-f7e198be4a90', '3754c7d9-1199-405c-9424-43b991746c41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '59b3d1f4-beee-486e-918c-631c34bab9e0', '253beaa9-61ac-49a8-8569-f7e198be4a90', 'a54620b9-d27f-473f-9173-0a15459bf8b5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c5f16a4-327a-4cb5-876b-2286378854cc', 'a831c8e4-0856-4484-8e92-6ea367d93df5', 'b7b4f2e8-5792-4443-a32e-7e21b98dd7d2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6d9a01b-1cd1-47c3-92c3-0cd9df80fd3a', 'a831c8e4-0856-4484-8e92-6ea367d93df5', 'b8b6291d-5ebe-4eb7-b091-fd4fb02b6048', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c1d6d03-42f0-4624-82b5-ef63cd6bb932', 'a831c8e4-0856-4484-8e92-6ea367d93df5', 'f347be98-7311-419f-9368-fc9c3bcda993', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd1c3857b-273d-4e83-97ae-8366fd2431c5', 'a831c8e4-0856-4484-8e92-6ea367d93df5', 'd19cdfe4-eefb-41c4-a7b9-275ca0201100', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '39cf7973-1a64-4402-a48b-044c67463644', 'a831c8e4-0856-4484-8e92-6ea367d93df5', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5d2d9f23-3dfc-4d54-90ff-5a3432bedc7e', 'a831c8e4-0856-4484-8e92-6ea367d93df5', '36692a05-a437-45a1-b4c7-c4d830347ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '11700349-d50c-420f-bed1-42bae1428933', 'c8fa6168-3820-4c03-829e-8fd4d7ca86f2', 'f7a64315-4eef-4723-b4f9-74384a1af277', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ff1d747-af09-4f29-b713-9cd09a9e9461', 'c8fa6168-3820-4c03-829e-8fd4d7ca86f2', '6bdbd4f4-b638-458d-bc1d-f2ec5236acb1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd3df156a-e9f2-4681-a011-68949f5a0f66', 'c8fa6168-3820-4c03-829e-8fd4d7ca86f2', 'a5a94225-29d6-4f57-ab7a-a3d3b758476b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44d04377-853b-4db7-a8b9-4948c73062ba', 'c8fa6168-3820-4c03-829e-8fd4d7ca86f2', '451fb46a-d1bc-4262-bd08-bdda1a23d659', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'adc26cb6-0267-4c46-9244-9fc1001f3939', 'c8fa6168-3820-4c03-829e-8fd4d7ca86f2', 'd4a170b1-d72c-4d17-897f-0c2ce50e91db', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec7a23e5-a0d8-429f-abe4-dece7ee5fadc', '11aac245-3c9d-49af-8891-7c11190ff65b', '56e1daab-2060-4628-8862-f4c3e620399c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4317a289-673c-4d2f-a9dc-3862218f9e7f', '11aac245-3c9d-49af-8891-7c11190ff65b', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7e5ce8c-667c-421b-ac24-288667decd84', 'bb530d21-b567-42d3-9bb5-15da4dcc16b3', '0c23dcf3-e7f6-4309-9cbb-50ffa05fb537', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4430832c-42ed-494b-a2b7-a32885578a9e', 'bb530d21-b567-42d3-9bb5-15da4dcc16b3', '93b1f86a-6a56-4c99-9f93-a83dadc009c7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ab1a8d0-2cd0-4752-bb82-0ba2819673af', 'bb530d21-b567-42d3-9bb5-15da4dcc16b3', '955ba84c-23a0-4525-8884-92218884b3e9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd71b5aae-fa8c-4fa8-a75c-096d7026e3a8', 'bb530d21-b567-42d3-9bb5-15da4dcc16b3', '495aa5df-9ab8-47ef-b75f-e7879cb8042f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b83be89d-3d95-4ba5-bf0b-acbace8baf40', 'b5499880-7c94-4468-b135-7f5d66e6dcdf', '8fa6a152-0215-422b-866d-25196a54a531', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d9351c2-e17e-4fc6-a602-7698805af048', 'b5499880-7c94-4468-b135-7f5d66e6dcdf', '2c298184-9836-4202-93af-af9c389a13e6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0acf6e93-d1ae-42ec-9a56-896e3559489a', '4a31146b-4f17-47bd-981d-700e811981a1', 'a73f58dd-8149-4e7a-bafb-d5ff6132e5c5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f431a4cf-02e3-419e-958b-ccddcf02a94f', '4a31146b-4f17-47bd-981d-700e811981a1', '27ef212a-1cb1-4ec0-87c3-1af84262006b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '48a26dab-01d2-4c7e-966e-a257134e1445', '4a31146b-4f17-47bd-981d-700e811981a1', '56e1daab-2060-4628-8862-f4c3e620399c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '76058ec5-6389-4fda-9461-fdc04d7a2fdc', '4a31146b-4f17-47bd-981d-700e811981a1', '3a1494ed-ad07-427c-9759-c684b57cbd91', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4db6a6a-3158-4f96-961d-d3fb16b0ca82', '4a31146b-4f17-47bd-981d-700e811981a1', '9a29daa4-ac48-47d6-a182-ca0be94c6127', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5a57d3d2-d277-4da8-bc60-4828d6355529', '5878b70b-23c6-45c8-95ad-0745836f72c9', '758dd499-afba-4f81-8424-a7bfb3679a9f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e642eeb0-a897-4301-b92b-d45bc6c9f2b8', '5878b70b-23c6-45c8-95ad-0745836f72c9', '6bdbd4f4-b638-458d-bc1d-f2ec5236acb1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '32ef1d81-0318-4620-82fc-7d14ac00888e', '5878b70b-23c6-45c8-95ad-0745836f72c9', '4c424f97-6de0-4eb7-b5c5-30fe8bc4066e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '392c57fa-5ac4-417c-b0ff-fb8b16b9fc04', '5ba211f3-8b05-40ef-ae29-8ffa87e831b1', '5ea49cb5-7e76-4352-a854-24acbb35776e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c927c92f-18a7-494a-a94a-9783b151ed1c', 'e7da614c-9fba-407c-86ce-dae44bf2dc3c', '3765a164-7f32-49de-8911-e4ee177ec8d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dde3020e-e51d-42e8-8727-4d508a261bc8', 'e7da614c-9fba-407c-86ce-dae44bf2dc3c', '7d66c19f-575a-4e4c-ad89-776f802c4c62', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8718e599-2009-4e1b-9f5a-60ad78485aa6', '39babacf-98ff-4c44-aaf4-0a268c7f6e14', 'a21dcd16-930c-4a85-8353-4ba11bb5bbcc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3b895f0-7235-4581-bf6f-412af03dd3e4', '39babacf-98ff-4c44-aaf4-0a268c7f6e14', '6ebe8812-fed0-4b95-b129-32275583f40d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5dc147d9-765b-4224-af3a-abc4013d3e5e', '07a0aab6-e4cb-463e-8c03-e5bf78108d38', '8d1c8db8-506b-404d-ac41-8d1a25d1061f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c249798f-d914-4007-9930-b975bdbf41c0', 'd302e570-aa81-4eed-a627-9fec15f97f23', '07fc5652-eb2d-4130-95be-60b085e5332a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '589f300f-69cf-4533-8d27-a9230ce96ee9', 'd302e570-aa81-4eed-a627-9fec15f97f23', '803a6f4b-e30b-41e3-8dbe-a0f4607bb262', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '120aeaa1-0b68-4963-8c1c-8a525e6373b1', 'd302e570-aa81-4eed-a627-9fec15f97f23', '9e555d85-30e3-406c-805a-e3b26ea89007', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5da098f6-f77b-40ad-b1e9-65c0f4e32d78', 'd302e570-aa81-4eed-a627-9fec15f97f23', 'bbb9f673-3d14-4453-ad4a-9e59eeb6b4c9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '467c8c5f-4a3d-4d3a-95fb-c50f92721634', 'b19fd6c4-4fa4-48b7-892a-456eddc66777', 'e504f668-6b68-4a63-a298-fc9a76e574a6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3800a822-9b9f-4cce-986f-67299e7e21ab', '0c6fd200-7a07-4925-b01f-15155aa9f85a', '0fe62712-48de-484d-b9af-d494124090b1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '209c42c5-c448-4cbd-9b42-b7155f4af923', '0c6fd200-7a07-4925-b01f-15155aa9f85a', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e13ba402-4b92-4d62-b22c-8f344c7bf4f7', '0c6fd200-7a07-4925-b01f-15155aa9f85a', '2c4c5dff-c002-45dc-80e0-db80f72220ba', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fdc0be86-7445-4d94-bc54-d11878e65c8a', '0c6fd200-7a07-4925-b01f-15155aa9f85a', 'beb51a42-e3e3-4511-be44-faadf85db339', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a2374c4-5284-448a-a091-ae8c3e6f4f46', '0c6fd200-7a07-4925-b01f-15155aa9f85a', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8aefadee-ef7c-4b37-bb93-6d8289e1281f', '0c6fd200-7a07-4925-b01f-15155aa9f85a', '5eb15397-9a77-4ba6-b51e-8527d8113ce7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '22b785b3-f954-48b9-9e6a-1bdff9891e59', '5fd31897-13f5-43b7-8aef-911d5f83ed1f', 'df3ca82e-9aa8-422a-950d-f3bd41daa1a7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd1c5fc44-1e8f-41ae-a856-607fc6002ff4', '5fd31897-13f5-43b7-8aef-911d5f83ed1f', 'ab39aa88-3735-4ac3-9cfe-b2e2a432e509', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd252189e-54a0-45a5-b457-d275d5b707f4', '5fd31897-13f5-43b7-8aef-911d5f83ed1f', 'f175b120-b0cb-4590-82e1-b9e95560f717', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '476a0b92-ac03-4386-b540-55ee68b9f9e1', '5fd31897-13f5-43b7-8aef-911d5f83ed1f', '9c63e62b-23ff-4b7f-910f-8f82dc94aa87', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '29ae11b5-1052-4bd9-bd2a-5cdf77bdabd5', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', '88fe4d1d-f875-47e6-8f5b-62269e3763d4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1b62c5e-893f-49be-9d20-cb4965e47285', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', '91e7b7fe-6a62-4948-9c97-38f6eaac72e8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2c78116-c9a0-4365-bf8c-665be6383e0e', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', 'db42a19e-b9b0-47be-81c1-511625e68246', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72f775f1-3abe-44df-afee-a34e4950b39e', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', 'e41e762f-2b4b-48a0-8f44-2a77a1c2f2d9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2893101f-51a8-4451-8e20-3c73e65a746c', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', '0627b7b5-6e77-4ef8-ae12-ac662d229608', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7ae7f82-47b7-4e1f-9e82-a7e55d37fcc8', '8a2e3265-9fdf-4005-909d-ca4dfc6cedae', 'e4112a60-f6dc-45eb-a2d9-4d02b1910fc0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b3455cd-58e7-4e08-a087-75c97dcfd55b', 'fbd4f4be-5e45-49ec-9776-126166992cee', 'e2fb46de-bb34-4797-ab3a-1ea5d3c3429f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5a8b819-db0d-4c14-8881-0c21b980c2e6', 'fbd4f4be-5e45-49ec-9776-126166992cee', '580fb600-c101-46af-94ea-1a223cb6fae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c9a73cd5-0a2b-490a-99bf-23b3b57e87f9', 'fbd4f4be-5e45-49ec-9776-126166992cee', '31f4a8ab-7922-422f-92cf-73d0eaea13a3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cdf3691a-e01b-4f3f-9860-3d0fc44ad202', '9a570c35-ad0e-42c2-afa2-3fe5d8dc8c21', '4e520497-9e26-4c60-b9b0-606efd4746f5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e82341b7-c485-4b05-802c-294049996f9e', '9a570c35-ad0e-42c2-afa2-3fe5d8dc8c21', '5239de49-30cc-4780-880d-61e7af84143c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '341fd49b-852b-4482-a3e6-d6c6d95746e2', '9a570c35-ad0e-42c2-afa2-3fe5d8dc8c21', '8a026bf9-9a29-4be5-9e4a-231f742f4a2a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb9fe313-e14d-4809-bca0-aaa5686e724a', '8034d0a5-56fa-4140-aa50-e5354270ab5d', '0e10d3c3-1565-4b2d-90ba-479657a75f72', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad23da68-1205-4732-9e8f-df884be6a6e7', '8034d0a5-56fa-4140-aa50-e5354270ab5d', 'a4e0ae4f-f4aa-45ed-b1c5-b0a41f9864d9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53c44172-4438-4849-a158-0ff9b9772b0e', '8034d0a5-56fa-4140-aa50-e5354270ab5d', '9584a34e-66de-4799-9d49-caa57bda627d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d73a1e7-c7ae-4f55-a250-9fc8967a752d', '8034d0a5-56fa-4140-aa50-e5354270ab5d', '326e3f17-668c-48e5-9b60-c3a9ad218784', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '272ba36c-a91d-4683-8b9a-ed29090711af', 'cedaede5-0652-43ff-862e-a27bca858301', '1586840f-db27-4ae0-b2c1-d94b89509643', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd3d4476a-e7a7-45c7-b53b-43efbf3a9540', 'cedaede5-0652-43ff-862e-a27bca858301', 'aea68a5a-38cd-403d-984c-44e05ebf1b48', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0872be4d-b9a3-4c4a-9606-155045f8d57f', 'cedaede5-0652-43ff-862e-a27bca858301', 'f175b120-b0cb-4590-82e1-b9e95560f717', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e02c14a-7b5a-4a24-9402-3fddca83f89d', 'cedaede5-0652-43ff-862e-a27bca858301', '38d10a6f-8450-43fd-9fa1-66c1a38c0428', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4bb35c7-3ced-48d2-b825-dc62562f723f', 'cedaede5-0652-43ff-862e-a27bca858301', 'ed07dadc-082d-47a4-8768-94f9733d9126', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df1a202e-9c6d-4643-9716-1076471c32e5', 'cedaede5-0652-43ff-862e-a27bca858301', 'b4c46d99-7732-4655-8680-4e5db00d1b42', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d81c6bd-177f-4793-89b0-eb07247a5c62', '0d87836d-8eca-47a3-9cea-c7df3d38882a', '86965d74-453b-470c-8d90-e7bd57232ee9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72cd0653-d05c-4ec1-97bb-9e0ebf8f2735', '0d87836d-8eca-47a3-9cea-c7df3d38882a', '2140cd59-c815-4890-ae70-0c5a83dcaf67', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b1e2c0c9-5319-4e9b-8226-6478fa05a1d9', '0d87836d-8eca-47a3-9cea-c7df3d38882a', 'daaa4288-2d27-4d43-ad89-4f45bf76e834', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3afd79b2-656f-4537-b938-7ccc66d1e08b', '0d87836d-8eca-47a3-9cea-c7df3d38882a', '9c63e62b-23ff-4b7f-910f-8f82dc94aa87', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3acf580c-eaa9-4c20-a602-0e4c5c9866f7', '757ce33d-c89d-4cdd-89e2-391a2847daee', 'e947bd48-30d2-4bf4-af24-585b25d46466', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7a6e8857-9c85-4150-bac3-9dedfccc77be', '757ce33d-c89d-4cdd-89e2-391a2847daee', '7d9a3a11-ee00-482a-a108-bcda66912fce', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8567a0f-0074-4861-8a65-7ced03796002', '757ce33d-c89d-4cdd-89e2-391a2847daee', 'a3b4345a-4b47-4225-a460-6c0e52b8c547', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '105482a1-2e7a-468d-a996-9e47142d528d', '757ce33d-c89d-4cdd-89e2-391a2847daee', '8b56bd31-8007-4ae4-9318-17cae0d3a3d1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b07b9dfe-62e6-412b-962a-563148d02017', '757ce33d-c89d-4cdd-89e2-391a2847daee', 'e1e63d17-aa8f-4eca-884f-94af4f81e269', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b1786f6-3946-4677-a2cc-be00f327292a', '757ce33d-c89d-4cdd-89e2-391a2847daee', 'bb445ed7-aff8-41ea-8df3-699b03b2e29b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '69a3589e-3383-4c8a-8cdd-ebee150dbfd4', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', '5ec44587-01a6-4736-a6c4-d0ae24d286ed', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90104d4c-25cc-4f2d-8a5b-92c8808d0397', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', 'a96b7998-30fe-4bd8-b6d9-fb67e2d9e9d9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0a569b82-63b3-4c04-a7b5-19a6e8055263', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', '393a09a2-5cc2-46a9-a2e3-eb4d26bc9a0b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54d927e8-acaa-4df2-be72-03a847c550cf', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', '580fb600-c101-46af-94ea-1a223cb6fae1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9cd7aa22-f6a1-4660-bc77-2cdc419dd8b4', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', 'cc3b7984-5cd5-49d0-9258-6befebba62d0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '558c8aaf-b4d4-4e82-b889-9839845727a8', '0fb54cdb-00fa-4420-9230-1ad4d1828d0b', '0bbd9eff-498a-44e3-8b84-0a5c001e7755', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd7ffcbfe-99be-4ccd-9ddc-aeb38e99dafe', 'a64a1fe8-4c7e-450e-8870-cee090012e3d', 'b933a604-0815-4ffc-87c5-fdc9ac4a9389', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c058d07-0167-44a7-8118-724b1c4fc5ca', 'a64a1fe8-4c7e-450e-8870-cee090012e3d', '9fb16eed-c0d2-4fab-a6d8-cac7d55d3f5e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be9cf893-b3af-46a5-a708-9aceaa312cf6', 'a64a1fe8-4c7e-450e-8870-cee090012e3d', '4106fe03-085d-46a4-80be-29940f91074c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0826a1fe-e32d-4d94-8058-d7c3959c1aaa', 'a64a1fe8-4c7e-450e-8870-cee090012e3d', '93b1f86a-6a56-4c99-9f93-a83dadc009c7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f75aaf9-1f77-41cb-8510-4ab916f9dea3', 'e78ac462-c15a-44ac-82a1-1856fdd6b6a2', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e188dc50-4f47-48a8-96ee-9d51307f9dfc', 'e78ac462-c15a-44ac-82a1-1856fdd6b6a2', 'e4f32b74-4f04-4cc4-82a1-19193852c9fd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f90afcce-f2a7-4ca8-971b-8d89342a93c3', 'e78ac462-c15a-44ac-82a1-1856fdd6b6a2', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b700a77-b426-4bc8-8b35-6592926d5b50', 'e78ac462-c15a-44ac-82a1-1856fdd6b6a2', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4945172e-aee1-4c1f-ba4e-21c7dd12138c', 'e78ac462-c15a-44ac-82a1-1856fdd6b6a2', '89e0aa13-df65-4334-9117-77f211d3dc7d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e35eb3d-258d-4210-9219-bbbfe47c41e4', '1eccc5e9-f1fb-4f83-809e-f97013da5c21', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f96c1a02-ce21-485d-bd5a-bcd0166eb506', '1eccc5e9-f1fb-4f83-809e-f97013da5c21', 'f5290303-16c4-43cc-8c8a-3d97f5c3a174', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed73b329-382c-49aa-b26b-92f8055239ef', '1af9fb34-592f-4454-87d3-9c3a90b0f057', '8ae5c6cb-9c56-4af6-890e-e291d7ec5436', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3c21603a-4af1-411c-9dbc-b689ecd53db9', '1af9fb34-592f-4454-87d3-9c3a90b0f057', '804eae6d-a9d8-4553-8db0-d366433fa917', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c28d285e-35a9-454e-a72c-526cbc7f1cbc', '2192b252-f445-4a27-98a1-36a60c035e84', '6d521b89-7a5c-4321-914c-109ad65203a4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a77f629b-c439-431f-87f5-d2e3d1fc1b40', '2192b252-f445-4a27-98a1-36a60c035e84', 'beb51a42-e3e3-4511-be44-faadf85db339', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e227e957-f8b0-4bb1-8cac-2232c17954af', '2192b252-f445-4a27-98a1-36a60c035e84', '6bdbd4f4-b638-458d-bc1d-f2ec5236acb1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9821627e-fdb1-44aa-8445-741d60d486f6', '2192b252-f445-4a27-98a1-36a60c035e84', '3ba3727a-c4e3-438f-9e17-a5de4981d840', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c39bb7ce-a742-4e62-bfb0-146ff4af4d3b', '2192b252-f445-4a27-98a1-36a60c035e84', '2bcd72db-a169-4e4c-ab3a-b4d05a9b4ea4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '146ad7f7-e512-48e9-aef4-20b1848e8e1a', '2192b252-f445-4a27-98a1-36a60c035e84', 'b05cde7a-6ce2-495e-af46-253cfdff1437', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3c461f5-8c9d-4202-a1ac-1915987006b0', '797da4ca-e8ea-4928-8d82-7a8d077f023f', 'd944382c-b4bd-411f-8ec0-1cf3691fd2a3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '10441883-3348-4e73-820f-1c57db06bc01', '797da4ca-e8ea-4928-8d82-7a8d077f023f', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d9f4e69-abce-4cbb-9ac1-8d84b38d7530', '797da4ca-e8ea-4928-8d82-7a8d077f023f', '88fe4d1d-f875-47e6-8f5b-62269e3763d4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f352ad4e-498a-4f3a-8b30-c159314ed350', '8300b1de-215a-472a-a852-3c8af0f88f8f', '1bb0d9c6-c6c7-46f3-a2b0-d8f5434e9e34', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '79933d3e-e3b7-479d-8967-ed73e745eb93', '1a4d30cf-c495-4fb0-959d-a961b5ac0524', '7c82a48d-b5f6-4f22-8c82-8684e676fc65', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '97e1bbbd-6eff-4ecc-85af-546a8b1a2125', '1a4d30cf-c495-4fb0-959d-a961b5ac0524', 'd857384a-db9d-4867-b5c5-5dc6c1cd09af', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '554d1e34-c6bf-4cae-99cc-a93491b064ab', '1a4d30cf-c495-4fb0-959d-a961b5ac0524', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6fee60cc-8250-4eee-ab6f-a8085b7ff143', '1a4d30cf-c495-4fb0-959d-a961b5ac0524', 'a3b4345a-4b47-4225-a460-6c0e52b8c547', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0aa82acb-0850-4ed6-8ae8-74fea7be7a8f', '1a4d30cf-c495-4fb0-959d-a961b5ac0524', '6d89a54c-7d5a-499a-96be-3aaf17ebd683', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77f1b09c-4fb7-412f-a667-fae8e02e6b55', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', '9b9217ec-35b6-453c-a68a-5989845d5933', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9bf5d151-bc01-4da5-906f-abf7388f62f7', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', 'bc57798d-2df4-46ee-87af-5d0e26fc142d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8e4c0da2-a5e3-4dda-9df6-20d55f8fc166', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', '1f9bd6c9-c5dd-4d6b-9588-b1e96de1b1f0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a924fde1-16aa-47bd-952e-cf6828cdfd6c', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', '6d821b83-ac6e-4eba-8132-ca65a06d7b0b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6117189e-2305-462b-b78d-f18b0ba74714', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', 'fe3297c5-7375-4269-b13f-0747aad0de5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2970f30f-6f88-4265-bd6d-61ad93edc85d', 'b4014cb3-9e7e-40c6-af99-bef1eb90e084', 'c3c8a8e6-20b6-482c-94cb-45fbcf68c0ef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2ce3a8f9-1c52-4801-9723-4eec72bfac06', '61776cbc-2fab-4199-99c1-04a32a3cf23d', '68f9d8ef-4050-4d98-99c9-238bde83f790', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e995594e-039e-446b-bd18-603f3f8cf737', '61776cbc-2fab-4199-99c1-04a32a3cf23d', '0ae9c484-ff6f-40bf-aa69-dd3c5dedf254', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72025974-2078-4f42-8edf-ef1a9720b7fd', '61776cbc-2fab-4199-99c1-04a32a3cf23d', '291fe1dd-2867-4b94-90c2-4f39d0524fed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ac63d3b7-230c-48ee-a7a7-e5344b490ef9', '61776cbc-2fab-4199-99c1-04a32a3cf23d', 'ea66eda3-30e4-435b-9c41-c9a45ddb6696', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c98f9ce-dd19-4841-9915-81399f1aa7bd', '61776cbc-2fab-4199-99c1-04a32a3cf23d', '58c559f7-245c-43b2-baea-c2d6868cf57e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e94f79e2-364e-4839-8d59-abd3fecf74f1', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', 'cd269c2f-2f6f-4569-84f9-275f0319fbee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5a8e6314-178a-449e-a516-33d86d342a4c', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '99478fae-4c1d-420e-98a7-9b086a94c2de', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', '3e270283-b252-4281-b4a2-e51c795d5f68', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '976a3b46-c563-447d-a357-58f4d1ab4559', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', '9584a34e-66de-4799-9d49-caa57bda627d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8b68f881-47ee-43d3-925b-94be1f372a30', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', 'd9715fec-8106-4b10-aa87-54df24f321dd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b49d8207-84e6-431f-a3d5-cb2a4989eb38', '2f17eb87-75f6-409c-a3f7-e494a69bae2b', 'a9e1de0d-697f-4ede-8c45-c1b7c864ccce', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d529a50-5c5d-4943-a1e3-e3c91e7cdf1e', '611cfe08-bee2-4017-b929-def78a1d444b', '525446e6-e0bb-4386-8ba7-b1ed4accc81a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b140b0ea-25c1-4c20-9b7f-d4b8acc58ef8', '611cfe08-bee2-4017-b929-def78a1d444b', 'ea66eda3-30e4-435b-9c41-c9a45ddb6696', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dcb76012-6591-4961-9793-5006643c4c9c', '611cfe08-bee2-4017-b929-def78a1d444b', 'e5302cbc-647e-43ab-8f3a-fbbf06731024', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc790ed0-be2f-4f69-bf1a-6288c13bcd89', '7fa669b0-9681-49be-ab82-22cc03a098d9', 'a60fd2a2-2621-492b-98d7-281cf63190bd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8522e557-1309-46a3-b8c7-6913cc31bb9e', '7fa669b0-9681-49be-ab82-22cc03a098d9', 'd48f3bd3-4e75-45d1-8441-d8f386fc965e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84433404-2793-4177-9c93-c0a5ba622464', '7fa669b0-9681-49be-ab82-22cc03a098d9', '5afd18c7-60d5-4ae6-ae48-c47beb033679', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ae671c1-efa0-47a7-8511-73d8c45e3e17', '473a7a12-17d4-42cd-9dd0-ac0492530bc8', '8b56bd31-8007-4ae4-9318-17cae0d3a3d1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4eaaf7d5-577d-4bf4-9299-24028290980c', '473a7a12-17d4-42cd-9dd0-ac0492530bc8', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '789b8b42-cdd9-4c09-b818-704a80f1abfd', '473a7a12-17d4-42cd-9dd0-ac0492530bc8', '4c7250f1-8422-4a41-ace8-93b04c5f53ac', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4559767d-728a-45c6-9949-bdd69715488f', '473a7a12-17d4-42cd-9dd0-ac0492530bc8', 'e504f668-6b68-4a63-a298-fc9a76e574a6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6bd40cbf-b7a4-45b5-b371-0d55a7e1e567', '473a7a12-17d4-42cd-9dd0-ac0492530bc8', '76eabba6-6f29-4ff7-a280-1b3e388fd5c7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b0c55361-69ec-4a32-98f0-a8c067341c72', 'c34b22e4-82ba-49cf-9265-cba43f06fc9e', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b9b764ca-e65b-46c4-9c09-67f5639925b0', 'c34b22e4-82ba-49cf-9265-cba43f06fc9e', '2c8d50ba-2033-4780-a723-ae5d1b431513', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ac120f59-2adb-4f6b-acaf-380365f886b0', 'ba462690-3baa-452b-9615-37ece4deb2d2', 'c3c8a8e6-20b6-482c-94cb-45fbcf68c0ef', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72cb22e3-1f6b-4abb-bb51-2daaa118872c', 'ba462690-3baa-452b-9615-37ece4deb2d2', 'e270ff85-ee00-4cbd-8b43-a5f00759c0ec', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f49da47-1370-4c23-9aaa-8064c136001d', 'ba462690-3baa-452b-9615-37ece4deb2d2', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'acc57bd2-dc6c-4150-8a3d-23bfcc7a5bac', 'ba462690-3baa-452b-9615-37ece4deb2d2', '5f5c7a55-e9e7-488b-9a54-61d6a699710e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7aaa1c4-11d0-4e3e-9b46-5c372aef7781', 'ba462690-3baa-452b-9615-37ece4deb2d2', '01ebc779-045f-4aaf-aa37-8641ceb27814', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bdf902ac-49b4-4419-a405-64725375fdd0', 'f12b2fff-e44d-4c32-9fff-8638eb443d03', 'ec15872a-55fe-4e2f-a1fd-761e64c37745', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '30c3764f-0611-4962-b756-edd99eabb8da', 'f12b2fff-e44d-4c32-9fff-8638eb443d03', 'dc2fd452-a7c1-4988-9c37-da4d5525abd5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3f8dc260-630e-4a7e-8e5e-3a45e2af73c9', 'f12b2fff-e44d-4c32-9fff-8638eb443d03', 'e62bd9e4-3b48-48ca-8e1d-8db814a92ae1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '74ad90d0-8d9b-4195-859b-098a60cd7ce7', 'f12b2fff-e44d-4c32-9fff-8638eb443d03', '6bbb7493-4fee-456d-ad60-d1d0a2ab7d55', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'adb797ec-0dee-418a-900f-437aa3604e8f', 'f12b2fff-e44d-4c32-9fff-8638eb443d03', '6f80ab1c-aea6-4822-b237-780a14ea8a41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0cb63700-326d-4faf-b788-bac61b22ee4e', 'cb330ea2-44e9-4015-9345-c6c00d778202', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31e7a71d-55c1-48b2-8357-a758a2c7b00b', 'cb330ea2-44e9-4015-9345-c6c00d778202', 'f5f59c20-0ea1-4526-a8f0-35f6ca1a9033', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3804a82-816a-47e2-937e-54e3d96cd1ed', 'cb330ea2-44e9-4015-9345-c6c00d778202', '4ed2d621-cb48-4e1f-a0e3-3371bace8048', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '013ebfce-9d63-47d6-b8fa-e39fc24c75e6', 'c92c3266-38d5-491d-8527-04b50494b67d', '5eb15397-9a77-4ba6-b51e-8527d8113ce7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc7eea2e-123b-4d3c-8ddc-925552b55489', 'c92c3266-38d5-491d-8527-04b50494b67d', '76e8adff-0689-4a7e-b860-d0e9078c049c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6fa1f15e-5905-4fe9-8134-8234c7b21988', 'c92c3266-38d5-491d-8527-04b50494b67d', '480686ef-424d-46b7-9a22-5225d05581dc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee40404a-71bd-45f5-b6ea-ebae26455f4a', 'c92c3266-38d5-491d-8527-04b50494b67d', 'a385c312-0a26-4c0c-86a7-bfe17068fa66', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2118bae8-8e9b-4df4-aa79-05a88540b311', 'c92c3266-38d5-491d-8527-04b50494b67d', 'e56a3721-5cfc-4448-94c6-03c2c3ab1d10', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49d2088a-8ac5-46dd-9fa3-03608261104c', 'c92c3266-38d5-491d-8527-04b50494b67d', 'a96b7998-30fe-4bd8-b6d9-fb67e2d9e9d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a74fc27d-fe17-4a6f-a040-36f6f1635d6f', '99de8d00-8768-415f-8fc0-1a78cc9c57ad', '8aba66c0-2b98-46db-808c-70971440cb75', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4f471c5a-835a-4694-96e6-e5edcb85ca9e', '99de8d00-8768-415f-8fc0-1a78cc9c57ad', '9dcc5725-e045-4900-81ec-e7157cced1b4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ec586303-5b72-4348-92d7-d71786c6fb38', '99de8d00-8768-415f-8fc0-1a78cc9c57ad', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1cf2ece8-74a2-499c-be42-dc8faca7b5bf', '143d6fb8-7631-4fad-aecd-d1536dfe000a', '5e4b1d8d-8b57-4dfd-9605-33b8d2c63009', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '62bf75c2-06a9-4eaf-be7f-0f8b351eed07', '143d6fb8-7631-4fad-aecd-d1536dfe000a', '46963fa0-1103-4084-b770-51ab7cc8d465', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb6f9455-fda5-45a0-81c3-2ef6849f5ca1', '143d6fb8-7631-4fad-aecd-d1536dfe000a', 'cd082850-c5ed-4baa-8702-67d6466400ee', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53cbfb86-4068-4e69-9241-16a97219303e', '143d6fb8-7631-4fad-aecd-d1536dfe000a', 'b7fa5f42-45e8-49b3-90c8-966f2ff45120', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d2a0015-7376-430c-b20a-983600f55155', 'e93c2e93-420c-4db5-8bb2-ad8fb35e2241', '52f8c1de-13d7-4c30-8f09-264ba5587b89', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3601649f-71b0-4e8f-be9f-e9e0ba1337e2', 'aa4dc3f7-ff62-45bc-b3a7-320ac2a6ff6f', '2b1a798d-9c53-441b-9ccf-147f48d8ba1d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e0a5c0d-5f3c-460d-93ab-d1cb8d928032', 'aa4dc3f7-ff62-45bc-b3a7-320ac2a6ff6f', '8ae5c6cb-9c56-4af6-890e-e291d7ec5436', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '11f8c15d-0599-477f-9817-33c32eb70668', 'aa4dc3f7-ff62-45bc-b3a7-320ac2a6ff6f', '9c720167-3295-4eb9-b038-7e97d690b30c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0bb71e4d-426a-48e8-9772-2f43db5c2ae8', 'aa4dc3f7-ff62-45bc-b3a7-320ac2a6ff6f', 'd55af6bf-30da-4d0d-a736-316948bf541f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a59c4eb8-c85c-4894-8a01-22395bc7fed2', 'aa4dc3f7-ff62-45bc-b3a7-320ac2a6ff6f', '98e291c6-a267-4fbd-9ae5-704734886aaa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c57662a5-317b-4c5a-972e-c0e6d83edd8b', '25b7104c-5283-472e-815a-1c0340a47cdd', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '94fca708-3d22-4ede-ba20-d4cbdb2425eb', '25b7104c-5283-472e-815a-1c0340a47cdd', '307c10c5-268a-41b6-847b-9eeeff56dcda', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5e548fb-f014-48df-96be-84a71a2f0c36', '9bd95d68-42bc-43e6-b6b8-87bac2c8d641', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf504299-0133-4b0f-bd0c-adaec30cafe9', '9bd95d68-42bc-43e6-b6b8-87bac2c8d641', '3d8d7ddd-89a1-4fc9-a733-d065a13f7cd5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '417af9bf-f5ea-45c2-86a7-a883b29473ec', '9bd95d68-42bc-43e6-b6b8-87bac2c8d641', '291fe1dd-2867-4b94-90c2-4f39d0524fed', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3b8b57b-939c-4b1d-a2d0-fcbdbbc09f9c', '9bd95d68-42bc-43e6-b6b8-87bac2c8d641', 'd63506b1-ed61-4450-a8c7-3e75f0eb6df8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b14c0327-ad18-459d-a7c1-cd948fc695fd', 'cd6c0d05-6ae2-4926-b451-171d67ebb14d', '9088da5b-59b7-4f73-b605-57e3fa16de81', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3abb5ba1-93b0-49f6-8643-3ba5588d5c2b', 'e69bfdc5-7de2-4074-be7a-c4b410c149b3', 'd56099a4-7de9-4185-85c9-78b95fb11007', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a04a12f7-4313-441a-b532-1ce7e4ff2b4d', 'e69bfdc5-7de2-4074-be7a-c4b410c149b3', '8dee7725-fa3a-4433-86c6-ad3789ab45cd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b81e20c8-bf08-4a4b-acac-9674d1f43cdb', 'e69bfdc5-7de2-4074-be7a-c4b410c149b3', 'd29c13c4-fb8d-4136-9475-2e81aa6e008c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e057188-86e6-4b43-be1a-fb534050fda3', '2ffdaa03-6413-4b7f-b3ed-55be0dce5932', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8dc0ab95-382e-4d8b-83e7-dba11f8fda2a', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', '175937c7-477f-4901-bbea-365c73de0062', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '412c2953-3034-4925-bc95-6ee8544b6535', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', 'a181ce15-62b1-4124-b51e-e76b462c0ec8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21552617-6254-48eb-a9e1-26b51c974d69', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', '07968354-b1c6-41aa-9642-b1c1f8a7787f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '18a839b2-2f7a-4d2a-bb90-3df453b522c9', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', '1aacd9ed-e2ca-448c-ab94-d78536cc1af3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7f609956-ad42-403f-b6f6-a02f79920ac1', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', '9dcc5725-e045-4900-81ec-e7157cced1b4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15427d64-7072-426d-ba8e-72761af6d330', '2b416e4a-79a7-4332-94ff-cf3c8fe35f4d', '715f12ea-5dfd-404b-81e8-c8baf29738f3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3f769f15-85ad-4c0e-84a3-eeadffdd2a23', '639c6a09-e9c7-454e-8873-22cc56450177', '28ee18c4-6518-4f36-b23b-e2ca4e911459', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8e30c508-6929-4ff3-9391-bed065e34217', '639c6a09-e9c7-454e-8873-22cc56450177', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e8ef6584-52ff-4e88-aa8a-b76c2e8f94b3', '639c6a09-e9c7-454e-8873-22cc56450177', 'e2351b31-b16c-48c3-90f4-fa947aca228e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60d6dec5-ec73-4fab-9544-7277ba17b332', '639c6a09-e9c7-454e-8873-22cc56450177', '4b85cbc0-8baa-4cb5-8b9c-de9516384f32', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd5906154-f887-4128-b830-f2058dc56788', '639c6a09-e9c7-454e-8873-22cc56450177', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'beb4c03d-be4c-4d71-b903-ca4b6a674c90', '5c99d882-5251-4556-abf8-cff93032899d', '7fad8ed7-9e1b-4f45-933e-315a3df3c6c3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98c53729-e35d-4330-88a9-2e35b9127db0', '5c99d882-5251-4556-abf8-cff93032899d', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3b921e4-abc0-47bc-ab49-59d8f3f9781a', '9a1d4f83-79e1-4eb0-a871-6f2569d66188', '5f940f14-a31d-46b5-b904-a3a6e0402a27', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5a7c926-82f1-40cd-8d7b-7edd80bfcee9', '9a1d4f83-79e1-4eb0-a871-6f2569d66188', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9300b887-678a-4d27-803d-6f15bf7adf5d', '9a1d4f83-79e1-4eb0-a871-6f2569d66188', '2daeef64-6984-4a46-9cc7-7138d35c1990', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6729b3a4-60ee-44f7-8f2c-3b9af6fb2598', '9a1d4f83-79e1-4eb0-a871-6f2569d66188', 'f4d04bf3-ddd4-404a-b617-f49e93d30398', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5000fdaa-095f-4d0a-9957-8d8a8ddba5cf', '915c60de-8f6b-4d72-9b06-adb194d82268', 'df5854a3-de05-404b-85be-d3496485e9d5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3c9c9d62-8580-410a-8494-0e71b604391b', '915c60de-8f6b-4d72-9b06-adb194d82268', 'e7c1e3a0-5a54-4029-a526-91b20e5c1f33', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fd8d1bb-5e68-4eb8-a618-c029a2bcd473', '915c60de-8f6b-4d72-9b06-adb194d82268', '88fe4d1d-f875-47e6-8f5b-62269e3763d4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd968798-fba3-49e6-bf31-6839f2a3026e', '915c60de-8f6b-4d72-9b06-adb194d82268', 'b18c81ef-7b38-40b1-9dc6-790251ec5832', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4df5817f-c4ce-4de6-977c-2ba32a936d54', '915c60de-8f6b-4d72-9b06-adb194d82268', 'a68a1472-ee54-4dde-8b12-44d7417a99af', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c02556b-d580-42f8-8a5c-0d4c0ff29ef8', '915c60de-8f6b-4d72-9b06-adb194d82268', 'c23e25b2-5547-4d5d-9388-ff34b7122a1f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aa0ff4bf-629b-46ec-b97c-0d3dfcbcca76', '57998eb3-1dc8-4895-b233-ff2d7726fd37', '746d3a21-9b72-4cd6-9024-899db09d249e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8a9cdf30-799b-4d0a-8a75-0311adbe885f', '57998eb3-1dc8-4895-b233-ff2d7726fd37', 'ce2672a0-2781-4907-bcb7-7890221a61ee', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7752d1ec-1588-4aa9-95d1-b17e9b7e889b', '57998eb3-1dc8-4895-b233-ff2d7726fd37', '103f660b-aaf0-4078-a715-fbfc1503d259', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '028c2e07-0482-4029-81ea-2b09d4df1c30', '57998eb3-1dc8-4895-b233-ff2d7726fd37', 'a4429c51-5140-429f-8b10-bf8b6a087b14', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '033ea473-e036-4fee-87b6-343a129546b8', '57998eb3-1dc8-4895-b233-ff2d7726fd37', '9c63e62b-23ff-4b7f-910f-8f82dc94aa87', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd2b5102a-4cea-4388-acb1-eac734d49153', 'facdca17-9de2-414d-8feb-d14f653c5d52', '2bcd72db-a169-4e4c-ab3a-b4d05a9b4ea4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71c5b7b8-67f9-4d5a-a14f-410187b98ded', 'facdca17-9de2-414d-8feb-d14f653c5d52', 'a9e1de0d-697f-4ede-8c45-c1b7c864ccce', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34f6b240-0119-4c0c-af35-3d0731dc928a', 'facdca17-9de2-414d-8feb-d14f653c5d52', '5b50fa85-a6ea-464b-b598-478927c96eb3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '87268992-44dd-4537-b04c-729b4a4ff19f', 'facdca17-9de2-414d-8feb-d14f653c5d52', '35bfa56f-2622-4abc-a17b-c8eb42108cc7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a2212039-83c9-43d0-8062-77425ef942a4', 'facdca17-9de2-414d-8feb-d14f653c5d52', '7ff095a8-1f97-4f9d-be8d-e0f607801bd9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e443107-9b43-4a09-b308-3de6e7f5d51e', 'facdca17-9de2-414d-8feb-d14f653c5d52', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3cb1eeee-40ca-49d5-909d-009ec64ea3ea', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '0a8b67f9-a4fe-4508-aa39-8e64a4b63b6d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d26badd-116f-40f9-9578-58df6bbe0cf3', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '8571e7bc-c17b-4268-871e-65365f88fae0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '00231610-eed5-466d-a46c-5847628d7447', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '60ffc5e7-2f17-413c-9a2e-14bbb4b554a1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d025058-5fd6-4e9b-9498-740bd815b1bc', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4ab537f-4839-4aab-b482-26fa2a9d97c1', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '5f4a7eaf-c105-4a62-bb21-899e2f384927', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bdd98534-251a-484f-834f-be3501c9819c', 'bf5ce1a2-ba00-43d8-bda8-180e70c0bbab', '7f18a34c-1207-4310-94a0-8ce38f23f508', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '740e6783-1541-450f-a0a5-ac0f3acf9b37', 'ffa51120-3c18-4d86-904b-ec6bf3c15cd9', 'a00be8fd-1931-4236-97d4-9e5220e9bcdc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a84b9c64-b6f6-4ca7-9f85-c82dd72ff96f', 'ffa51120-3c18-4d86-904b-ec6bf3c15cd9', 'e862d6fa-fb66-42ce-9788-a47119350b61', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eae96de2-323f-4437-8d50-60154061b1d3', 'ffa51120-3c18-4d86-904b-ec6bf3c15cd9', 'a9144dec-a200-419e-ac61-57df38f3ceef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab40c477-2c5d-4ace-a513-3de2f1746ce5', 'ffa51120-3c18-4d86-904b-ec6bf3c15cd9', '88e45452-d27d-4fd9-a9d9-7fe580c94602', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a7f8a6e-21f8-47a8-8c5a-fefee4429891', 'ffa51120-3c18-4d86-904b-ec6bf3c15cd9', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1375f452-d53d-46b7-86f7-4d269643a482', 'c4e18cb6-995a-451f-9bec-2e477badd71b', '80bf9712-85a1-4195-aace-52adba5936f6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c07562d7-fcb0-45b4-afff-7f7acb5b3bf2', 'c4e18cb6-995a-451f-9bec-2e477badd71b', 'a10d454f-7171-4d3f-bc4f-ae5affc0c374', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4832b929-430a-4352-a841-9eabaddad179', 'c4e18cb6-995a-451f-9bec-2e477badd71b', '0a9aae87-5212-4e11-a0c6-52ac3a3cbe4a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ee42390-230d-45cc-a4ff-c0e70fb3b5d8', 'c4e18cb6-995a-451f-9bec-2e477badd71b', '21114a75-69fe-495b-b887-31ba4925a44b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '325e62e1-93b9-4b29-9046-24748217eef9', '8b6c96a8-f8f7-4c11-b73f-8565c4a900f1', '4c424f97-6de0-4eb7-b5c5-30fe8bc4066e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cef558e8-87ea-431d-aec2-07d22b3a91a9', 'c8738d3c-7523-4b32-9be6-42c1a9405ddb', '9ee8d647-1cf6-4945-8003-3a664e1a3ff9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '05b31c22-85d7-4ab6-8ef1-83f25c7fd189', 'c8738d3c-7523-4b32-9be6-42c1a9405ddb', 'a12348ce-e39a-484d-8a8e-d9b9534ec322', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c319dc88-8a2b-4071-a27d-6f6211557a00', 'c8738d3c-7523-4b32-9be6-42c1a9405ddb', 'a031ec70-0271-4999-8032-227caf70cc4b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b33fc398-0317-4bb1-95ea-23838c8f3b65', 'b666ca42-00ce-4e71-8df9-7af9abcc7cc8', '568b5723-383b-4367-bb62-a754012c2ff7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9141787-10d6-4e48-9d4c-e0b0b9d028dc', 'b666ca42-00ce-4e71-8df9-7af9abcc7cc8', 'b10fbcb9-a17d-4891-b32d-f065b9481513', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0b1dba9-58f8-4cb0-a74b-0906e4af3dcc', 'b666ca42-00ce-4e71-8df9-7af9abcc7cc8', '8cdbc0b3-0071-480f-81c5-45f297cf3ec8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c43d4b5c-0b1a-4577-a58e-1aa78f48c70c', 'fc3ccc87-1e1d-4f16-b7aa-a5ffc78380d5', '0d4d6a51-e9b1-44e0-b598-e0ab4f876450', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '14ee2057-222e-4354-bf41-20e3b78c7871', 'fc3ccc87-1e1d-4f16-b7aa-a5ffc78380d5', '971c2e93-ff26-475c-93c9-4e6257b8b114', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '03463db6-c9db-45ee-a374-943cd5afcbdb', 'fc3ccc87-1e1d-4f16-b7aa-a5ffc78380d5', 'b4d24b8b-7528-472d-8f09-a13bdebbe9e1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3caa120f-eb88-4ab1-bb22-6408f2d09b13', 'fc3ccc87-1e1d-4f16-b7aa-a5ffc78380d5', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '64fb908d-92a9-4dc2-abfc-470e47731b36', '88a52355-068b-4516-bf10-b65a09d2542b', '5c5f96b3-c887-40b2-8eb0-953e9d401a91', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3e67a61-31ad-4d4b-b390-ea9bcb72bb98', '88a52355-068b-4516-bf10-b65a09d2542b', '33e7abbc-a6d6-4fd2-adde-d051e43862f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a464ba47-37db-4391-80b4-a270a6cfdd65', '88a52355-068b-4516-bf10-b65a09d2542b', 'b4378b5d-8d57-4347-a838-af81377a3c91', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e8629c9d-8208-4b94-8b8d-03ef7aed6fdf', 'e8e23422-9834-48ad-92b6-70ae0e5c4e0c', 'b1b144be-1277-4547-bbe5-b57f1b00daf2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '310ed0ae-3907-449f-a253-d9a2e2e7068f', 'e8e23422-9834-48ad-92b6-70ae0e5c4e0c', '0bbd9eff-498a-44e3-8b84-0a5c001e7755', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7e3a996d-270d-4036-8f1e-c1e746da8033', 'e8e23422-9834-48ad-92b6-70ae0e5c4e0c', '5cb9cd2e-aaef-4082-9635-8f2c79bb6457', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f3313c8-6fbc-4408-9198-d98954ceaf30', 'e8e23422-9834-48ad-92b6-70ae0e5c4e0c', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7fe9508-2737-42a9-be6d-190a6599d00b', 'e8e23422-9834-48ad-92b6-70ae0e5c4e0c', '5e25c053-9af0-4e05-878a-f98920dfabaa', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28a2b187-d4a1-490b-ba56-1a46e8d61620', '40698f11-1650-449b-b8bd-8a6de3036388', 'ad7e87c6-25e7-499c-80a3-3ffa88f65986', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f2d17e6-000e-4d5e-ac65-de10d317b89a', '40698f11-1650-449b-b8bd-8a6de3036388', 'daaa4288-2d27-4d43-ad89-4f45bf76e834', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15e5a4d1-0339-4294-be78-4a041f21e439', '40698f11-1650-449b-b8bd-8a6de3036388', '14706e51-73ce-45d9-9a8d-e81a993712d5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1366a8b7-48dd-4f48-aa5b-c4d61bd3a08f', '40698f11-1650-449b-b8bd-8a6de3036388', '52f8c1de-13d7-4c30-8f09-264ba5587b89', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b667580-87c0-4dd8-908a-d55b6b231cac', '40698f11-1650-449b-b8bd-8a6de3036388', 'e4f32b74-4f04-4cc4-82a1-19193852c9fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1cf2c3cf-a062-4db1-810c-a447dc3a2a65', '209dd821-fe3b-4250-8ee4-d77dd64ebc4a', '4fbad14f-573a-43f7-b420-d32c2c371732', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '159b4977-1169-47af-92c3-f572e16a11b5', '209dd821-fe3b-4250-8ee4-d77dd64ebc4a', 'b0e5e485-dcca-45c1-8e65-f00f8580d09e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd2f9576-1442-4cfa-9dad-2ba35f731899', '209dd821-fe3b-4250-8ee4-d77dd64ebc4a', '5ea49cb5-7e76-4352-a854-24acbb35776e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b1c7bd6e-d9ba-4c0c-96cc-1c703733ad7c', 'c237059c-0aa6-4d8c-93a8-f580ed5b84a4', '822e7c05-e726-45be-8347-05ceab0df4a0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07ba1709-c420-41d6-8c1f-584aede1040c', '1ac580da-ad55-4d5b-ad00-e0894b179a40', 'a274956a-4915-48c2-8b90-00672e131a8d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4c4b6bc8-c9d1-4010-bfa1-6a5bfa0873fa', '1ac580da-ad55-4d5b-ad00-e0894b179a40', '8c363725-27cb-431a-a4ea-ff9cab9dc661', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd03b1eba-1268-4ffb-a249-4988080fd82c', '1ac580da-ad55-4d5b-ad00-e0894b179a40', '9cfec75b-ebaf-4e7a-ac64-f3caed8901d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed171575-624a-4e71-b8ff-b6692ae18d2d', '1ac580da-ad55-4d5b-ad00-e0894b179a40', '48656725-9a0a-4bad-af02-a9da87ee137e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4e749a54-15e6-42ce-92a5-905a73c2ae33', 'd129ca14-52be-4c63-9617-8a026b7153f1', 'dec84ed8-a608-4358-8409-f18b88e3b97a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3bd9760-8177-4d53-8485-651a68000115', 'd129ca14-52be-4c63-9617-8a026b7153f1', 'e2212014-8a08-48c1-b04f-e1ed85c532ae', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'abd0cfa6-dc38-460c-b2f7-1fc0562366dd', 'd129ca14-52be-4c63-9617-8a026b7153f1', '49ac692b-2df9-4221-910a-cee1227ffb22', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '312649be-a884-4d47-a1e9-0fabec2659eb', 'd129ca14-52be-4c63-9617-8a026b7153f1', '7ece6d8a-3f5f-4eb6-a6fa-12189670958c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4673ca38-ac53-41c1-844e-fddd3899cee3', 'd129ca14-52be-4c63-9617-8a026b7153f1', 'ba064cb2-9bb9-4820-a4b7-b6879d0823a4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cbbc634d-b317-4add-9317-bce898af4b14', '441a90f6-535d-42ff-9f53-96e35e4be867', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8f9fc88f-5a53-4115-9c64-1c45191c53dd', '441a90f6-535d-42ff-9f53-96e35e4be867', 'f4d291a0-5f8a-4d50-99ac-42d90337065c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dad10736-5cab-4a37-bec4-d63dcae658d7', '4e19f61b-57f0-4074-8687-80254deb5a28', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd1c380a4-274f-46d5-a58b-c47c9ae4f86a', '4e19f61b-57f0-4074-8687-80254deb5a28', '9e55c916-a861-4d6d-8c98-93a5d35137b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd43ac3a5-064f-45f0-8807-d73e4c65d071', '4e19f61b-57f0-4074-8687-80254deb5a28', 'be06fd03-469f-48d3-b0ba-759238cd79ef', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21687bdc-7b8f-4f2c-bd39-24a7cedffe5a', '4e19f61b-57f0-4074-8687-80254deb5a28', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '85ec93ff-6199-453b-b185-0071358ea539', '4e19f61b-57f0-4074-8687-80254deb5a28', '09586172-a929-4f1a-9d30-987216e63c8a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fecfd139-0c75-4d19-a64c-70c47976fa38', '4e19f61b-57f0-4074-8687-80254deb5a28', 'cd2c4d30-9280-4f46-9060-14d29f7b8dd3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7473e2e0-c874-4601-97cb-bb7eeadc7638', '9a0c9bb5-079b-4f3c-bcb0-86320edffa24', '13c05956-b96e-4cc0-b680-3869834d47a9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'da5e8938-c1ba-4ce7-98df-2a606bdf98e2', '9a0c9bb5-079b-4f3c-bcb0-86320edffa24', 'db42a19e-b9b0-47be-81c1-511625e68246', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe7d9bf1-7eb7-42e6-96e4-6b249a63a1f3', 'dabbec34-8765-4a65-86f1-11a34aa52844', '6734afeb-f0e2-421e-8478-41619c0f2f24', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc4fe7a7-d17d-4579-8ce4-796455ecd8b9', 'dabbec34-8765-4a65-86f1-11a34aa52844', 'e4f32b74-4f04-4cc4-82a1-19193852c9fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55b2d938-c90a-4f79-8e47-49130ad3662b', 'dabbec34-8765-4a65-86f1-11a34aa52844', '8bcce99b-09d2-4358-8f09-24c2add022fe', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0fd23c44-b215-4e2c-b1d0-8b6a3722b3e2', 'dabbec34-8765-4a65-86f1-11a34aa52844', '1958fcd5-f4d9-4a9d-9f52-4444917d0c32', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07262b4d-e5bf-4d74-b97e-9c8fe63acb47', '65c4a957-d1ae-4d70-b8e9-21432d26bc76', '8c5d182c-1115-4a26-8913-7c4c603f5813', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f2105616-6053-4e78-ac95-c6aa5d3614c3', '65c4a957-d1ae-4d70-b8e9-21432d26bc76', '567f8382-4d1a-4777-b1bc-cd24c842eac2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ef8420d-c29f-4f15-8507-0142729a344f', '65c4a957-d1ae-4d70-b8e9-21432d26bc76', '76efdee8-4275-42d8-99bf-9d47082ecd1b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf784ed4-1bad-4ed0-a7e6-d5e1337febde', '65c4a957-d1ae-4d70-b8e9-21432d26bc76', '5dd76d57-8308-4917-a06c-a278c313fbcb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4db2bfc-2244-4a10-8666-ebcd237dfc97', 'a10f2898-1601-42a8-bc6e-a6c94b9b53be', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ca089e0-b813-4587-bf91-c0045da631d0', 'a10f2898-1601-42a8-bc6e-a6c94b9b53be', '1fa5a045-897c-4a04-ac97-14c65d053721', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f69c276e-68e1-4432-9246-2ecb5b4dba84', 'a10f2898-1601-42a8-bc6e-a6c94b9b53be', '5ea49cb5-7e76-4352-a854-24acbb35776e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2ac8806c-4a15-4d18-92a9-21d216b39853', 'a10f2898-1601-42a8-bc6e-a6c94b9b53be', 'dd1c9a16-b313-421e-863f-643f2d92f81f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b909d534-2a29-4657-aa38-bc6c1d9dbd2c', 'a10f2898-1601-42a8-bc6e-a6c94b9b53be', '2c4c5dff-c002-45dc-80e0-db80f72220ba', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5e533cf1-953a-437d-8c10-dbc110d8b20a', 'a7c41123-66fc-4991-a77f-969bf8e104f8', 'b778e810-da76-4d18-a57f-e050006ab51e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3cd4f31-a098-4b76-812c-60dd4d9ac014', 'a7c41123-66fc-4991-a77f-969bf8e104f8', '76a9714f-7a32-4384-968d-9f478b31aa73', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '64f621a2-d1ea-4a6a-b717-8c468fab5afc', 'a27ab127-cf4b-47cc-81c0-568bb68df8c7', '40e5efc0-94ca-4061-a21e-0346bc5a207e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2709dba-b1a1-40f3-90a5-ab5fad88b1fc', 'a27ab127-cf4b-47cc-81c0-568bb68df8c7', '175937c7-477f-4901-bbea-365c73de0062', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '135535c0-999f-4465-8ebc-e25295a39e9f', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', '6bdbd4f4-b638-458d-bc1d-f2ec5236acb1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70ed224a-8e8c-4c46-8b01-500a59ddd496', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', 'a0b391a3-b775-4ade-a403-621d0bc3b1b6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8fe2c8e9-6db5-4645-99e4-e48ac448f227', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', 'e79ac3e7-b0de-43f1-abc3-f08bfee18d07', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6caaf21b-2e8a-4206-9963-38415434da32', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', 'f872c558-b37b-4e7d-a8b0-4d56b0330602', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c272cd5f-7f76-4ac2-ace7-3ea4acb245ef', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', 'd7ea6948-a1bd-42ef-8423-844b5f686462', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad6aa4f4-5fd5-4773-be5b-007e27f63312', 'c36afb67-f48f-43bb-8c48-1cdfa650d558', '491b9d32-2ad4-44df-82e4-b74559feddaf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '67354f7f-61b1-4bfb-a136-fae8bb6260c0', 'ea0737bb-cf01-431d-9613-58127ea1f024', 'b8358b5d-e709-4f54-8e27-bf69b9235cf0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4bd9db8e-d765-4edc-886c-ed975ee25f7d', 'aacd1de2-fe24-4865-8fea-f37a6e9bdaed', '0d4d6a51-e9b1-44e0-b598-e0ab4f876450', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df4e64c5-b689-428d-99eb-13d5af7b0138', 'aacd1de2-fe24-4865-8fea-f37a6e9bdaed', 'a97da9bf-a565-47dc-a9a0-9df10f583e05', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4007a269-cc98-4eed-a582-ab09a4a4fe70', 'd9d98ee5-b829-4881-9ba5-e5950a9f484c', '4e8e9849-aca2-48d2-930f-a2dad7e7e885', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8471f837-8cab-4727-883e-8f7303f8e407', 'd9d98ee5-b829-4881-9ba5-e5950a9f484c', 'a3b4345a-4b47-4225-a460-6c0e52b8c547', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ba270b1-ec35-41bf-8c74-4947bddd1694', 'd9d98ee5-b829-4881-9ba5-e5950a9f484c', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e304306b-0c84-4e99-93f3-7266cc8c4e90', '7f8933d4-30a8-47c6-9331-ea2a5d2ad543', 'b14c2def-842b-46f3-a1b5-59bec942a7d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f80cb3fc-aa06-4464-abdc-80a96a266b5a', '7f8933d4-30a8-47c6-9331-ea2a5d2ad543', '3149f24b-c530-4b9b-9268-4ac1b49416b7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '20898c23-8a2e-4f2c-8e0e-b5daf4d77012', '7f8933d4-30a8-47c6-9331-ea2a5d2ad543', 'a60fd2a2-2621-492b-98d7-281cf63190bd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ff35fd8-4318-4da9-8f01-0804ae98cbc1', '7f8933d4-30a8-47c6-9331-ea2a5d2ad543', 'ccfbbcf7-3b2c-446b-8b53-b89ac8f12605', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e7aecdf-5c87-40ab-a190-9bf30d525738', 'c57a67c3-1c1b-4461-a9fa-aa74955a31e0', '5cb9cd2e-aaef-4082-9635-8f2c79bb6457', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f89253ac-d600-4c77-bfb8-bea604a67a45', 'c57a67c3-1c1b-4461-a9fa-aa74955a31e0', 'f4d291a0-5f8a-4d50-99ac-42d90337065c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3aca5c15-54f7-43a0-aeac-14df9bf07e7e', 'e341869b-9a7e-4311-b279-ffeba249ee58', 'c7e2a24d-34b7-450f-adff-283570f2d3c3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2cfffedc-76bf-4853-a0a3-a4a30c5d852a', 'e341869b-9a7e-4311-b279-ffeba249ee58', 'f60933a2-74d2-424e-98a1-f40b68a638a9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dc7866a5-f02c-4892-b745-7b7056d6ebe1', 'e341869b-9a7e-4311-b279-ffeba249ee58', '65dc2fc0-138e-4bb2-9b2f-3d673fdd09d7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c9e94640-3e04-4f89-aa9b-9a2e4618180d', 'e341869b-9a7e-4311-b279-ffeba249ee58', 'c6069f56-4402-4b7d-899e-b201812fcf9c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd7abc404-6a99-463d-9b02-48a4dcd7f90d', 'bf5b3489-1371-432b-8589-a55bd94a1d74', '93b1f86a-6a56-4c99-9f93-a83dadc009c7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a51b4298-34d3-4aa3-9c91-f69bd66a262e', 'c4f1b5b2-865f-4f61-933a-c0740889892e', 'cdfff56c-6256-4c98-9c7a-7cfda039fcd4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb803787-b03f-4ecd-bbde-638cf01234bd', 'c4f1b5b2-865f-4f61-933a-c0740889892e', 'c771eb95-eb66-40e8-9073-47f01493db4d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '12dbf972-b481-441c-a45d-5ce29154d38b', 'c4f1b5b2-865f-4f61-933a-c0740889892e', 'd2cd2b37-3296-4997-a3fc-11c36d4da52d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '526b8bb1-2e56-44d4-b13e-61c2f2722041', 'c4f1b5b2-865f-4f61-933a-c0740889892e', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f37130b7-b48e-4f6c-96f8-f4aa07d2077a', 'c865bd17-201b-4f38-adbb-e6a855e87f40', '4a978068-1cab-4df8-8438-6bd351eb66e1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df1962aa-1bc0-47e9-8f1d-e5873b3f0920', 'c865bd17-201b-4f38-adbb-e6a855e87f40', 'fd5d4d8a-1873-43c1-8ef7-f8a8b0222502', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4a59ac4-41ea-408f-88c0-27ecb53f668a', 'c865bd17-201b-4f38-adbb-e6a855e87f40', '4e2ae242-a5ce-40d9-b619-627bef4e3526', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cdd2bdaf-f3c8-4928-bd13-b4effaeecde0', 'c865bd17-201b-4f38-adbb-e6a855e87f40', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b936103-52ea-40b5-a3b2-c2da45a1b199', '85a3e808-3d08-44a2-b1fa-508143167463', 'aa7b4a73-88a0-4b44-8880-5cd7d70f02ba', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd01536ec-d8c8-4e87-bf1b-b1a76da84002', '85a3e808-3d08-44a2-b1fa-508143167463', 'd6e040fd-e233-4792-be5b-e824ce9abb62', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3e27a34-b629-42d9-90d2-1700c9b567f2', '85a3e808-3d08-44a2-b1fa-508143167463', 'db4c1a63-5dfc-44fe-907d-3c6deffaf354', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06ee7ec5-d4a1-4cbc-a65e-6dbf2de78cea', '85a3e808-3d08-44a2-b1fa-508143167463', 'a0b7f90d-582c-40ec-9766-e6f66fb5b5a0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0937c4ec-91b5-4aad-a777-2869023b03cd', 'b8dfd8f0-3314-411f-935d-276e1905e95e', '715f12ea-5dfd-404b-81e8-c8baf29738f3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43217495-d774-4534-b79d-f99126623880', 'b8dfd8f0-3314-411f-935d-276e1905e95e', 'feb489b1-5d57-41cc-a636-cd2fadb3a906', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff989334-d0ab-4ee6-8510-b64337f2ee3b', 'aeae3e8f-9e28-4dc7-9b41-dd52d3614789', '91c5a706-c994-4370-af51-031026d06f19', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a30d4737-0772-472b-b18b-f12d01cb3607', 'aeae3e8f-9e28-4dc7-9b41-dd52d3614789', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b86d9e7-86af-4428-a5be-d74c01b4b69b', 'aeae3e8f-9e28-4dc7-9b41-dd52d3614789', 'f4d04bf3-ddd4-404a-b617-f49e93d30398', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6064204f-f3f9-4c9c-b595-bfacf179c031', 'aeae3e8f-9e28-4dc7-9b41-dd52d3614789', '525446e6-e0bb-4386-8ba7-b1ed4accc81a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15d91e3a-d30a-40e0-bd04-60d9bf5a2102', 'c755b013-43bf-4d63-8802-106b4610b1c6', '13c05956-b96e-4cc0-b680-3869834d47a9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce30bccc-c4c6-49f2-a444-41400dd3c939', 'c755b013-43bf-4d63-8802-106b4610b1c6', '2a7a1d85-d810-4a7b-8f00-1552ea38df70', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25e0a383-55a2-4c42-98e3-eab829f8b735', 'c755b013-43bf-4d63-8802-106b4610b1c6', 'ff47d807-d82d-4085-8f02-9e82c1786b99', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '96375654-b773-4084-8e06-f1cc9eed2f13', '2c58d86d-22f5-4189-b829-8b4265e352ad', '7c21a872-114c-4641-9bbc-b1ff02af6279', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c927440-766f-43a1-85b6-cbb55ce40494', '2c58d86d-22f5-4189-b829-8b4265e352ad', 'df3ca82e-9aa8-422a-950d-f3bd41daa1a7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d4fe69c-9a7d-4a4b-933a-46f9a713cee5', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0395ab15-3b9b-4d77-b70c-5db9390e75b7', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', '647a51ad-accf-470b-a677-62ccf2ee2d56', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '599cbd24-0ace-4c40-ad64-0c47599da15a', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '329ba5ae-eb9e-4dfa-bd87-f1619be18236', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', 'fa3702b7-a708-422d-9f2b-9832006af8e3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8104e9c-d4da-43f1-bb3e-e8cb81ced012', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', 'ace6b1ba-e979-41aa-b070-2fcb93531c15', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7473c40-b450-4038-8a85-b130adf8d908', '5bf79355-64a8-4ec2-a5c2-b7071895adf6', '1315eb53-cb37-4b2a-93dc-da9922df0a2c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b76d78f1-2825-4643-a75b-2a46a9bbb829', '5535f0fe-9dbf-4e58-955c-a698b538cce8', 'f9770d92-92eb-4ee6-802c-aae4b2e7bb2a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51602337-5ad4-4a9f-b31c-2239ee5657ee', '5535f0fe-9dbf-4e58-955c-a698b538cce8', '4375fe02-a93b-4b98-a140-e1b1382be199', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3a4aa1bb-7e07-4785-9b1f-af4b2369f9d2', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', 'ac41d7ff-128b-440a-9f16-0b5d15ba822f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8169e610-0fbc-4e5d-b443-1ce87dbc38e5', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', '6e40a324-86af-4b6f-a713-ab0cc5998b51', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '59e39bd6-ebe3-4aef-b5ae-8bb44be1cfca', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', '282d469d-bf99-4b3d-9529-956eb5389d07', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e4ddbb8-ecf5-43a9-907b-38b55e02b188', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', '229fef64-186d-4ce3-8fab-d793b75b8f24', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f29bd59a-c46f-4cc3-977c-3a27fd8509be', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', 'b9d12bb9-40d6-4d6f-91f3-8bd49156c99b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7df6b00b-fb3b-40d7-9e3c-0c39638097f3', 'd0abf12f-6d16-4021-8f30-28e83720c2a5', '34eed2dc-ee5c-41c7-b653-bef7aadd348f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53dc4538-101e-4a01-818f-9342ec845cdc', 'c6617499-a7ee-4082-a562-38aa687b6614', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ead0d6b-95cc-488f-8633-485d3fba3a28', 'c6617499-a7ee-4082-a562-38aa687b6614', 'ed48cc79-9797-4959-a365-10424d70099e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9919cb5-ce6b-4a5a-b332-e0ba562d9ab7', 'c6617499-a7ee-4082-a562-38aa687b6614', '6d89a54c-7d5a-499a-96be-3aaf17ebd683', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c872884-f76a-4079-aa8d-87176b1925ea', 'c6617499-a7ee-4082-a562-38aa687b6614', 'cc7fcf5a-5282-437e-ad93-383eb4626d3a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '683e6b37-0f53-4c65-b59e-916c60325caa', 'c6617499-a7ee-4082-a562-38aa687b6614', 'e8ddcc25-d210-4c6f-820e-1a2ab72ae749', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6ec6515b-fda1-4678-8fcd-344305da2f72', '663f739e-301b-40e0-b9f1-3b36f4bca07e', 'b12607c3-5063-4fe4-a795-490614c0164d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0079b28-b61a-47a2-a20d-7e2e524fcd7d', '663f739e-301b-40e0-b9f1-3b36f4bca07e', '4c634a86-4010-4b6d-a4c7-c6d830305f79', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37501ec4-38cd-4abf-9233-c80087a9693a', '663f739e-301b-40e0-b9f1-3b36f4bca07e', '12883bca-a306-445f-9f1d-97127b8590ef', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4b5dd480-0ad4-42ee-9ea0-6adf0f4912da', '663f739e-301b-40e0-b9f1-3b36f4bca07e', '46c7a13f-578f-4387-a603-e571096bfc41', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3bc34e1-3e03-4966-ae29-812fa221d680', 'cb420ae9-8601-48ad-81c5-b6233c59199e', '221b9453-e4db-43fc-9cd8-87cd2abd2402', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '32a39b15-6db6-4cb3-bc17-a53226a77b23', 'cb420ae9-8601-48ad-81c5-b6233c59199e', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52215189-6ce6-457f-9543-e309dbcd1f28', 'cb420ae9-8601-48ad-81c5-b6233c59199e', 'a68a1472-ee54-4dde-8b12-44d7417a99af', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '400ad5c8-e7fa-47c4-992f-9be5c61ec39f', 'cb420ae9-8601-48ad-81c5-b6233c59199e', '9088da5b-59b7-4f73-b605-57e3fa16de81', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70846901-43f9-4286-9fa6-6c94d5d5ea83', 'cb420ae9-8601-48ad-81c5-b6233c59199e', 'c6069f56-4402-4b7d-899e-b201812fcf9c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b66f493-a5c7-461b-b741-e6e11ce6d930', 'ee81587d-bdca-4a10-94e9-e5222ed8f2ac', 'a68a1472-ee54-4dde-8b12-44d7417a99af', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bce67988-79fa-4725-9ffe-20c3d415f581', 'ee81587d-bdca-4a10-94e9-e5222ed8f2ac', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f648e8f0-e54d-4c77-aae6-f54ea87d7deb', 'ee81587d-bdca-4a10-94e9-e5222ed8f2ac', '6bde9d7d-29e8-4a21-a89a-2c8e703aa445', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4f4cd1b2-18a1-4df1-b18b-5a24db57d805', '7598bba5-fadf-4500-8032-5170228f2964', '5dd76d57-8308-4917-a06c-a278c313fbcb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f64e3e31-a27a-4322-aaa9-aff4442a2071', '7598bba5-fadf-4500-8032-5170228f2964', '6e673ef5-8028-4370-88ae-68de9cd32e0b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a37c331-9710-4ffe-a795-c63305d3df60', '7598bba5-fadf-4500-8032-5170228f2964', '68c9c359-aeb4-4526-91a5-c9f914869793', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '778684b5-78b3-40b0-9059-e7c7f4b498a3', '7598bba5-fadf-4500-8032-5170228f2964', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8571fd0d-271e-4f47-a357-2815c55bc756', '57a5beb7-a840-48a7-a8c8-fd95048758ae', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd10491aa-ff42-470a-b5a2-03a93e89ad86', '57a5beb7-a840-48a7-a8c8-fd95048758ae', '70b2ba76-85db-402a-acc3-15a2518817b0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '16d3dd7b-06f1-46d2-a216-833884dd4619', '4b8bc328-3f52-4593-a719-2e43b4ae51ae', '55cda019-67d5-4168-af7b-56cb96cc0dc1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '66b61365-2a92-4629-a57e-f85dd64e53da', '4b8bc328-3f52-4593-a719-2e43b4ae51ae', '6ebe8812-fed0-4b95-b129-32275583f40d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c4fff8a-305e-4fa4-a0f7-0b08418c9603', '4b8bc328-3f52-4593-a719-2e43b4ae51ae', '0d4d6a51-e9b1-44e0-b598-e0ab4f876450', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84ab61ce-62c3-41bd-bb02-162d70d399f4', '48a65b3e-1d11-4f89-8eba-924d58438950', '2749d10b-4198-4e3c-b2ae-d02826d84e4b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92715ae2-0f9a-4ad7-8b88-19c41807e9f5', '48a65b3e-1d11-4f89-8eba-924d58438950', '21257f12-fb35-4b8d-9e01-7d359b546a0c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '660e1d9f-2352-490e-be5a-24674f6ec53d', '48a65b3e-1d11-4f89-8eba-924d58438950', '90a102b0-6995-44db-aa21-60ebc06ab545', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '186a0568-b8d0-4ffc-ac5a-e73e530053fe', '561d8738-8dbd-4ee1-bdf1-df5d98f57dc8', '23ee6d51-8392-4f18-b1a4-1f02629bef0b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cdc9d4d5-ced9-4e07-98a8-246a99bccc0a', '561d8738-8dbd-4ee1-bdf1-df5d98f57dc8', '4106fe03-085d-46a4-80be-29940f91074c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba09f755-b053-4571-aa1e-3ec4ce3f9eb7', 'edd75ba8-4d14-4322-8b56-79d81d87d4be', 'df3ca82e-9aa8-422a-950d-f3bd41daa1a7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f8560f50-268b-4b54-b088-4d6e379d93b3', 'edd75ba8-4d14-4322-8b56-79d81d87d4be', '792056e1-2ffb-44ce-82ad-2dbb803ff390', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f4bba0ef-1dbc-4696-8db7-9e65ce8611b1', '5e3cf133-7107-425c-b054-07f99df47421', 'f81c1435-6d11-443f-aafd-59d5c772482e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f966bbf-a64b-4b4f-8148-dac3240acc47', '5e3cf133-7107-425c-b054-07f99df47421', '55336b12-8a45-49e6-9ecf-080a7fca92de', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4c9b71d0-623a-4646-85fc-66a083a0efdc', '5e3cf133-7107-425c-b054-07f99df47421', '9fb2ce77-018f-4c71-a554-b31a373f1963', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b79c0d08-ccad-4d33-ac3b-fa3a297f55ce', '5e3cf133-7107-425c-b054-07f99df47421', '2b1a798d-9c53-441b-9ccf-147f48d8ba1d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '52d4496e-092c-4586-9875-f31845636139', '5e3cf133-7107-425c-b054-07f99df47421', '47a8066f-2587-4894-8c8e-ea833bf822f5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc53fdcb-2ec4-4a7c-af43-eeb9eaf6f397', 'bdc4d2c7-b8cf-48e3-8c36-c6ec24756c91', '451fb46a-d1bc-4262-bd08-bdda1a23d659', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6ee02722-aef8-440b-b9c5-d26c77761bf3', 'f9018950-7c34-4935-bf68-98e414d2076b', 'd511d1df-0dcb-418c-bc3d-cbd43ee05d88', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4ca2fe51-1a87-4eb6-beb4-55f6501d564e', 'f9018950-7c34-4935-bf68-98e414d2076b', '55336b12-8a45-49e6-9ecf-080a7fca92de', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fddf8aa2-3617-43c5-9630-c6510b9cff17', 'f9018950-7c34-4935-bf68-98e414d2076b', '8d4345cf-1b6f-49fc-b63c-ef90c0785cbc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '27d59da9-60e3-4a2c-84f3-1ec0a8218d50', 'c8422776-5df6-4d22-b989-3eec7977b658', '6a44091e-edb0-45a9-a197-14546f76758d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4dbc5edd-2f13-41f5-913e-1e63990b970c', 'c8422776-5df6-4d22-b989-3eec7977b658', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '95bda45b-7b38-437d-9b24-5bd814c94666', 'c8422776-5df6-4d22-b989-3eec7977b658', 'b3c73511-b0fc-4186-808c-46f490cae240', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15980fd6-0b10-40e9-9b88-b8dd1375df58', 'c8422776-5df6-4d22-b989-3eec7977b658', 'd6f94d6c-7c35-448c-b7fd-3b6437bcbb6f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ecd9fd7e-a29e-4c39-ad19-e9993d8f26f9', '0fc3d9a2-37fe-4c08-8432-19654606cfeb', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b325ad7-46d8-4186-97e7-5ea979ff422d', '0fc3d9a2-37fe-4c08-8432-19654606cfeb', '0a8b67f9-a4fe-4508-aa39-8e64a4b63b6d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cbe9b54-78f9-4c84-9645-a20ae1903108', '47eddf31-c6ca-41ed-979b-94bdcd7d3a0a', '14f85bfb-f7c2-4469-853c-3b4380849fe4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f8f09c7b-1d4d-4b6b-b5bd-874f5d79b781', '47eddf31-c6ca-41ed-979b-94bdcd7d3a0a', '2c298184-9836-4202-93af-af9c389a13e6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28ae8bbb-d6c9-4e87-aa59-1c113f242f77', 'c5865f7e-e927-426a-b163-ec5f11f29f1b', '335aa242-73ab-4bb0-94e9-ee52829848c4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b0ce265-a5e4-4c91-b8be-50efb3788245', '2ffffa7a-08bc-45f0-a80d-bcecbea239e4', '52f8c1de-13d7-4c30-8f09-264ba5587b89', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a962e800-d58d-4f6f-b3ce-f37f92964209', '2ffffa7a-08bc-45f0-a80d-bcecbea239e4', '4e8e9849-aca2-48d2-930f-a2dad7e7e885', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2c06af64-3ef6-4970-9133-6cd9dc68de4a', '2ffffa7a-08bc-45f0-a80d-bcecbea239e4', '2297c7dd-0003-4db9-830a-1d00c0b44b0d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ea691444-4e7c-4f67-a616-0912d228823b', '2ffffa7a-08bc-45f0-a80d-bcecbea239e4', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd99afcbf-c8f3-45d6-a93d-a3576cdc14dc', '2ffffa7a-08bc-45f0-a80d-bcecbea239e4', '94dff0bb-86cd-4c63-9940-f1c6a46b1e2c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37a913d6-ed3f-4bd4-ac76-7e01e98b919d', '20d4a618-0d59-4fb8-8398-217dc562f90b', 'c914d06e-cf40-4dd5-ac79-92b1481332b9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5fba164d-68cc-4042-9e8d-e1ac50be65e0', '20d4a618-0d59-4fb8-8398-217dc562f90b', 'bcee356d-c30f-4f98-9100-5adfacecda78', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2437d7ff-834a-4b6b-bb91-90b71e021385', 'e9781cb3-2bb8-4d50-8f07-c2ec45b00e00', 'ac975271-a9be-4e15-9a6e-5610a08f97af', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3cf0243-8c75-48a7-a00f-937d663cedc4', 'e9781cb3-2bb8-4d50-8f07-c2ec45b00e00', 'a9144dec-a200-419e-ac61-57df38f3ceef', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eeeabc45-6f4e-495a-af87-07a5e5ef718d', 'e9781cb3-2bb8-4d50-8f07-c2ec45b00e00', '568b5723-383b-4367-bb62-a754012c2ff7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f07e9082-1f73-42f5-aded-05b81bb85729', 'fc9eb7d7-c397-4f2d-a62f-293043317be6', '51ed9279-1aec-4bff-af22-74af285a7309', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b5166905-a27f-4e96-9a79-4c5310f71ac8', 'fc9eb7d7-c397-4f2d-a62f-293043317be6', 'b4c46d99-7732-4655-8680-4e5db00d1b42', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aadccc84-6719-4387-aafa-85d49d0c1f0d', 'fc9eb7d7-c397-4f2d-a62f-293043317be6', 'fde28256-99f3-43f7-83dc-4004d645fa06', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '23252b3e-06d8-4de9-9a8f-650039ebb287', 'fb2bb2c6-cbb8-4db8-bb0f-532e0dbb25d7', '533f5b43-f370-466f-884c-a6bdb54706f7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd63174c-6fc6-4e18-867c-046a9aba4219', 'fb2bb2c6-cbb8-4db8-bb0f-532e0dbb25d7', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '81a01f0d-a4ac-4273-8f34-de92ba93986e', 'fb2bb2c6-cbb8-4db8-bb0f-532e0dbb25d7', 'd944382c-b4bd-411f-8ec0-1cf3691fd2a3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '918a16f3-b4df-414c-b57d-ce9a6fd0c574', 'fb2bb2c6-cbb8-4db8-bb0f-532e0dbb25d7', '76efdee8-4275-42d8-99bf-9d47082ecd1b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '393b5be3-2af1-4e55-af8b-c2ca7d589e83', 'db301559-87ac-4217-bbf7-cfddfd5dda67', 'd63506b1-ed61-4450-a8c7-3e75f0eb6df8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72e039fd-b4f1-4368-a56b-999a56351020', 'db301559-87ac-4217-bbf7-cfddfd5dda67', '15c770ed-5ff8-4ee3-aec1-4d13f2f9b7c2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d0fb5bd-70d9-4240-ac1c-a1b43079e51f', 'bb621736-8736-4cfc-b97f-cfa889721c33', '1958fcd5-f4d9-4a9d-9f52-4444917d0c32', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c295677-7b2b-48fb-b4ca-59bd7c9e030f', 'de34ab3a-a418-43c5-9d99-fa1ab7be6032', '0125232a-4970-4d64-9f34-fd2bf2fd23d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df2c761b-10d9-4379-ab39-d7f26567a5b9', 'de34ab3a-a418-43c5-9d99-fa1ab7be6032', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eadf8a93-6a6b-4a13-b381-29a9069807cb', 'de34ab3a-a418-43c5-9d99-fa1ab7be6032', 'd857384a-db9d-4867-b5c5-5dc6c1cd09af', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f6aa448-26a1-4aec-b65e-e2317b5ad005', 'de34ab3a-a418-43c5-9d99-fa1ab7be6032', '4f51c1fa-19be-46e7-ac33-552a259f910f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aaeb26e6-f538-4d96-95b5-1d00b3e8dc8f', 'd598bb7e-d445-49cd-b918-31beb6a7c8e8', '3177fdfe-c677-4947-99e1-b1cdce8264f6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bac78c3b-18a9-4abb-8346-eed980b04568', 'd598bb7e-d445-49cd-b918-31beb6a7c8e8', '6f80ab1c-aea6-4822-b237-780a14ea8a41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f887ceb8-bc6e-4eb1-8ec1-2b502113a8af', 'd598bb7e-d445-49cd-b918-31beb6a7c8e8', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b03b8762-dda0-4f0b-8565-ed85c455d360', 'd598bb7e-d445-49cd-b918-31beb6a7c8e8', 'ebc64562-238a-48bc-9198-b6eec8508242', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cc9c1d8-edbd-4495-8e8d-6adc0494283c', 'd598bb7e-d445-49cd-b918-31beb6a7c8e8', '58722f5e-e835-4b2f-b769-25d649d8c979', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5f19ea23-f082-48d7-b044-7c573eb13de3', 'd0b29037-dba8-4438-8daf-8125ffc99ac4', '5b619205-8c9d-4292-98bd-ce44ddd6bd27', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c2e04c6-f63e-4ac8-863e-fa1225885957', 'd0b29037-dba8-4438-8daf-8125ffc99ac4', '09586172-a929-4f1a-9d30-987216e63c8a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3aa2e6d9-3eaa-4077-be40-d909d710dac7', 'd0b29037-dba8-4438-8daf-8125ffc99ac4', '34b3a595-b161-4ad8-8707-12dee9a27e49', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7a6ec52b-929e-43cf-9bf5-d80cf07f46b7', '99f3d3a6-f1fe-4b31-b106-3592dcfa5b04', '804eae6d-a9d8-4553-8db0-d366433fa917', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fab95771-436a-4b81-8f88-4da6015013cf', '99f3d3a6-f1fe-4b31-b106-3592dcfa5b04', 'd1cfa948-763f-44f0-9ef9-96673d076c20', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35443a38-b678-4c4e-bc69-5f0eaf9581f7', '99f3d3a6-f1fe-4b31-b106-3592dcfa5b04', '35bfa56f-2622-4abc-a17b-c8eb42108cc7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc9de8ff-44db-401d-b172-b4982d7bfed1', '99f3d3a6-f1fe-4b31-b106-3592dcfa5b04', '882a4586-34f5-46f7-81c6-2762a06367b5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92cde113-cbaa-4428-a46e-ce25963d9cd3', '9fb7770e-9589-474b-95c2-f5ea3da74929', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b82a5c9f-ea57-4f96-9e28-3af3de3bd224', '9fb7770e-9589-474b-95c2-f5ea3da74929', 'cc4ef514-f438-4f31-9904-d5f4a756f620', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91af6573-e6da-4eb8-a69f-a754f5ca5521', '9fb7770e-9589-474b-95c2-f5ea3da74929', '4accff2d-d435-42f8-9335-46faa3d6975a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7eada074-d82d-44b4-bbbf-7c2b32e063a2', '9fb7770e-9589-474b-95c2-f5ea3da74929', '92c00d61-11f4-4b9c-a68c-bf31b49f58c3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb9ee2e0-9822-4b3b-bbd3-51bcad209286', '3fa2a616-a5ae-4036-abff-5bef80a586c4', '49ac692b-2df9-4221-910a-cee1227ffb22', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2196ac38-8854-49ac-95dc-9cf01d9f8c0c', '3fa2a616-a5ae-4036-abff-5bef80a586c4', 'd0cd7230-c8f4-42ed-b50c-0a063fa3ea4b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0db2d2eb-95c3-46e0-8db1-aba470d04ecc', '3fa2a616-a5ae-4036-abff-5bef80a586c4', 'e5302cbc-647e-43ab-8f3a-fbbf06731024', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33adeec0-1118-46e2-a8ef-caa6109d3a76', '3fa2a616-a5ae-4036-abff-5bef80a586c4', 'ed48cc79-9797-4959-a365-10424d70099e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dfe62ecc-d704-4109-84f5-f3c7456b73b2', '3fa2a616-a5ae-4036-abff-5bef80a586c4', '8810a781-a16c-432c-b829-679b9723b0d1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af887374-259a-42d0-981f-8be255f17c2e', 'e66e8dc9-30da-4537-9019-298241598289', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '243a8cd6-cd06-47b6-889b-cfae540cbbc8', 'e66e8dc9-30da-4537-9019-298241598289', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c574955d-f7be-4488-bf26-70e53251b02c', 'e66e8dc9-30da-4537-9019-298241598289', 'd89b05c2-0b9d-4ba3-9b5b-1de8c21ec4e9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '727dcc95-ae8e-4b5c-be9f-bbac23867e1d', 'e66e8dc9-30da-4537-9019-298241598289', '54afabe2-6eca-4f17-b4e1-4b2ac6f8a2b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28646d05-4fa6-40b8-86f6-44b7881f5e7a', 'e66e8dc9-30da-4537-9019-298241598289', '02b9f5db-4859-4094-a972-00af950a38fd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7089c8c0-63d6-4e57-9cd7-b1d4f76d1e13', 'e66e8dc9-30da-4537-9019-298241598289', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '488c4d3f-b2f7-4af3-afd9-2be5f5e9d8d2', '521e701f-e0ce-42d6-a4b0-57182aafda63', '44cae59f-e769-4890-9105-1c64867cec9b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c92a4bc7-22e6-4522-a09b-8ec43650afed', '521e701f-e0ce-42d6-a4b0-57182aafda63', 'c37daf23-0363-4119-9179-71de03e1c751', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7b05e34-ca07-4e7e-82ef-a182004a332d', '521e701f-e0ce-42d6-a4b0-57182aafda63', 'f76224be-3da3-42c2-98e2-ac97cbdb8efd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5d40500f-a18f-4df8-bc05-144799614e5c', '521e701f-e0ce-42d6-a4b0-57182aafda63', '273dfa6c-20dc-472c-937e-5dabebc4f1ee', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7b999039-8662-4e41-b379-2dadb43066c1', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', 'ea48ff9e-3a7e-4fc2-90ed-2e87441704a9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f1dde09-8371-47bf-bb86-e18d75a9569a', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', 'eaa2b2bb-3edf-4511-b39d-f05bd7f1d01c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '214b441b-6a22-4253-a629-dadcdbc5248f', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', '29d31cd9-510b-4ec1-8cec-ecd5ad0bbb4c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '398166a0-a822-4b55-ad98-11bc51531ca6', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', '1958fcd5-f4d9-4a9d-9f52-4444917d0c32', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9e494e38-0225-409d-be6e-ef450edea81a', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', 'b4c46d99-7732-4655-8680-4e5db00d1b42', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '297dcd54-34ce-43b8-a638-73e67f4ed5a0', '7ef4fc4b-0608-4169-8fb2-b968ca74dbcb', 'a4e0ae4f-f4aa-45ed-b1c5-b0a41f9864d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c8bb3f9e-3384-4292-b717-e4b2e8483e48', '27731139-608e-4c66-9f7f-6e62675f65a1', '5455a859-ebb1-447f-86f3-a50ae8ed5762', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '806a7ac0-329d-45fc-861b-79cc0a835fb0', '27731139-608e-4c66-9f7f-6e62675f65a1', 'd3a76a7f-19cb-47fe-960a-2fc6a45bd22d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '588b8fbc-5921-4172-af84-3b9bf6e78bae', '27731139-608e-4c66-9f7f-6e62675f65a1', '19bc4f58-b2ab-4d73-a744-bfa636dc7b08', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98ce7903-5115-4b7f-afdb-acd37fc07bcb', '27731139-608e-4c66-9f7f-6e62675f65a1', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc92a6a2-2522-4e80-bb05-b98c916ebfb5', '27731139-608e-4c66-9f7f-6e62675f65a1', 'f845528f-e90f-4bc2-9250-6e9fe6916412', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c1187ca-fae4-4e34-b4a4-327ce860040e', '27731139-608e-4c66-9f7f-6e62675f65a1', 'd29c13c4-fb8d-4136-9475-2e81aa6e008c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3cedf86e-955d-44e0-a8ab-010c94fa7ee6', 'ea370f89-95f7-4de5-a2d2-51f9ddc210f1', 'ce4065fb-9dc5-47ce-adac-76d24cc3dc29', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f518dc2a-c335-4f7c-9fd8-18a6ce344968', 'ea370f89-95f7-4de5-a2d2-51f9ddc210f1', '5678af82-fe08-4db6-b3c2-3e6f8340da74', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '372353a2-8d77-4c31-be6a-a603c4b7e2d1', 'ea370f89-95f7-4de5-a2d2-51f9ddc210f1', 'fe3297c5-7375-4269-b13f-0747aad0de5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '588e20c2-464a-4e3d-84d4-f9c49b6d7fbf', 'ea370f89-95f7-4de5-a2d2-51f9ddc210f1', '99c36f58-bbd5-4b13-a38e-8b18ff6992a0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af6e1442-74f8-4420-aeb0-ff18722bcd5b', 'ea370f89-95f7-4de5-a2d2-51f9ddc210f1', '0ae9c484-ff6f-40bf-aa69-dd3c5dedf254', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2b998a96-771f-4e49-b06b-21d19eac9fa7', '2373870a-9f94-4e0e-a1fc-4bfcb97f3882', '8a42de0b-3471-49eb-b87e-5dd31f8b2269', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ee32a07-ac67-4f54-8850-bf111543d9d9', '4ef6072f-16ec-49fc-b215-7fed8760312f', 'daaa4288-2d27-4d43-ad89-4f45bf76e834', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34672283-3a4f-4605-89db-3440e070eb2c', '4ef6072f-16ec-49fc-b215-7fed8760312f', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4fea1388-c50f-43d1-9059-2bea3b539ff8', '4ef6072f-16ec-49fc-b215-7fed8760312f', 'e1e63d17-aa8f-4eca-884f-94af4f81e269', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '24a9ecf0-11b3-423b-b73f-045d8a716689', '4ef6072f-16ec-49fc-b215-7fed8760312f', '7e547338-ad9d-4144-9098-e450b5db4a7e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '32d572c2-ce40-4a13-a720-8fd7c92b29ad', '4ef6072f-16ec-49fc-b215-7fed8760312f', '1afbd831-2aea-45f2-92c7-9d92d1ce2691', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2387a225-0225-4854-97fe-fcd7a06cce19', '4ef6072f-16ec-49fc-b215-7fed8760312f', 'cece20db-225b-4839-8bc1-909b13552db6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92c35b94-21c9-4591-950b-ad737f86b5e4', '8b1f64bb-ddd1-4f81-99f2-5ba1748d4cd0', '582b94b7-2257-43b7-8e46-042451dd0852', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a22324e2-a26e-4773-ba92-81699451a37b', '8b1f64bb-ddd1-4f81-99f2-5ba1748d4cd0', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '61ce3161-4dcc-48d4-b491-ade998d02dfa', '8b1f64bb-ddd1-4f81-99f2-5ba1748d4cd0', '9b9217ec-35b6-453c-a68a-5989845d5933', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eab2f078-7858-451c-8886-b7901426d2a1', '7570124b-9662-46d8-9171-ea808744cc40', 'd6ca0f32-acc8-4dbd-b916-b308f1530b15', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36ed2684-e32e-40f9-9e3e-73aa2f53d19d', '7570124b-9662-46d8-9171-ea808744cc40', 'c3676238-bd12-4ef6-b1ae-7063e76f0d0c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35797c3a-2080-4ee7-8a28-16ad98a0eb43', '7570124b-9662-46d8-9171-ea808744cc40', 'c2dea58b-7faa-4a58-9f18-15acbc0f360b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'afc71da6-ea35-4130-8797-3ffb8f4fadae', '7570124b-9662-46d8-9171-ea808744cc40', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84a04f2f-5d23-483a-9e8d-e4ea8eb8265a', '7570124b-9662-46d8-9171-ea808744cc40', '49cff7d4-7f76-4bb9-92ba-82459ad8ff89', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc6a926d-63ca-4891-b60a-9233c79e468b', '11c8b53a-97de-49d3-bad6-0797ba8f14bd', '346a65f3-06f6-4c8c-9a96-bfd5b0e5c729', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47cd0ac2-8f9c-4d9d-9453-94e2ca9149d0', '11c8b53a-97de-49d3-bad6-0797ba8f14bd', '25283adb-4cca-4204-8c2a-50ddd0b4721f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07ebedcc-baa6-4e89-9d48-95dcf92d036b', '11c8b53a-97de-49d3-bad6-0797ba8f14bd', '64695f59-0d72-455c-a9bf-8ef79f249cff', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a028b64a-1dd7-43cd-9a8e-f8dfdc1fe8df', '11c8b53a-97de-49d3-bad6-0797ba8f14bd', '4e520497-9e26-4c60-b9b0-606efd4746f5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '133caa12-98e5-49d1-9eaf-a0eae00f59ad', '11c8b53a-97de-49d3-bad6-0797ba8f14bd', '8db0e867-57ce-4c92-b1c8-e1fcccd4f3b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8751bb0c-da85-47ab-8f31-3f596c69bacb', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', 'e8ddcc25-d210-4c6f-820e-1a2ab72ae749', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '115896c3-cdec-4b18-88af-b4eada93624f', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', '35a1fa91-3b5a-42af-8b54-2b22e6105c78', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7aa3de36-e3c2-4948-a562-d0048c33423d', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', '7737ca04-2890-4ea9-9eca-413d2e92d334', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '75f221ec-e2e9-40a0-afd6-77d887a9c755', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', 'e94f2068-aaec-4356-847d-a8fb0c3404cb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f2dd1ff6-9f10-4fb7-801a-dbb906f5496b', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', 'd19cdfe4-eefb-41c4-a7b9-275ca0201100', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c92d155f-5a23-4a07-9ca3-7f8e1da63e52', 'ba29ba8f-2e1f-4281-aed8-4611d1ddaf96', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c85ec3d6-2004-49d0-8f15-cba2562b5aa4', '8d02967b-0fc1-4a83-958a-67ff7173d7e4', 'e94f2068-aaec-4356-847d-a8fb0c3404cb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'caef2ff3-0e4b-4664-a526-b9ebd8a0f66f', 'bf50746e-31cc-4074-b1ed-9108afd34f82', 'd944382c-b4bd-411f-8ec0-1cf3691fd2a3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ef30600-69f2-4a30-b61e-cdaa5bbe617d', 'bf50746e-31cc-4074-b1ed-9108afd34f82', '0c8af2cb-fc41-4a1e-a094-cdd83b411dde', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '30952b86-374b-4eb7-b1fd-5442c71fa88d', 'bf50746e-31cc-4074-b1ed-9108afd34f82', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bec3d573-5eaa-4964-9785-70dd5ea6f76b', 'bf50746e-31cc-4074-b1ed-9108afd34f82', '22047ed2-d5b7-4a33-99f6-8147118d3cdf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc1309f4-e49b-438f-8741-4ecc91679147', 'bf50746e-31cc-4074-b1ed-9108afd34f82', '6f80ab1c-aea6-4822-b237-780a14ea8a41', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd6d7b937-1e91-4f38-935e-b959d7735d09', 'bf4ee1f4-2d34-4582-93fe-79ce084f9ef2', 'b15c828e-97ac-420d-a5bb-885ffbbccbd6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '45ae64d1-c83f-4968-bfe1-ec7e723f5692', 'bf4ee1f4-2d34-4582-93fe-79ce084f9ef2', 'ea9a729e-db4f-4033-a1d5-137aecf55766', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28373eb9-d2a9-43e2-b1b7-c3afd3e81ee3', 'bf4ee1f4-2d34-4582-93fe-79ce084f9ef2', 'e504f668-6b68-4a63-a298-fc9a76e574a6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b04d939-d964-46e5-8c66-fc7804a873b3', 'bf4ee1f4-2d34-4582-93fe-79ce084f9ef2', 'f0797a92-f3d9-4f28-b870-8e8a342b6b28', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '211f3cbb-1c40-4352-b265-d1bcac964412', 'bf4ee1f4-2d34-4582-93fe-79ce084f9ef2', '09586172-a929-4f1a-9d30-987216e63c8a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2e0cf765-dfcd-4327-a14e-9389f969ddc3', 'a83cc189-0574-43a9-b2a4-46e08cbba19e', 'e9905164-d389-4d88-ba70-e28cf7d5514c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71eb1c0b-c55b-49eb-b1eb-9479cff602b6', 'a83cc189-0574-43a9-b2a4-46e08cbba19e', 'b10b4479-317b-4cf4-a980-bd32bc77a5c2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4d111673-48f5-45d2-9f0b-15b246366355', 'de11fd64-61ee-4b45-b074-e047a633ba1b', 'bb3ad361-e871-48f8-9fdb-9f048cd85432', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71d4a040-fa06-4843-b358-700bd06116fa', '2ea799ee-d886-4cdc-ac4b-191eecfc5315', '8c73e5b6-11fb-419b-a319-1868d8cb89aa', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '14d3c246-b829-46d3-8b7e-afacd3776a15', '2ea799ee-d886-4cdc-ac4b-191eecfc5315', 'f893a4ab-7dc7-4356-a15d-cbf5aaf0021b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cec9710-1194-4879-b6fd-4caa0491d9b9', '2ea799ee-d886-4cdc-ac4b-191eecfc5315', 'eb2a61d5-a402-403b-9a4a-914d21eb6f69', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '428512e4-8afe-4cf4-a4c5-a08133cd7f47', 'd03fbbe9-13e6-4fa2-b028-4ad473f6ccbc', 'e4112a60-f6dc-45eb-a2d9-4d02b1910fc0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b2cf6381-f8e7-4662-8125-03a85211a7fd', 'd03fbbe9-13e6-4fa2-b028-4ad473f6ccbc', '797e1ff7-b6b1-40ae-8715-074e12daa67d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '678d3fe6-77fa-4e6e-9761-01e6b638eb62', '4afd32b2-e60d-4d51-98ee-a2221cceebc8', '9dcc5725-e045-4900-81ec-e7157cced1b4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '670d0360-667c-425d-b2a0-3dbbe2c1cc88', '4afd32b2-e60d-4d51-98ee-a2221cceebc8', '36692a05-a437-45a1-b4c7-c4d830347ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd913c644-cd66-4338-baea-b1dcafaf8834', 'f9285c1e-62d4-4b63-84ea-efc2989d0899', '214338da-2fb5-4959-8cd6-68bb898d301d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0b6c939-64b3-4fae-9b0e-8cbe182071c5', 'f9285c1e-62d4-4b63-84ea-efc2989d0899', '4ebb8dab-b6d0-42a8-a35a-434d58e956a5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9103b10d-2906-4e0b-bac0-ce49154f19fb', 'f9285c1e-62d4-4b63-84ea-efc2989d0899', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2388eb07-ff06-4afa-8640-02428154f745', 'f9285c1e-62d4-4b63-84ea-efc2989d0899', 'c17d154f-0d0a-431d-8f99-7f20b91624c2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf7d0203-72c1-4bdb-b01f-ce4b95c4b082', '1519cce6-5503-4110-8d6d-a4a152da10c9', 'd97089ef-5da5-4f8d-8bed-bd500184201f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b94dac7-97e7-4e04-a025-0e7fb67e88c4', '1519cce6-5503-4110-8d6d-a4a152da10c9', '6b82cab3-4d62-450c-9897-59b0ceb72dd3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '87af2fa9-1ce7-479b-ba8d-3282b8b82da8', '1519cce6-5503-4110-8d6d-a4a152da10c9', 'bb6c7e0f-22b9-48bc-be86-afd45513d982', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '66a296b8-8bf5-4f8e-8184-db315999751d', '1aa308fd-8791-470c-9e78-e2bc0c254337', '9336d196-9a58-451c-a5f6-1f7960643fac', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e22b74b9-f6da-4696-b521-158f41254c18', '1aa308fd-8791-470c-9e78-e2bc0c254337', '75b999e5-0db2-4ac6-8000-33685d24e1c9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '205dc78e-9d1a-4f62-bcff-6541d01e57ae', '1aa308fd-8791-470c-9e78-e2bc0c254337', '3eea4bec-3239-44be-bb19-0dbe8e2a9468', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'beff4396-d7e6-48d8-af8c-ce1f38524638', '1aa308fd-8791-470c-9e78-e2bc0c254337', '8b0500d5-0c20-4288-94ca-ee4f112ca2da', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06bf84d7-6d91-4e22-822c-1cdd8bde060a', '1aa308fd-8791-470c-9e78-e2bc0c254337', '89e0aa13-df65-4334-9117-77f211d3dc7d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '470fba8e-5992-4c67-a65e-8f381fa917e6', '1aa308fd-8791-470c-9e78-e2bc0c254337', '6926d361-cf4a-46d9-97d0-37812df05c23', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '80378ffe-968d-4531-8697-4529771eff6f', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', 'cece20db-225b-4839-8bc1-909b13552db6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b9e97dfc-e06d-46b5-b9e7-ff87a31ef8b3', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', '451fb46a-d1bc-4262-bd08-bdda1a23d659', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f58ac0b3-b63c-4aaa-b0d8-de8585bd1365', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', 'ade958e5-9d02-4115-929c-457ba199fcac', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c4eeba80-6607-4503-a076-a9eafdc72e51', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', '19b0eeb1-4d3f-407a-9b2a-44ef11a81403', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43739434-b78d-4308-990a-388313716b21', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', '392be400-5c12-4f6e-ab36-0465a797d9db', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b21038cb-3ad3-4875-9c53-5be5ab9965c4', '19d85eca-16b0-4f92-b5b5-eeb7a9332a65', 'e4112a60-f6dc-45eb-a2d9-4d02b1910fc0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed82738d-2a29-42a4-bf1b-9d0a4f48d206', 'ff32ed64-402c-4ed6-abfa-4eea1e7c46ec', '4498aece-6709-4066-bf70-b9a6c4711d28', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6c29240-e66c-4763-970a-f884c9034f30', 'ff32ed64-402c-4ed6-abfa-4eea1e7c46ec', '91deb181-66ea-4c29-a475-2e43f34a2a01', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '18c5de28-e198-4f67-bc10-ba5cfd6c7043', 'ff32ed64-402c-4ed6-abfa-4eea1e7c46ec', 'e5302cbc-647e-43ab-8f3a-fbbf06731024', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0eb455c1-512c-43ea-972c-224d5081e7ba', 'ff32ed64-402c-4ed6-abfa-4eea1e7c46ec', '8571e7bc-c17b-4268-871e-65365f88fae0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'abf6056a-9f7b-4326-9de4-4f7d1d3ce086', '053dbfb7-6bc6-4986-89ea-95808fe8a61d', 'e2212014-8a08-48c1-b04f-e1ed85c532ae', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b4e13b7-3be7-49d2-a4df-e47e8a5b25db', '053dbfb7-6bc6-4986-89ea-95808fe8a61d', 'c739e95f-6c4e-47bd-82ee-8963ca4d42b6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5bf5d16c-481b-40e5-b2a7-a711b8355e4f', '7cc2573e-b831-4266-9e55-aa30157411a8', '4accff2d-d435-42f8-9335-46faa3d6975a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31b57b3c-ce95-4b52-8118-2d268058f79e', '7cc2573e-b831-4266-9e55-aa30157411a8', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '99836c85-e530-439a-8da8-bece8597840a', '7cc2573e-b831-4266-9e55-aa30157411a8', '8db0e867-57ce-4c92-b1c8-e1fcccd4f3b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2bbf47e2-12a5-46bb-8428-8956e0b20853', '7cc2573e-b831-4266-9e55-aa30157411a8', 'd659df36-86ba-41e6-b353-f987a0136525', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c590bbc8-13e4-4484-b4c4-48aef4b944bf', '7cc2573e-b831-4266-9e55-aa30157411a8', '2b0f7fe2-d13a-47c4-9397-0695fd0744bc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '14240f13-5855-49c5-bf57-fd0700c944ab', '966b9c36-d5b5-43dd-9246-aee138aa35ee', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cab3a5c9-6026-40dc-863f-c1014ac19db9', '966b9c36-d5b5-43dd-9246-aee138aa35ee', '5f940f14-a31d-46b5-b904-a3a6e0402a27', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b1f5f68b-fc35-44c4-bcf9-9e9a23c7f187', '966b9c36-d5b5-43dd-9246-aee138aa35ee', '0faf11b9-6c55-4fbf-ab8e-5e2e64bba224', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '81928b61-50ab-4aba-ad33-87f67789139f', '966b9c36-d5b5-43dd-9246-aee138aa35ee', '31d879fa-3032-462b-9a37-3f375f7029d3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7f304030-fd46-42c4-9743-b4ca67bf8335', 'bd1596d5-cda8-456c-b8ed-4b961fc6e88c', '0b71f8e0-e3e1-43a6-9d33-a87a2e08b47f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3456dd9-8b38-4512-aba5-80d062d7b752', 'bd1596d5-cda8-456c-b8ed-4b961fc6e88c', '2d1efbb9-7a7a-4ca9-b766-4dcc8fffd32e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c334ca83-ee97-496e-be17-9516f2ee0381', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', '3d1d493d-d62e-4f0e-9ecc-a45d6ab64c7c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e966abe-aabb-475a-973c-96d9f1fbe2a4', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', '79a17ec0-327d-4c2c-afc7-1fa0e8724d9c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'de250358-b0e3-4b2d-bb50-1d4ee9f940f5', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', 'abd69b2d-c6b1-4fd4-8b72-b47fc13081ce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3a1a805b-d0dc-458e-af42-cbf16e8d3696', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', '6d4f4c9d-83f4-442c-a84b-bd3d820511c8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a140acea-f5f5-4a7c-8b16-b85f114f373b', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', '5ec44587-01a6-4736-a6c4-d0ae24d286ed', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f4090ad7-b5f8-4ebe-8c3d-070c97944281', '0b365d49-bfa9-4b1f-b1be-ceaf2978d73c', '4e8e9849-aca2-48d2-930f-a2dad7e7e885', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '10d05051-541f-48b3-801e-0f0b672e9cf4', 'c76c3054-d732-4a90-ad84-9deb2d7cf9b0', 'e504f668-6b68-4a63-a298-fc9a76e574a6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '289b621e-a64b-45fc-b0b6-cd574bfd5617', 'c76c3054-d732-4a90-ad84-9deb2d7cf9b0', '3ba3727a-c4e3-438f-9e17-a5de4981d840', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17bcb096-f72e-4d18-9781-408bf5e0d914', 'c76c3054-d732-4a90-ad84-9deb2d7cf9b0', '44534af0-f830-4229-86ed-cbc9b4b2431f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '412f5e01-753b-4832-a976-d74fa8180075', 'a3ec3b18-36cf-44ae-8573-ae35c019fb54', 'ea6fcfbf-4b81-4011-b0aa-1ed5953cbd9f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd6299f81-a1b1-40a3-b8eb-33a7ab5ee9b2', 'a3ec3b18-36cf-44ae-8573-ae35c019fb54', '059cd722-3069-4523-89dd-d801a059909c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4eb5dbcf-9204-4610-9a93-07e111eea26e', 'a3ec3b18-36cf-44ae-8573-ae35c019fb54', '91e7b7fe-6a62-4948-9c97-38f6eaac72e8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3e9f3b3-3a69-43c5-aa3a-55d3b89891e1', 'a3ec3b18-36cf-44ae-8573-ae35c019fb54', '221b9453-e4db-43fc-9cd8-87cd2abd2402', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a17c8e7a-9fd3-448d-9f2a-950d5fc407b8', '2f9b813f-2e56-4719-9ac3-da9e1ec1a891', '62965f19-3e2b-4213-80e4-c5f24552e8e0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a82016ba-7908-4c3b-a595-3269b0e498dd', '2f9b813f-2e56-4719-9ac3-da9e1ec1a891', 'a60fd2a2-2621-492b-98d7-281cf63190bd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e4c3d360-ec15-4528-b865-e6dea4ac2c3c', '2f9b813f-2e56-4719-9ac3-da9e1ec1a891', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f026b7f2-4262-470a-bf6b-69bd8341541a', '0f6b2dcb-b66a-4072-ad6a-91a505b0655d', '10d18a79-f36f-423a-93a8-f5b4b89dbd3d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '16bb1b7d-7a35-4b91-8098-db6867b41325', '0f6b2dcb-b66a-4072-ad6a-91a505b0655d', '55bbf383-3902-415a-8a4c-6aa6ad07d73c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf3305b6-46da-42cb-afd4-7d2c7b88f2b3', '0f6b2dcb-b66a-4072-ad6a-91a505b0655d', 'ff47d807-d82d-4085-8f02-9e82c1786b99', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '620fb602-5e76-46f8-8493-71b72264b8d7', '0f6b2dcb-b66a-4072-ad6a-91a505b0655d', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '986ea9f4-8663-406a-8fa7-2dbe1d12d970', 'a0d43851-1df8-4899-8ecb-b47b914b399d', '012fc1f1-80e4-46f4-aed8-740ffc8f4842', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98a67e48-9478-4b30-957a-dac07c8bfdda', 'a0d43851-1df8-4899-8ecb-b47b914b399d', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51f2fc21-4221-4e58-b87b-402762f4004a', 'a0d43851-1df8-4899-8ecb-b47b914b399d', '3765a164-7f32-49de-8911-e4ee177ec8d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f3cfa0b-b081-4a9f-be9e-41b7380e6f15', 'a0d43851-1df8-4899-8ecb-b47b914b399d', '389e8562-0f60-4aa9-8a0a-24a676d327f6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c38f542a-db17-4a59-947f-e6645347857a', 'a0d43851-1df8-4899-8ecb-b47b914b399d', 'f955443d-8a0d-4d0f-bef0-11fd8d0a9301', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '39cd9828-4be1-4361-b334-1aa38f2804a2', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', '1d015fea-31df-42c6-973b-f90785f52972', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '755f9495-5d02-4f5d-9f12-5b038fa3e5e1', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', 'a30e0288-2e37-43fd-abec-248899a86cbf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d0ce0bc-2a8d-4638-9a1c-27244a5e9e0e', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', 'f81c1435-6d11-443f-aafd-59d5c772482e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fcb10d72-87d2-40d9-adaf-d0eed0067b7a', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', '35a1fa91-3b5a-42af-8b54-2b22e6105c78', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'efb7ecbf-5289-4d1c-928a-f3a1c0891b86', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', '2b9995a3-05b6-41cb-b935-92ede22c2846', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7ce324b-4283-4100-82c3-b84cb68791ee', 'eafe5168-bc71-4a36-b197-b7e6813a06a9', 'e862d6fa-fb66-42ce-9788-a47119350b61', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '20881e2f-af43-4a22-91ee-f9d089b17def', '99fe5416-eafd-4099-bd98-201d8e14c1dd', 'e56a3721-5cfc-4448-94c6-03c2c3ab1d10', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '30e436b3-dc0a-44fa-a750-92b6966f6add', '99fe5416-eafd-4099-bd98-201d8e14c1dd', 'b70bf667-0b66-4fd7-a5ad-eb7113f718fa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '584f9687-e6b2-46dd-9768-dd27676d4a91', '99fe5416-eafd-4099-bd98-201d8e14c1dd', 'e62bd9e4-3b48-48ca-8e1d-8db814a92ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07da2377-b2aa-4ba4-845a-ec9d853c860b', '2d17b81a-ce04-4e6d-bded-7bfb41fc2624', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f38d8d8-dd28-4446-9420-c13f9ddef039', '2d17b81a-ce04-4e6d-bded-7bfb41fc2624', '2c4a7cab-b06f-4e52-ac76-155ce6939f7c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7e8569c-2afe-44fa-bfdf-7016608462a5', '2d17b81a-ce04-4e6d-bded-7bfb41fc2624', 'fe613ba0-055a-4281-a554-5716f785eb6e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06214593-3bcd-49c2-a6df-4729d41beff3', '2d17b81a-ce04-4e6d-bded-7bfb41fc2624', '6734afeb-f0e2-421e-8478-41619c0f2f24', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2629ddbe-05f5-4fab-97ca-fa39888d760d', '9f909906-e728-46ad-866c-c044ce2659ab', 'a2ec37d8-7e13-4d45-9f21-ff315ddc64c6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'feb28c91-0e82-4597-b50e-41e240ec4e0f', '9f909906-e728-46ad-866c-c044ce2659ab', '4fbad14f-573a-43f7-b420-d32c2c371732', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f891a979-e39b-4f80-9868-c561060c91aa', 'c1732614-071a-4965-9458-32a6e5641970', 'f0797a92-f3d9-4f28-b870-8e8a342b6b28', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe14085c-fb12-4703-8bc6-9b560604b88f', 'c1732614-071a-4965-9458-32a6e5641970', '6926d361-cf4a-46d9-97d0-37812df05c23', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4ef4b64a-7182-4cc8-85e1-c9b11befde33', 'c1732614-071a-4965-9458-32a6e5641970', '920e3105-02ec-4f77-b4d3-75a7c549fa5a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '56aa7d5f-5dc8-4520-a572-0606eaa4e70d', 'c8a33503-7126-4611-ab86-6b998d962f0b', '8ae5c6cb-9c56-4af6-890e-e291d7ec5436', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36a11293-595c-4ab3-99b7-bb6cecb1a222', 'c8a33503-7126-4611-ab86-6b998d962f0b', 'a30e0288-2e37-43fd-abec-248899a86cbf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '65efe04b-3c72-485f-8370-bc3c55355a2f', 'c8a33503-7126-4611-ab86-6b998d962f0b', '4bef6608-cc2e-4351-aac9-e6ce7382dcb7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7efa1e3-8fb2-48bd-b209-ebecff1097ea', 'c8a33503-7126-4611-ab86-6b998d962f0b', '5d11abe5-9026-49e0-8b77-f73a2a6a5cdc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca9beba2-bd69-40d1-abc5-f9c063998f0a', 'c8a33503-7126-4611-ab86-6b998d962f0b', 'e38c230b-a489-482a-80f8-c0444e087964', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51294576-67e8-4519-a30a-a26cce6022c2', '51e16fbb-183f-415f-bdf8-13d434b55a77', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3681012c-44f4-4484-aff3-c1c03ce89bdb', '51e16fbb-183f-415f-bdf8-13d434b55a77', '597d69d5-a8c6-4b68-81df-71f61978bae6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f7d85ac-c288-4b97-b7dc-36dc1a5aa987', '51e16fbb-183f-415f-bdf8-13d434b55a77', 'f9770d92-92eb-4ee6-802c-aae4b2e7bb2a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '473b84ad-3a54-448c-871c-2c6cd5e7532f', '51e16fbb-183f-415f-bdf8-13d434b55a77', '2da11e57-2852-4b5f-9982-74d0da683bdc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0892701e-7852-4b18-b896-8b091da524ab', '51e16fbb-183f-415f-bdf8-13d434b55a77', '1173c2cb-1a20-4b34-aa05-037d950c379f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4cb40a70-d01e-40c1-a2cf-268ac903dc59', '23f8a380-9289-47b6-9801-2d7b75582176', '6a85b7ca-e4b7-4ad6-a6b8-15c646a4de52', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51c22194-7f82-4a07-a305-e31f4f30e027', '23f8a380-9289-47b6-9801-2d7b75582176', 'c0b85182-1c32-4b3d-85f6-954e482ae060', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5240ba1-b7cd-4435-a4e7-c234a1b76360', '23f8a380-9289-47b6-9801-2d7b75582176', 'c4d59b6b-5ca5-43b7-a727-fde0e6b34cf3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cedae8a5-1031-41a8-8862-8499fc122463', '23f8a380-9289-47b6-9801-2d7b75582176', '2c4a7cab-b06f-4e52-ac76-155ce6939f7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e4d278c3-cc69-459c-bd98-74e3819b4e68', 'c68c02c9-6134-4511-926a-0d162682c99e', '664f052a-dfff-400a-87cc-50a6193f9171', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b829a296-91f9-44e3-ab73-7a4ae4589433', 'c68c02c9-6134-4511-926a-0d162682c99e', 'a606862d-85fa-415f-a575-d1a65ab9781e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '510b2c60-c8a2-48cf-a879-928bcffd6d9c', 'c68c02c9-6134-4511-926a-0d162682c99e', 'e0cf806f-ef3f-4b70-a5dd-b9b0b3c21d22', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe4e5815-d62a-4627-b600-f9e432f91b01', 'df193035-6a94-496e-9334-1dd15f8fc956', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '762c98ec-f10a-41be-b3c5-d464a0bb40a2', 'df193035-6a94-496e-9334-1dd15f8fc956', 'd0191083-64d2-4f70-9ea3-ba531b682285', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e968f9ad-7083-4dc8-b8f2-594d9f3205b4', 'df193035-6a94-496e-9334-1dd15f8fc956', 'd88108ee-d339-4637-9181-e06cd6ad8bb5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab6563f9-132f-45ac-b70b-6117cc3e8903', '50ee912f-b99c-44f0-836d-cf06a2a068ff', 'a9144dec-a200-419e-ac61-57df38f3ceef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31136656-8016-41cf-ac3f-f60475a1de2c', '50ee912f-b99c-44f0-836d-cf06a2a068ff', '2c8d50ba-2033-4780-a723-ae5d1b431513', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '30fc1fff-a9ef-4a19-896a-4d94f4eae7e7', '50ee912f-b99c-44f0-836d-cf06a2a068ff', 'd3a76a7f-19cb-47fe-960a-2fc6a45bd22d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fabd09cf-5162-4530-9d89-8ef651029a5d', '50ee912f-b99c-44f0-836d-cf06a2a068ff', 'e2816772-d02b-457e-a672-9d4a9c068461', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1033d4e1-06b5-42a6-bbb9-2f6e93215005', '50ee912f-b99c-44f0-836d-cf06a2a068ff', '2d1efbb9-7a7a-4ca9-b766-4dcc8fffd32e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9686c0eb-402e-41b2-986b-4612c82cd84f', '50ee912f-b99c-44f0-836d-cf06a2a068ff', '95994713-566c-4209-bcbc-234100858e8f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0a67eb4-d097-41dc-9af3-04bed0ff3069', '79a57d33-b01b-4c62-9da4-40d69a8c95db', 'ba8e8f86-2ed2-44c0-af5d-013c43502110', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '458dd241-0ef7-4e2f-b75a-5a05c0bae92a', 'bef76220-c8ce-4ac5-9cea-fce540110ace', '6a8e2a1e-1084-495c-9c26-8eee5eb4a134', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25d29c73-f78e-42eb-b223-8de63c1f6884', 'bef76220-c8ce-4ac5-9cea-fce540110ace', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a9ef3af8-6455-4820-a618-29dcafc122f5', 'bef76220-c8ce-4ac5-9cea-fce540110ace', 'ce4065fb-9dc5-47ce-adac-76d24cc3dc29', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d6277f8-9d97-42b8-9abc-a84beb3213e1', '96fee024-422b-4e52-bbcf-aa43be8b9b17', '4e8e9849-aca2-48d2-930f-a2dad7e7e885', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36062927-ba59-437c-80e8-a654329689e5', '96fee024-422b-4e52-bbcf-aa43be8b9b17', 'f0797a92-f3d9-4f28-b870-8e8a342b6b28', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9e61b2e-5f16-48c7-a6e2-2bbfc10fc32f', '96fee024-422b-4e52-bbcf-aa43be8b9b17', '1c0adc5f-7329-4fa6-998e-bdbb9260d741', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f1553dc-9cf0-448e-b735-429e6d377a07', '96fee024-422b-4e52-bbcf-aa43be8b9b17', '491b9d32-2ad4-44df-82e4-b74559feddaf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b6f4c432-1eea-4a7e-ad6c-ca1398f08a92', '96fee024-422b-4e52-bbcf-aa43be8b9b17', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '838310fa-7ba4-4304-abed-c77ba9fc0720', '96fee024-422b-4e52-bbcf-aa43be8b9b17', 'b05cde7a-6ce2-495e-af46-253cfdff1437', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a04c2393-e3a9-4f26-9646-a4529b4b7ec2', '16929fcc-e3f4-4eb7-ba8d-ad69ea2980b0', '34b3a595-b161-4ad8-8707-12dee9a27e49', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0922c72c-7ba6-4a87-815e-62dec27e30e7', '16929fcc-e3f4-4eb7-ba8d-ad69ea2980b0', 'c914d06e-cf40-4dd5-ac79-92b1481332b9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f037eb2f-8223-44cb-81fe-936b60a4faef', '16929fcc-e3f4-4eb7-ba8d-ad69ea2980b0', 'ade958e5-9d02-4115-929c-457ba199fcac', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c65529e6-e835-46fb-80f9-9a17b85d2c41', 'a7a14666-b45b-4856-9eac-8b4ec7332909', 'f754cd01-0840-404f-a112-b3ff558e9f66', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7bf8a857-5878-4df8-96d4-bdfca2cff739', 'a7a14666-b45b-4856-9eac-8b4ec7332909', 'e1bc0590-9aed-47d8-956f-27b86fbd88ae', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '08139a87-b02b-475b-9747-0d4b8fba3656', 'a7a14666-b45b-4856-9eac-8b4ec7332909', 'e776fefa-9cab-4bfa-9fa0-2ad228dbb88a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ccc5c564-a797-433e-91ad-0468b2dec628', 'a7a14666-b45b-4856-9eac-8b4ec7332909', '2c4a7cab-b06f-4e52-ac76-155ce6939f7c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a9b8a7f7-e39c-462c-a00d-bac2a3beab77', '23978cfb-59c9-449c-a00c-f1769ce2e294', '64695f59-0d72-455c-a9bf-8ef79f249cff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4131497e-cccf-4236-aba8-6882316c57b8', '23978cfb-59c9-449c-a00c-f1769ce2e294', '6c76f6e5-1aea-4b4d-9917-92ac0fdc1ebc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9410e69b-da3c-49d6-aeeb-921951730b59', '23978cfb-59c9-449c-a00c-f1769ce2e294', 'c739e95f-6c4e-47bd-82ee-8963ca4d42b6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '641aa833-311e-41a9-bdd5-91d8bd23184d', '23978cfb-59c9-449c-a00c-f1769ce2e294', 'bf6be0e2-0baf-447a-bb52-8f7c1d794a41', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0e111c7-8667-46e2-970e-89c85ea95e23', '5a1a47eb-764c-43cf-b090-51e879286961', 'aea68a5a-38cd-403d-984c-44e05ebf1b48', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a372747e-5bb7-4f9f-a5b4-274a1799d1bc', '5a1a47eb-764c-43cf-b090-51e879286961', '77a27af2-a19f-42d9-86a2-c5ad800e5bff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd414197e-6bff-4f4c-8191-c119a388d353', '5a1a47eb-764c-43cf-b090-51e879286961', '1501eac9-6133-46f0-bb6f-386ff5b980bc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9c5a8e7-7374-4631-a9b8-d31d59ced36f', '5a1a47eb-764c-43cf-b090-51e879286961', '6e758030-3f43-4325-9175-8928fc54edb6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '03d3ac70-5b9b-4cb3-a642-d86442c35ec7', '5a1a47eb-764c-43cf-b090-51e879286961', '8d20ed38-3e6e-4733-beaf-9a632c8591bb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d5e56f4-8cf3-422e-a851-11b8f4edee85', 'e939b5ad-3105-43a7-8b11-285175e490f3', '3e73f03e-2654-49e1-a75a-afb905b21daa', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98cc3a8f-84bc-4301-9c33-d68c8ba12e0f', 'e939b5ad-3105-43a7-8b11-285175e490f3', 'cd2c4d30-9280-4f46-9060-14d29f7b8dd3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1be0513b-056f-4262-9019-590b189044d4', 'e939b5ad-3105-43a7-8b11-285175e490f3', 'b62a3d9d-20d9-4732-b877-a310ab3fb8be', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37b75c28-e76a-43b5-acec-20de12ada3a3', 'e939b5ad-3105-43a7-8b11-285175e490f3', '8a191997-cc1d-4162-a42c-da3a8d03326d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aaecbf3c-14e3-4bda-b95a-97a35333888c', 'e939b5ad-3105-43a7-8b11-285175e490f3', '6d821b83-ac6e-4eba-8132-ca65a06d7b0b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70fd8299-9271-4894-bdb3-6f03fb46b775', 'b0461241-0c77-460f-857f-0279679e413b', '0d4d6a51-e9b1-44e0-b598-e0ab4f876450', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '78ea9f90-8c69-4cf3-93f9-a31c93437755', 'b0461241-0c77-460f-857f-0279679e413b', '8810a781-a16c-432c-b829-679b9723b0d1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7b7456c8-2f95-44f6-a608-58ba4cee97b1', 'b0461241-0c77-460f-857f-0279679e413b', 'aea68a5a-38cd-403d-984c-44e05ebf1b48', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eb7256f0-135c-4423-b461-08a316439adb', 'd522b702-43b7-45ca-9af6-2e0c941d6165', '5f940f14-a31d-46b5-b904-a3a6e0402a27', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ade23a4-2d42-4b1d-a92c-d7bed93ce86c', 'd522b702-43b7-45ca-9af6-2e0c941d6165', '2749d10b-4198-4e3c-b2ae-d02826d84e4b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e4f3c57-6a40-4f7c-82fb-497e92e6ebfb', 'd522b702-43b7-45ca-9af6-2e0c941d6165', 'ce2672a0-2781-4907-bcb7-7890221a61ee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a0aa0c73-c41e-42fb-ab1b-e50c7f694fae', 'd522b702-43b7-45ca-9af6-2e0c941d6165', 'e38c230b-a489-482a-80f8-c0444e087964', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd13074d6-1b14-41b3-b2a4-6844d4658f64', 'd522b702-43b7-45ca-9af6-2e0c941d6165', '7e6f79a7-8d3e-44ca-bb61-ee6bd89a8a6b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4a29ad51-5699-43ef-b326-feabc8f28bb5', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', '1e34fffe-3d67-49e3-bfc9-74677838f032', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8149e0a5-7447-4fc4-8952-251b0306569d', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', '3754c7d9-1199-405c-9424-43b991746c41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ce58c63-eb1e-44f3-a846-6da23b6b38bb', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', 'dc2fd452-a7c1-4988-9c37-da4d5525abd5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '45f0a6bb-5a93-44c0-af76-651064057149', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', 'acf8e3fa-a0c5-497a-9cca-c5f6953617e6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '23a29335-e8ac-4981-adee-f57bdba976d0', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', '22047ed2-d5b7-4a33-99f6-8147118d3cdf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1fcc9fa1-a09d-47da-9194-6a66ea75caf0', 'd0332c81-ada1-4b87-a982-2d9d0f9e8c21', 'c23e25b2-5547-4d5d-9388-ff34b7122a1f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b9e9dc03-5c53-4a8a-98ec-b174a4c81bc0', '88a81dac-fabc-4a4f-ae85-9390ce75dd20', '8d20ed38-3e6e-4733-beaf-9a632c8591bb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc4f7a42-97cf-4723-b533-5c0d9fcf54f0', '88a81dac-fabc-4a4f-ae85-9390ce75dd20', '3eb4f528-b2e8-452a-a3fe-e51e319bde3b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bcbda34f-f847-4889-b6b2-5ffb6d070312', '88a81dac-fabc-4a4f-ae85-9390ce75dd20', '90791573-a29b-4dd1-bf94-3f27ae90af6a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5a22cc57-ab31-437e-b4f3-6a4dacbe82f9', '12e960c5-bc1b-4634-aacd-521cd15cd1b0', 'c7e2a24d-34b7-450f-adff-283570f2d3c3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '852a721e-24fb-419a-8e26-05c0be59008a', '12e960c5-bc1b-4634-aacd-521cd15cd1b0', '74d36fcd-580a-4dd7-814f-478615bb4c67', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4db91a3c-0f1b-49a1-a67c-2f3613a5744d', '12e960c5-bc1b-4634-aacd-521cd15cd1b0', '3f678dc6-011b-45c8-b5ce-c407d45ed1ba', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8498786-0f02-4ba8-92e1-399b9bf76074', '12e960c5-bc1b-4634-aacd-521cd15cd1b0', '4a8d84bf-ab25-4459-8b8d-fb89a2196a31', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0e2bbee1-93a7-4874-921b-10cffa15fe6b', '4bd369b5-a180-4c16-a7d7-5cbb040ed4dd', '1501eac9-6133-46f0-bb6f-386ff5b980bc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4e89fa62-97f0-4f14-8af4-212d768ad956', '4bd369b5-a180-4c16-a7d7-5cbb040ed4dd', '1d086ce1-3702-4b28-b0f3-5d9264c4fecb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f56826d4-75fa-40c4-9287-ff313d1473a1', '4bd369b5-a180-4c16-a7d7-5cbb040ed4dd', '76efdee8-4275-42d8-99bf-9d47082ecd1b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '40791542-2a85-47bd-88c0-4a68dddb10d8', '7d8f4f50-ea62-4e3f-b314-6bcb25db09dc', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '320cd40f-13db-4647-8073-430c7c9c772b', '501496d5-37c3-49f1-aea1-c31cf8157308', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ad95ba5-1a3c-42b6-aebd-4ae66b180145', '501496d5-37c3-49f1-aea1-c31cf8157308', '4b9c13a2-080a-40fd-9ffc-0a0090f7c5ab', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab4a5cee-f11d-4b13-a3b8-fb8113e12c6f', '501496d5-37c3-49f1-aea1-c31cf8157308', '19b0eeb1-4d3f-407a-9b2a-44ef11a81403', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ccdc8b3-7819-435f-b8f7-693834e841fa', '501496d5-37c3-49f1-aea1-c31cf8157308', 'dace4477-5de0-492f-ae01-464457049bac', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '26396df1-d2b7-42b1-8cb2-1ea36701a352', 'a009077d-8504-4684-917f-a73acef7f9bd', '34eed2dc-ee5c-41c7-b653-bef7aadd348f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba9f2eec-76cc-4143-b20b-780ada08b4a9', 'a009077d-8504-4684-917f-a73acef7f9bd', '14706e51-73ce-45d9-9a8d-e81a993712d5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6520b51-ddbb-44da-8300-3e71681e865d', 'a009077d-8504-4684-917f-a73acef7f9bd', 'e62bd9e4-3b48-48ca-8e1d-8db814a92ae1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '05f4fda6-0a17-4993-8e84-8503fbb0195c', 'a009077d-8504-4684-917f-a73acef7f9bd', '975ac04a-aac9-4afb-9794-ddba445b7db5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '030d9eea-f7cd-49b4-996b-03074d06d702', 'a009077d-8504-4684-917f-a73acef7f9bd', '16c6e541-9047-4c48-811f-c1128a729d71', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2accd537-7f76-4738-91e2-f2c1a5f6fd45', '3d2ee52e-2aec-4e24-a28a-5b10ceb7851a', '4d254302-736b-4c9e-bd77-4d3036856570', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '323a9165-5b09-49af-8776-50d79579b876', '2e8a3d90-22d1-45f9-9747-490fbb826afd', 'aec1f4fa-7b45-465d-a509-1758afe64800', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c18b073-5d6a-49aa-8e99-46faf14495c2', '2e8a3d90-22d1-45f9-9747-490fbb826afd', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd63dcb35-fa8a-4adf-97f4-1f41cfe0f80f', 'e0905c98-4195-4079-898e-d30d59804c9b', '4bcd4c68-1840-4ca2-b683-813e042842d6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e397cf22-e2fc-45cb-b5b1-0fc354a234e0', 'e0905c98-4195-4079-898e-d30d59804c9b', '02a8b0d2-92aa-433f-b035-0ae6e53ba50e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dfe3d03b-05b7-4cda-80d2-3f163be987e3', 'e0905c98-4195-4079-898e-d30d59804c9b', '35bfa56f-2622-4abc-a17b-c8eb42108cc7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4910de6c-9092-4fc6-ac64-f91fe59ef104', 'ad8fb0fa-1297-4392-badc-fd5437ceae85', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34b5a2e5-c848-464d-8834-b6872bc2ed09', 'ad8fb0fa-1297-4392-badc-fd5437ceae85', '34f8f1ec-61a5-4d38-90eb-8bf15a6f5f4c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e02c961c-e784-490a-a545-0c913c540b02', '8fc22fa5-406d-4da9-9d8c-b1abd9a27098', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d64d87c-0d6c-4c4e-87e7-b69c6adda7e0', '8fc22fa5-406d-4da9-9d8c-b1abd9a27098', '480686ef-424d-46b7-9a22-5225d05581dc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '494c018d-cfd9-4a38-8561-5c6812a25c05', '8fc22fa5-406d-4da9-9d8c-b1abd9a27098', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f4c2b05-0951-4d60-8b21-b3d80994be2c', '8fc22fa5-406d-4da9-9d8c-b1abd9a27098', 'b3bbcbb7-6e85-4ddf-bc9c-63228f0cdc7c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '849c7c07-a9dc-411e-973c-7a520fc84a0c', '8fc22fa5-406d-4da9-9d8c-b1abd9a27098', '22047ed2-d5b7-4a33-99f6-8147118d3cdf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1d355870-325e-4e76-8755-7c6aeeaae32b', 'ece62f06-cff4-49ef-b58a-e04add157e89', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ce5cf62-9366-4c73-b351-2aab3aad1eef', 'ece62f06-cff4-49ef-b58a-e04add157e89', 'e9dc6edd-7c1b-446c-972d-8254ebbe1dba', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7956356-03d1-49a7-b91d-05c6ad18c664', 'ece62f06-cff4-49ef-b58a-e04add157e89', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd9599982-2833-4756-85b1-48cfa98335ab', 'ece62f06-cff4-49ef-b58a-e04add157e89', 'e44811e3-1360-4b2c-8735-20f8a32121bb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd98223ed-e9ed-49d4-937f-2271075da3f1', 'ece62f06-cff4-49ef-b58a-e04add157e89', '70c43410-906e-44e8-a87e-e0a1de12651b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '431c593a-ff30-45d8-a02e-9db639754173', 'ece62f06-cff4-49ef-b58a-e04add157e89', 'be06fd03-469f-48d3-b0ba-759238cd79ef', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf6212c3-47fe-44d8-9a42-7e22eb663ce3', '15ddc97b-de34-41ab-bf40-ce4c2be3cea3', 'cbc10b44-262c-48ed-8d49-a654b51858df', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c99e5bbb-4ae1-4562-9011-0193d8003cfb', '15ddc97b-de34-41ab-bf40-ce4c2be3cea3', '393a09a2-5cc2-46a9-a2e3-eb4d26bc9a0b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '900357f5-9a08-45df-9e26-f587fb880e02', '80156964-b659-44d5-aeab-a013826ef11d', '181e1e5d-779a-47c5-a6b7-5236f9ebe895', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f6574323-9cd1-44af-abe8-433730425804', '80156964-b659-44d5-aeab-a013826ef11d', 'e4f32b74-4f04-4cc4-82a1-19193852c9fd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ab421d2-d153-42c0-b341-9f184b95b5ce', '80156964-b659-44d5-aeab-a013826ef11d', '08b20754-77a5-4812-8421-c680535ca880', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9665b8ae-499d-422c-8f6a-bd50839f1274', '80156964-b659-44d5-aeab-a013826ef11d', '664f052a-dfff-400a-87cc-50a6193f9171', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f9fee97-d76c-473f-a900-21c62af6a673', '80156964-b659-44d5-aeab-a013826ef11d', '7c80c86c-3dad-49c8-ab50-58571c898042', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '186429fd-ae6b-40ad-9557-4b6f43748531', '464f795a-1a96-4c63-9f7b-a3b9a291b669', 'f1c50e38-f6f6-425e-9ab0-3b38e1329c58', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8a0414a-2f7f-4670-92b0-f84f499ecfda', '464f795a-1a96-4c63-9f7b-a3b9a291b669', '8bcce99b-09d2-4358-8f09-24c2add022fe', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd3e07cab-e273-4c3c-aeb2-305c8c500801', '464f795a-1a96-4c63-9f7b-a3b9a291b669', '5239de49-30cc-4780-880d-61e7af84143c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c3a25c6-8004-4bfc-9bcc-e6b75c36252c', '808aab80-45b3-4756-8f77-132743e93597', 'f3a920b2-1e47-4f20-8900-fe1f04adf404', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd7258208-df97-426f-9166-6f6c71caed3e', '808aab80-45b3-4756-8f77-132743e93597', '25cd3b70-bca3-46d9-98b4-19c23c57e1dc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ceb434d7-7117-44b7-bb28-067e444d28ac', '808aab80-45b3-4756-8f77-132743e93597', '9c63e62b-23ff-4b7f-910f-8f82dc94aa87', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2c8a196e-08f6-4789-a095-0a946f38de30', '5eda2be0-a7af-4588-a970-547b1a8806b0', '647a51ad-accf-470b-a677-62ccf2ee2d56', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf59df43-0054-4f65-8f76-bb0e9863680a', '5eda2be0-a7af-4588-a970-547b1a8806b0', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd3a343a1-f719-4048-8c6c-e8f668b429cf', '5eda2be0-a7af-4588-a970-547b1a8806b0', 'e44811e3-1360-4b2c-8735-20f8a32121bb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b3872c72-615a-4c61-b5a9-02b6df5d78f3', '5eda2be0-a7af-4588-a970-547b1a8806b0', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b31d9c83-d261-41e8-87c2-8fa7eae52430', 'f618af76-3629-43e4-95ab-3bf700a1cc95', '1a32fb68-b8b5-47f3-be5b-8651eaab56b3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '307ceb97-c1ef-44be-9b5f-a6cd1d269c0d', 'f618af76-3629-43e4-95ab-3bf700a1cc95', 'a0b7f90d-582c-40ec-9766-e6f66fb5b5a0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '96e8f8a3-8ea3-4f3c-a120-8452357ae3e4', '50468bf3-57a6-45e4-a956-bc6846763512', 'e900d6c4-80da-467e-a53c-70bda130538e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49b6aaad-4269-4e15-9ba0-eb4bafae4bdb', 'aa2e0bc5-19fa-4cd5-b6b8-ecdc7ae4c91e', '2da11e57-2852-4b5f-9982-74d0da683bdc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ff9b903-a411-4da3-a00a-7e18dd6f4554', 'aa2e0bc5-19fa-4cd5-b6b8-ecdc7ae4c91e', 'd2c22c5c-57f3-48db-9005-9219a766292c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff6f7785-b231-4064-8da3-5163aa4a14bf', 'aa2e0bc5-19fa-4cd5-b6b8-ecdc7ae4c91e', 'cd2c4d30-9280-4f46-9060-14d29f7b8dd3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a051b9e8-78b7-4514-aa57-20160f3188a8', 'aa2e0bc5-19fa-4cd5-b6b8-ecdc7ae4c91e', '715f12ea-5dfd-404b-81e8-c8baf29738f3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0dcf393e-125d-4fab-86f2-e5f4d1baeac5', 'aa2e0bc5-19fa-4cd5-b6b8-ecdc7ae4c91e', '74d36fcd-580a-4dd7-814f-478615bb4c67', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '418acee7-7f0c-498f-ad95-91d4cacd4315', '2665d4ba-472b-46e4-b38a-cc96190071de', 'a30b8920-b3c8-470c-aaf4-9a1cfd931f40', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '42b5f1d9-a986-403b-9214-f996f8bd5d58', '2665d4ba-472b-46e4-b38a-cc96190071de', '48ddf878-2b13-416c-83e9-3df03f14e7a7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8b247a55-b80e-445d-ad58-5eca8f986730', '2665d4ba-472b-46e4-b38a-cc96190071de', 'a30496c5-4df9-4e83-97e4-173e04ac3417', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7c6d572-8868-4852-be83-bd45810568e8', '2665d4ba-472b-46e4-b38a-cc96190071de', 'de168f86-9631-482b-b894-a074dae1fd26', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '996d89ea-2dd7-493a-a849-9216bbf70f1b', 'b1fa04f3-8d84-48b0-9069-a7d9d2179339', 'd139ac27-7e9d-48b5-ac6f-9ae720a8abfa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5f976807-e131-4d70-94b0-02a14fafd0f7', 'b1fa04f3-8d84-48b0-9069-a7d9d2179339', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eaac1589-704e-4384-a9ba-f1a6452fa3a3', 'b1fa04f3-8d84-48b0-9069-a7d9d2179339', '8d4345cf-1b6f-49fc-b63c-ef90c0785cbc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '973456ad-4b66-49e3-88ce-f1d0b96eb2ba', '553ddab9-40ec-42a2-bebf-273a9b860e2c', 'd80a903f-0861-4675-84c0-be7249a5ade1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b3aa50c-d527-4172-b700-210b24862bcb', '553ddab9-40ec-42a2-bebf-273a9b860e2c', '1d3c8a94-f6ba-4481-9dd1-d0068a7b8441', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f48d98d6-28ca-40ce-b5e8-7097e52352b9', '553ddab9-40ec-42a2-bebf-273a9b860e2c', '74d36fcd-580a-4dd7-814f-478615bb4c67', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd97ee79b-4e7a-43a1-aab1-f3887a4ffb84', '553ddab9-40ec-42a2-bebf-273a9b860e2c', '89e0aa13-df65-4334-9117-77f211d3dc7d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3046dfad-0287-4bc4-bbf0-a4fb41e8edf4', '0f9d0b44-0389-4168-9ea9-28411a42cb3d', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2816c484-8cda-4608-b7af-cb9cedfeef10', '0f9d0b44-0389-4168-9ea9-28411a42cb3d', '0cb38ef6-8e16-4d99-81c2-907dbca7fbc4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd6a4f025-d9b9-4aaf-9eb6-ccd56288e303', '0f9d0b44-0389-4168-9ea9-28411a42cb3d', 'cd082850-c5ed-4baa-8702-67d6466400ee', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9cd0fb89-8728-407d-a085-ae82513075df', '0f9d0b44-0389-4168-9ea9-28411a42cb3d', 'b9125b1a-0506-4d94-bdfc-551c7f9c52fb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '061efce7-1101-4d3b-99d7-c1a18912a667', '9cbfb531-001c-4a11-ab12-4bb322133b11', '1e17815d-62f8-4a7a-bbf1-03586e94687a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1248f09-f349-44b9-ac6b-9a20c5b8f084', '9cbfb531-001c-4a11-ab12-4bb322133b11', '8ff577f7-6463-4207-a371-004f9ddc57f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '450b2459-56d2-4c39-94c0-e7d7be701966', '9cbfb531-001c-4a11-ab12-4bb322133b11', 'fa0ec28f-269b-4968-818d-0b24b4ec4738', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a00281a-294e-4350-a205-b872464f09ac', '9cbfb531-001c-4a11-ab12-4bb322133b11', '3ab7b90c-fffd-4b52-92e1-cc699e60e27b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '760105b7-df0a-4e9f-864f-83937f55c177', '9cbfb531-001c-4a11-ab12-4bb322133b11', 'b3bbcbb7-6e85-4ddf-bc9c-63228f0cdc7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1716cdcd-2faa-4a5c-94c7-902d50424cb8', '9cbfb531-001c-4a11-ab12-4bb322133b11', 'beb51a42-e3e3-4511-be44-faadf85db339', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b89b8c73-b162-43af-9736-c8a47a5591c1', '63a6b205-d271-4870-8255-d2f901892c29', '5b0e60af-a249-40cc-b7a1-1e552b535545', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5d75f45f-b151-42d5-a210-b4c404555323', '63a6b205-d271-4870-8255-d2f901892c29', 'a031ec70-0271-4999-8032-227caf70cc4b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ae4e2e1b-6685-44b0-b662-913685444daa', '931c9708-23e4-4128-9a99-39e540684666', '46c7a13f-578f-4387-a603-e571096bfc41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'daad135d-a3c0-4192-8121-a23591b81030', '931c9708-23e4-4128-9a99-39e540684666', '6e40a324-86af-4b6f-a713-ab0cc5998b51', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ee25d25-6ed2-4092-8fac-a8f337003780', '62464f9e-6812-4ade-9749-885367ffba37', 'd3d83d15-8be1-447b-bae5-9bd96bcc7208', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3b1885f-cba9-4a9b-905f-659d75f6879a', '8282f6df-4e51-4039-bd95-b1909c7d5738', '0ecbacea-1fbf-46d3-bbc3-5393b2052895', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0da54cf5-0660-45ad-acb2-8a46e8c9a0b0', '8282f6df-4e51-4039-bd95-b1909c7d5738', '37315912-8228-4498-a707-851e6f019ca6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8196b718-0c27-4b72-b277-d2f8f6608473', 'ce403bd4-d723-4c1a-b854-6c5e36571bd3', '4f336694-131f-44c0-8158-aa913f274606', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '46ac8308-1823-4278-b96b-1223a651f701', 'ce403bd4-d723-4c1a-b854-6c5e36571bd3', '7fad8ed7-9e1b-4f45-933e-315a3df3c6c3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2953f942-4e27-4833-8615-962a8a33cc75', 'ce403bd4-d723-4c1a-b854-6c5e36571bd3', 'c3676238-bd12-4ef6-b1ae-7063e76f0d0c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53f5f288-12fc-4cd0-9b02-2ad9b935975d', 'ce403bd4-d723-4c1a-b854-6c5e36571bd3', '13c05956-b96e-4cc0-b680-3869834d47a9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '68dbbef7-f7eb-490f-8722-8f856748b767', 'ce403bd4-d723-4c1a-b854-6c5e36571bd3', '09eb3145-c291-45b5-ac1a-9d330a92f881', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0826b0e-bf37-44eb-b5bc-628f3588a1e4', '5baae091-6ac6-4086-9091-8f1f7b32645f', '597d69d5-a8c6-4b68-81df-71f61978bae6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0934786e-bac7-4356-aba5-9a63affcf2c0', '5baae091-6ac6-4086-9091-8f1f7b32645f', '0e14eda4-ce4e-49f5-bdfe-3b92a93fa10d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af66728b-0fd3-4cda-91d9-60431ae216bc', 'd90df172-3af9-4a20-b655-da6bef95520a', '9901786a-ce40-4177-91e0-aa72d69f6e1b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f1245b6-0504-4769-b108-0957cd9a39cc', 'd90df172-3af9-4a20-b655-da6bef95520a', '214338da-2fb5-4959-8cd6-68bb898d301d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '958f84a0-d1ac-4870-8e8f-6eb788f1f6c8', '9351feba-1d7e-44c5-a4d6-8d45f757a079', '9dcf158d-980c-43ff-a3e2-1b49b9c0e025', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c44d6054-1fa5-4ff4-819b-7dbb0e359018', '9351feba-1d7e-44c5-a4d6-8d45f757a079', '03af08d7-57bb-4854-9a8b-8d917015a162', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a1523e0-cc9c-44b8-abb1-6b749d6b84a8', '27a1ee6d-53b3-4514-ad5a-ab3b61f216ca', 'fd627af5-c189-4299-a4ad-f9bc4bf20cc9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d86a28d-267f-450e-8e51-bc0325a59782', '9501038a-037d-4974-8812-219793871f77', '25cd3b70-bca3-46d9-98b4-19c23c57e1dc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8febc0d2-39ee-4b24-bc85-50cc3129cf85', '9501038a-037d-4974-8812-219793871f77', 'ea48ff9e-3a7e-4fc2-90ed-2e87441704a9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e747b8a-6e53-48fa-8329-a5c67982f70c', '9501038a-037d-4974-8812-219793871f77', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35f998cf-84d0-43ec-ab0b-26231bae03dc', '9501038a-037d-4974-8812-219793871f77', '3754c7d9-1199-405c-9424-43b991746c41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '418a68c1-3ba9-425c-acd7-676ae25b71d7', '9501038a-037d-4974-8812-219793871f77', '1d086ce1-3702-4b28-b0f3-5d9264c4fecb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ae005809-4750-4a11-b0d0-9641c3050fb3', '9501038a-037d-4974-8812-219793871f77', '09eb3145-c291-45b5-ac1a-9d330a92f881', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c7a068e-dee9-4930-833f-220911467fdb', '5087800e-3ab7-4306-b8f5-e464dc25bf37', 'cc3b7984-5cd5-49d0-9258-6befebba62d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a0e220c4-6028-429d-9394-e708f17074c6', '5087800e-3ab7-4306-b8f5-e464dc25bf37', '3ba3727a-c4e3-438f-9e17-a5de4981d840', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '413aa07c-56d3-47f1-81ea-cb6fd43c6318', '5087800e-3ab7-4306-b8f5-e464dc25bf37', 'e776fefa-9cab-4bfa-9fa0-2ad228dbb88a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aa654525-e0c9-4169-89f0-c288121d4866', '5087800e-3ab7-4306-b8f5-e464dc25bf37', 'f347be98-7311-419f-9368-fc9c3bcda993', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8441c25-7d44-449d-96f5-4ef7c8ad54e8', '5087800e-3ab7-4306-b8f5-e464dc25bf37', '8a42de0b-3471-49eb-b87e-5dd31f8b2269', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2016a1e7-279e-45d2-9be4-485193c611eb', '91f9011c-60cd-4016-97e4-3f3a9e80d21f', 'cc7fcf5a-5282-437e-ad93-383eb4626d3a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '850a07fd-92dd-4fce-955f-06fcd2d3345d', '91f9011c-60cd-4016-97e4-3f3a9e80d21f', 'e9905164-d389-4d88-ba70-e28cf7d5514c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ded3ff2-7d49-46d7-b310-6cb2989a1410', '91f9011c-60cd-4016-97e4-3f3a9e80d21f', 'a9144dec-a200-419e-ac61-57df38f3ceef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0af59f5-4a2c-4b7d-a854-deea6c80b5c7', '91f9011c-60cd-4016-97e4-3f3a9e80d21f', '4f1bb184-3cdc-4752-93b0-851bcfeab5eb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f804628-0e18-4409-ace8-19a644124c41', '8a143b50-9e33-45a9-bca8-7bf02a7ad53c', '3f6afe65-5c6b-4105-8c88-99b8165603d0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '558e0cba-11ce-4240-a4bb-c14016376c95', '8a143b50-9e33-45a9-bca8-7bf02a7ad53c', '0d9bbc4e-7f49-42b4-aa3d-2743d47482f4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '64691c8c-d81f-4730-9d3a-fa68fc0e07ed', '1465f774-559c-4fff-b93b-b7640f06e9f5', '65dc2fc0-138e-4bb2-9b2f-3d673fdd09d7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '67da9d10-5533-4451-bfa1-7d6000df5c8c', '1465f774-559c-4fff-b93b-b7640f06e9f5', 'dc2fd452-a7c1-4988-9c37-da4d5525abd5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ddf192eb-d5e4-49d5-a868-36256185e586', '1465f774-559c-4fff-b93b-b7640f06e9f5', '76a9714f-7a32-4384-968d-9f478b31aa73', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '287c2cf2-79a0-4094-a7dd-d89f000de3fb', '1465f774-559c-4fff-b93b-b7640f06e9f5', '22a3a856-63b4-48ba-8864-8e5f4ed425c8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5877c770-65b0-4956-ad09-cd40d898d687', 'd1630fe5-3a10-4bf7-851a-0e2761f2d829', 'cae3c610-bfb0-47a4-9b4b-7498f491aa08', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3394088f-bdbf-4857-ba54-96babc649f44', 'd1630fe5-3a10-4bf7-851a-0e2761f2d829', '4c424f97-6de0-4eb7-b5c5-30fe8bc4066e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e8e507c-9484-464c-89e7-4b8813a55c19', 'd1630fe5-3a10-4bf7-851a-0e2761f2d829', '3e270283-b252-4281-b4a2-e51c795d5f68', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d7a788b-6fbe-4605-be6d-d2503fc433b7', 'd1630fe5-3a10-4bf7-851a-0e2761f2d829', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '572164f2-e59f-43e5-bb2d-325c4f5afe61', 'ca173dab-8ed2-4768-af0d-3dcf7fb9ad90', '0ae9c484-ff6f-40bf-aa69-dd3c5dedf254', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ef0ea980-9056-4837-bcd8-fe8bd2e00867', '44e45c96-cc25-440b-89a1-ea5ab73e1541', 'dba9c458-15ce-4adf-94ec-8202ae4cc442', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aff9fbe1-6828-4625-98e5-4ea0948b37ce', '44e45c96-cc25-440b-89a1-ea5ab73e1541', '4bef6608-cc2e-4351-aac9-e6ce7382dcb7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9bf95ef7-3916-4f21-8499-074a2fccd503', '44e45c96-cc25-440b-89a1-ea5ab73e1541', '1dfdb021-d014-41f5-adcb-21c475d0885f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f017f2d4-6033-4d17-baed-ae87ce149e9b', 'aee3c345-878f-4b89-b645-49607c538d75', 'e94f2068-aaec-4356-847d-a8fb0c3404cb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a1015414-3bcd-49e6-bd7c-96038591deb7', 'aee3c345-878f-4b89-b645-49607c538d75', '0ea2e0e2-4950-4dd0-9ecd-a575e4d512d8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3254cfdb-01ce-4ba7-b9e8-98c480cb2276', '76a49b16-f71b-4f7e-937c-67918147fdbd', 'a82ba056-d100-41d7-9df5-342d7a87e7e3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '661a39f3-dac9-4653-904e-c94f03590fa2', '76a49b16-f71b-4f7e-937c-67918147fdbd', '3607eba2-668e-4045-89c6-62e50d0264ce', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54d4c1ae-4c6c-4489-86c1-3349a0af5c13', '76a49b16-f71b-4f7e-937c-67918147fdbd', 'b10b4479-317b-4cf4-a980-bd32bc77a5c2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3db11b72-e4e9-4aad-8997-eeb9233e0b9c', 'ef8f2d03-d8f4-420c-8df8-c53ed6b4c28e', '8633bc66-15c8-401a-8ed6-afd19de80f77', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fda23e7a-053d-404d-b2e5-f4fa4e57bd40', 'ef8f2d03-d8f4-420c-8df8-c53ed6b4c28e', 'cb0fa154-aa4b-4401-bffb-3a7be5ac043f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a795ebc9-3adc-4b0e-b72c-c22bf7569640', 'ef8f2d03-d8f4-420c-8df8-c53ed6b4c28e', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '38b4d37b-268d-4cce-a486-319c4ce0daf5', 'ef8f2d03-d8f4-420c-8df8-c53ed6b4c28e', 'b6f17cf2-6be6-4775-a8c5-f1e31f66e45a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b318e74-1f92-4a83-a018-6739a5a72aab', 'ef8f2d03-d8f4-420c-8df8-c53ed6b4c28e', 'fed795e1-0ad5-475a-9e27-52bd83409dce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c249e21-0723-42ac-a6f0-c24bebc469d0', 'cfb5b1d4-f680-4493-b130-d3ede6155b87', 'bb445ed7-aff8-41ea-8df3-699b03b2e29b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '46048ee7-9e4c-4df2-ac56-eadc755f6000', 'dc32443c-0a88-4bdb-9d9b-06816cfb088f', 'ab39aa88-3735-4ac3-9cfe-b2e2a432e509', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47175f03-87e6-4c51-8efc-8be214d27f33', 'dc32443c-0a88-4bdb-9d9b-06816cfb088f', '221b9453-e4db-43fc-9cd8-87cd2abd2402', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44893a4e-5fbc-42f0-b373-894e1cc176b4', '6c648754-dd4c-4f05-b0eb-9540e44a836d', 'c37daf23-0363-4119-9179-71de03e1c751', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5879fa59-5884-499c-a1c2-fd47aecf77c1', '6c648754-dd4c-4f05-b0eb-9540e44a836d', '1173c2cb-1a20-4b34-aa05-037d950c379f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0275a36e-7cb9-4e02-b728-5d3dd97521ea', '6c648754-dd4c-4f05-b0eb-9540e44a836d', '89af2d7f-3d96-4dea-89ab-360eb015d167', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2705dcfb-3d3c-4085-89b2-5f8bcf8fadcf', '3b95f829-283c-4421-b4be-cb9820d5779f', '307c10c5-268a-41b6-847b-9eeeff56dcda', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b520244-f1c0-49e0-9cef-59293f2c3efa', '3b95f829-283c-4421-b4be-cb9820d5779f', '9d409209-dfb3-46ce-87e6-cedd057f465c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d712f11-d54a-4f7f-bbd8-035af96e817c', '3b95f829-283c-4421-b4be-cb9820d5779f', 'baa4a034-00c9-4890-bbe7-335c0dc91400', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c885a88-1d51-4957-a4b7-b93e2601ddd7', '3b95f829-283c-4421-b4be-cb9820d5779f', 'c771eb95-eb66-40e8-9073-47f01493db4d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e65a383b-62a2-4110-a9a3-4af3ac97fc0a', 'fc8e0d02-9b31-442c-9492-60e6e9d3ace2', 'ab3aa13a-3ff5-4441-98c9-d348461f0202', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '118b08b8-bd65-4e2a-a010-a974a8037f4b', 'fc8e0d02-9b31-442c-9492-60e6e9d3ace2', '4e2ae242-a5ce-40d9-b619-627bef4e3526', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '446d3d62-3c62-4b7e-96e8-f79c8d80dd31', 'fc8e0d02-9b31-442c-9492-60e6e9d3ace2', '1ad32f84-294f-49c3-b1b5-8e22727d30cc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b105770d-72f8-4d4e-b8dc-88db25574787', '031ea98a-2232-480b-8f7c-02f21c6cc294', '5afd18c7-60d5-4ae6-ae48-c47beb033679', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '38875ec4-a81d-4d58-acd0-b85c5d786d7c', '031ea98a-2232-480b-8f7c-02f21c6cc294', 'd48f3bd3-4e75-45d1-8441-d8f386fc965e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bdf9c328-e466-4e71-b67e-f681a078861c', '031ea98a-2232-480b-8f7c-02f21c6cc294', '304fc2c7-6fdd-4927-8433-6dd740d6c090', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ada308ba-e6fd-4dec-a88e-52f39dc5ada0', '031ea98a-2232-480b-8f7c-02f21c6cc294', '88d3d5f4-9d0b-4ecd-9bfe-5ce8f6daa53d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c863793-5902-4a07-9b2b-4544f7d2ac7a', '031ea98a-2232-480b-8f7c-02f21c6cc294', 'bcee356d-c30f-4f98-9100-5adfacecda78', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf4e6c47-86db-4a59-ba83-4092a173e83a', 'f0f26fbb-669b-4d45-b229-89746dc12bee', '41941021-e40f-4acb-badd-8aa60ced080d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6874fbbc-199c-4366-aa8e-0b5b916ec201', 'f0f26fbb-669b-4d45-b229-89746dc12bee', '20b8b831-0718-4d3f-823d-fba825ad67ca', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c6ef2cfb-751f-4379-88da-fe3d6c50279a', 'f0f26fbb-669b-4d45-b229-89746dc12bee', 'a5aee8bc-dd02-47fc-9f88-694df4c4c0a6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2c12810-00da-461d-9cde-b45c48e737d0', '2e608ccd-5ad9-44ad-a715-4379d1353f63', '7f24cbcc-eb4b-4d0b-9cf9-7b659727c134', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37260375-3e4d-4c89-ae3a-e2a932b819fd', '2e608ccd-5ad9-44ad-a715-4379d1353f63', '1065f0d8-bff3-41cf-8cb9-4fb6077a96de', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1816a177-992d-404b-acb1-e29a0a6781d3', '2e608ccd-5ad9-44ad-a715-4379d1353f63', 'e41e762f-2b4b-48a0-8f44-2a77a1c2f2d9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c51edd0c-5522-4b28-b183-7ad3b70f5c5c', 'c17d72d3-02f7-4b94-a009-47c3347d5764', '2b61bb62-5753-4481-bcdc-b96e09c63809', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90cc6113-7326-4526-9d2b-49a90040826c', 'c17d72d3-02f7-4b94-a009-47c3347d5764', '0b71f8e0-e3e1-43a6-9d33-a87a2e08b47f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c980a6b7-40a3-4346-8675-1d7a21649a1c', 'c17d72d3-02f7-4b94-a009-47c3347d5764', '9dfefd94-7a13-431b-9e8f-d55b21eafa3a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e96e027-fdcb-4adc-a9e1-1a2fbcb15936', 'c17d72d3-02f7-4b94-a009-47c3347d5764', '568b5723-383b-4367-bb62-a754012c2ff7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e58c55dc-2ece-4afa-9c4a-a2bfc50c6b5a', 'c17d72d3-02f7-4b94-a009-47c3347d5764', '5cb9cd2e-aaef-4082-9635-8f2c79bb6457', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3babda53-83fe-40da-8389-de3884224ceb', 'a983d17b-90fa-46d4-b4f9-4344fb8a8e71', 'd89b05c2-0b9d-4ba3-9b5b-1de8c21ec4e9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8a31fc56-9861-4ec4-9e9d-2668f616ba4e', 'a983d17b-90fa-46d4-b4f9-4344fb8a8e71', 'd3a76a7f-19cb-47fe-960a-2fc6a45bd22d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ee92100-010a-46ca-9741-f9102919cc7d', 'a983d17b-90fa-46d4-b4f9-4344fb8a8e71', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f59549b-e5f7-4351-a12b-4801885ab8c7', 'a983d17b-90fa-46d4-b4f9-4344fb8a8e71', 'a82ba056-d100-41d7-9df5-342d7a87e7e3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01cc665a-d512-44f5-9216-8becef706637', 'a451d24e-20ff-4749-9f4a-7892ac76b1c0', '1fa5a045-897c-4a04-ac97-14c65d053721', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36c9dc83-b008-4e21-80d7-35ab1f798015', 'a451d24e-20ff-4749-9f4a-7892ac76b1c0', '1aacd9ed-e2ca-448c-ab94-d78536cc1af3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '65ef5d0f-8a92-4624-b6c1-5e31dbff0700', '18fa8f7e-0f18-412f-9924-826123904f39', 'dba9c458-15ce-4adf-94ec-8202ae4cc442', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c97ca4ef-089e-4c20-93d7-6988902e5cb2', '18fa8f7e-0f18-412f-9924-826123904f39', '864fb451-2582-4166-b2d0-c6b2c9da843f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '76e7469a-acf1-4f78-af3a-b1590c73696b', '18fa8f7e-0f18-412f-9924-826123904f39', 'c73f44a3-ded9-485c-854d-2e1bb4718c8f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bc1cc26b-cca4-458d-b728-d299b81b074e', '18fa8f7e-0f18-412f-9924-826123904f39', '6ebe8812-fed0-4b95-b129-32275583f40d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f967427-828b-4705-842a-6454cac9e0b2', '18fa8f7e-0f18-412f-9924-826123904f39', '92c00d61-11f4-4b9c-a68c-bf31b49f58c3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd38659a1-d11a-4db8-83a4-d6621f0a18bb', '18fa8f7e-0f18-412f-9924-826123904f39', '55bbf383-3902-415a-8a4c-6aa6ad07d73c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8ac009ca-bbe5-406f-a70c-39657b58cef1', '75df72df-6c23-40e2-b01f-b584ad9ade1b', '4fbad14f-573a-43f7-b420-d32c2c371732', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9913601d-9d0b-4413-ad1c-55d72d9738eb', '4cbe0f60-296d-4747-abc6-6b3c9d498b8c', '19edde11-1a42-4777-8b04-f126ffe4559b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e962ea02-e81d-4857-9722-2c6801846cc2', '4cbe0f60-296d-4747-abc6-6b3c9d498b8c', 'd8292bb1-1828-4d9b-ad1b-5bcf1624e8d8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4acabcea-073f-4819-ba57-ce28c7987a38', '4cbe0f60-296d-4747-abc6-6b3c9d498b8c', '068b4c61-0e16-4be2-824e-9dd5acb33682', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bccb47d4-0ca4-4262-9c69-a463c717855f', '4cbe0f60-296d-4747-abc6-6b3c9d498b8c', '33220ed2-f3fc-4ad4-8c3a-58452d7ae64b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15587f8e-3f7a-4e6c-b39f-c6e788333206', '00dd6999-c5c3-4129-8af8-871e6e141036', '64695f59-0d72-455c-a9bf-8ef79f249cff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e29fb06c-5b00-426e-9886-39ca72ae893c', '00dd6999-c5c3-4129-8af8-871e6e141036', '366b704c-4f36-418d-bb5e-4fb58fe76528', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ef958e58-ec68-46a1-a8c4-ff6d657ea668', '00dd6999-c5c3-4129-8af8-871e6e141036', '068b4c61-0e16-4be2-824e-9dd5acb33682', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '66f957f9-e935-4261-a9e7-908796625f08', '00dd6999-c5c3-4129-8af8-871e6e141036', '8f042032-ab6e-4510-aa57-feedc3e64fe7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b0a6113-9a2c-4ed4-80aa-dfaecc2b4e4c', '00dd6999-c5c3-4129-8af8-871e6e141036', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cadf074-70ac-40e5-8a57-28ea5576a00c', 'a688e653-09a4-4656-b00a-a19a6a234b8c', 'e6d8363e-9f51-41fd-af8b-7c2bf268be7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5b14125-6217-46bb-b346-852f8f242b0f', '0700a1cb-df69-441f-9ed8-a7b2e2dbfdf6', '804eae6d-a9d8-4553-8db0-d366433fa917', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4e0ea4f-54bf-41a6-8fb7-c564fef73011', '0700a1cb-df69-441f-9ed8-a7b2e2dbfdf6', 'e47bd62b-89a7-4550-ba65-5e5bd5088bf8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca1d3bb9-16e3-476e-877d-2766c05f8f23', '0700a1cb-df69-441f-9ed8-a7b2e2dbfdf6', '7316427b-8d00-47e5-a505-f4b3e8b8cf72', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fc38c977-282c-4cf8-9641-402e8bcc873b', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', '913e1f18-2480-4178-9d7a-7bfe7e2933eb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5b367a5-19c9-456b-8a58-32a742153689', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', '7737ca04-2890-4ea9-9eca-413d2e92d334', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2cec7be3-bbef-40da-82f4-bb76dd803d00', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', '6a85b7ca-e4b7-4ad6-a6b8-15c646a4de52', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7237d0cd-8544-4856-844e-e4f341d619eb', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', 'c914d06e-cf40-4dd5-ac79-92b1481332b9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9160c342-23bf-449b-a8e8-5fc349af5ab5', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', '5c5f96b3-c887-40b2-8eb0-953e9d401a91', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c6771f9-b12c-4d66-b5f2-314ba8ba51dc', 'bc6c5c8d-d9d4-4b6b-a0ee-98f0b6b32f43', 'b14c2def-842b-46f3-a1b5-59bec942a7d0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0c2c7e26-5acf-47f2-a48d-1d83a17a188b', '2b21d3dd-c1ea-451c-b0b7-62c8e5a1407e', 'd80a903f-0861-4675-84c0-be7249a5ade1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63cea403-1728-41fb-aa46-0409134b97af', 'b3619363-9ed1-4850-bb52-f31dcb9a6b9b', '9dfefd94-7a13-431b-9e8f-d55b21eafa3a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7255dab1-2536-402a-87e7-94fa75e30ba7', '323c8042-737b-409f-b90b-d111f9d2e631', 'b6f17cf2-6be6-4775-a8c5-f1e31f66e45a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3294603-2707-4fc9-a523-615d4e80c259', '323c8042-737b-409f-b90b-d111f9d2e631', '9cfec75b-ebaf-4e7a-ac64-f3caed8901d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b84cf76-30c1-42fb-85ad-209a893f848e', '323c8042-737b-409f-b90b-d111f9d2e631', 'f3246397-36fc-49e1-9a4c-3e5c24cb5a76', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9ecfc20c-5147-4f11-a076-edf5f90505bd', '9d406093-577e-4cef-8a2e-f85da75460de', '77a27af2-a19f-42d9-86a2-c5ad800e5bff', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d45ccb9-1de8-4d6f-97db-0f330bd959e1', '9d406093-577e-4cef-8a2e-f85da75460de', '2b1b12cb-fa6e-4db0-9c73-f49370305b49', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f6c2cc7-ab42-4dee-9acc-1b27cde56360', '9d406093-577e-4cef-8a2e-f85da75460de', '0a8b67f9-a4fe-4508-aa39-8e64a4b63b6d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3aa71118-ec75-41c0-9eaf-11241d552673', '9d406093-577e-4cef-8a2e-f85da75460de', 'fcad698b-065a-4f83-b1fa-4896c5ed3b29', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f57f98f1-09aa-4190-8a24-9eaa099a799d', '9d406093-577e-4cef-8a2e-f85da75460de', '5eb15397-9a77-4ba6-b51e-8527d8113ce7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd1c73c94-9190-41c0-a99e-0125fbcc8a3b', '9526e75c-7040-4b13-94a8-5a78ec9f853f', '971c2e93-ff26-475c-93c9-4e6257b8b114', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4385f2c6-3e74-492c-9b34-8410cbd5e563', 'b1519028-f4b6-47f0-96a6-8f96f964eb09', '4f1bb184-3cdc-4752-93b0-851bcfeab5eb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '118825a2-45e2-40cf-ba2e-cf4565205596', 'b1519028-f4b6-47f0-96a6-8f96f964eb09', '0ae9c484-ff6f-40bf-aa69-dd3c5dedf254', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd06a66e-c61d-4636-b4fc-ad42d17fb6d7', 'b1519028-f4b6-47f0-96a6-8f96f964eb09', '33220ed2-f3fc-4ad4-8c3a-58452d7ae64b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'afb0046d-a7d0-4629-b66d-8ece4e5d1b05', '84ae7f41-7140-4b75-aaa0-de73816f8042', '807eedb6-56ed-4c16-91b0-5888525dc4b5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '78edb580-cd5b-4741-80c4-9ddb1b3a5032', '84ae7f41-7140-4b75-aaa0-de73816f8042', '29d31cd9-510b-4ec1-8cec-ecd5ad0bbb4c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd0e3981-9673-4e0e-a43d-e3e34da03b42', '84ae7f41-7140-4b75-aaa0-de73816f8042', '8ff577f7-6463-4207-a371-004f9ddc57f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a0e6bfc-16bc-465f-ba74-976f79b68720', '84ae7f41-7140-4b75-aaa0-de73816f8042', '5ea49cb5-7e76-4352-a854-24acbb35776e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54f42a45-d0e7-4fd7-85ce-ab0e0a635d4c', '409b4e48-b0f9-4203-8d0b-7e496c2ca87a', '4e98e1c3-0a21-4725-8f9b-414522a60bea', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd9a50ef-0647-4969-a682-6d4399e707f2', '409b4e48-b0f9-4203-8d0b-7e496c2ca87a', '81aa80db-200a-453a-befe-5af4185195bc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c545bc61-bae1-44bb-81cb-26fa9a7b5329', '409b4e48-b0f9-4203-8d0b-7e496c2ca87a', '4a8d84bf-ab25-4459-8b8d-fb89a2196a31', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9821bd12-88ed-478c-8c5b-722fd18d6e26', '409b4e48-b0f9-4203-8d0b-7e496c2ca87a', 'fe613ba0-055a-4281-a554-5716f785eb6e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3493ed07-57e7-46cc-8bd5-c1e8ba4d6519', '409b4e48-b0f9-4203-8d0b-7e496c2ca87a', '2b9995a3-05b6-41cb-b935-92ede22c2846', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd348a507-4138-4686-8c2b-ebecc5e39733', '3738212a-0a0d-4c36-9972-702f7ea59071', '495aa5df-9ab8-47ef-b75f-e7879cb8042f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ceb1cd07-c2a4-4b6d-8553-b1b593f54cd0', '3738212a-0a0d-4c36-9972-702f7ea59071', '4ebb8dab-b6d0-42a8-a35a-434d58e956a5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5853d9e9-cad8-403d-879a-e0278c33ebe9', '3738212a-0a0d-4c36-9972-702f7ea59071', '14706e51-73ce-45d9-9a8d-e81a993712d5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2fe358bd-5110-486e-b117-2b7933cd245e', '3adfc170-86fe-45cc-84ad-07dafc4e0b0f', '9e55c916-a861-4d6d-8c98-93a5d35137b2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff714970-c60b-4b8c-a796-7353b85fdbf0', '3adfc170-86fe-45cc-84ad-07dafc4e0b0f', '7d9a3a11-ee00-482a-a108-bcda66912fce', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa4d3e67-815f-4ec7-ae6b-326e7fad9e3c', '3adfc170-86fe-45cc-84ad-07dafc4e0b0f', 'cd2c4d30-9280-4f46-9060-14d29f7b8dd3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '37074e4a-a660-470b-bdd6-4eecd346fe7a', 'eafb886a-8a5e-4d60-881a-3d8e174f49ac', 'e5e6c18f-2c94-4ca2-b9f4-928da8b31a37', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '83797552-e035-40dd-935d-fc322c430d82', 'a730e802-73e1-4484-8f00-6f329a651917', '6c800516-57a3-46d7-abb3-b7c23ed85ab8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0ea7536e-aac0-46a8-b339-f983c2f77e92', 'a730e802-73e1-4484-8f00-6f329a651917', '5317c8a4-511d-4936-8ba6-7e8144b93d5f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a9cb77d-6b52-4afd-a0bb-f9caa2697b80', 'a730e802-73e1-4484-8f00-6f329a651917', 'bc57798d-2df4-46ee-87af-5d0e26fc142d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9373c2d2-61f4-48e5-bd54-454a4da44df9', 'a730e802-73e1-4484-8f00-6f329a651917', '2c4c5dff-c002-45dc-80e0-db80f72220ba', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd50dff04-a9cc-4c3f-b0ad-949ad76d52f8', 'a810ed29-826f-471c-9a8b-c9bfd35538d0', '10d18a79-f36f-423a-93a8-f5b4b89dbd3d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3bf019c6-6036-49f4-8e6a-0dd67571a888', 'a810ed29-826f-471c-9a8b-c9bfd35538d0', 'e9b7f8c8-481f-4698-80ab-a858c85f252d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '557fb642-1ed9-46cf-a3c8-866473407a3d', 'a810ed29-826f-471c-9a8b-c9bfd35538d0', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '12ac2e20-47bd-4bdf-be75-5eafebecf928', 'a810ed29-826f-471c-9a8b-c9bfd35538d0', '6e758030-3f43-4325-9175-8928fc54edb6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee22b6cb-280b-4d72-82a9-5cac2eab6812', '2a308ce1-ac4f-4ea1-954b-8a756e916234', '913e1f18-2480-4178-9d7a-7bfe7e2933eb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bfa25c88-e5e3-44ad-8b67-c08f18b16248', '2a308ce1-ac4f-4ea1-954b-8a756e916234', '8dee7725-fa3a-4433-86c6-ad3789ab45cd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'acfe683c-44ea-4fd5-ae2c-e9a100627740', '2a308ce1-ac4f-4ea1-954b-8a756e916234', '55cda019-67d5-4168-af7b-56cb96cc0dc1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0fee882d-d279-4f08-baa4-973cee0163c0', '2a308ce1-ac4f-4ea1-954b-8a756e916234', '70c43410-906e-44e8-a87e-e0a1de12651b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92c198f6-4eb6-49b7-8dfc-2b323b6f1367', '2a308ce1-ac4f-4ea1-954b-8a756e916234', '3e270283-b252-4281-b4a2-e51c795d5f68', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8e011b10-9020-4c6e-932f-7f7b9297c0a1', '2bf8143f-58cf-4d4e-86e7-290505b53c35', '95d11dec-5e23-486b-8045-af3b2644bfb6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b685a2e-4610-4c09-a3ce-be484fbc5bed', '2bf8143f-58cf-4d4e-86e7-290505b53c35', '3b88bd1c-595c-4a73-9945-87b197dbf2a0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '635feef5-5ed7-487c-a831-7462e004874b', '2bf8143f-58cf-4d4e-86e7-290505b53c35', 'f845528f-e90f-4bc2-9250-6e9fe6916412', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '224b7725-72ca-48ce-b0e9-7637dbc547db', '2bf8143f-58cf-4d4e-86e7-290505b53c35', '65dc2fc0-138e-4bb2-9b2f-3d673fdd09d7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c734a472-babb-4f87-b01e-69c30ea8a090', '2bf8143f-58cf-4d4e-86e7-290505b53c35', 'ed07dadc-082d-47a4-8768-94f9733d9126', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5060ec61-82ec-4f46-bfdf-cdc35ca5f511', '2bf8143f-58cf-4d4e-86e7-290505b53c35', '21a45a26-a909-4b3c-8011-399bed88b276', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '212c9f88-1b73-4aa1-a9fa-5f644583698e', 'e97ab548-b474-4580-9445-d542f1dc23e8', '4b486972-cddf-4526-9e30-b674c2514c89', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b351435c-9447-4f25-bc53-b006d0b03f8c', 'e97ab548-b474-4580-9445-d542f1dc23e8', '3672eceb-bdd3-4864-80b5-5a4fffdb0685', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '686d5876-8186-406d-9812-9dc8dfe0e3bc', 'e97ab548-b474-4580-9445-d542f1dc23e8', '35466ad9-8105-42b8-840e-2e6fcb6b4d44', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ef38e570-27e6-41b0-8a9f-e733d5ccebb0', 'e97ab548-b474-4580-9445-d542f1dc23e8', '609ab455-ec7f-4155-9b06-1b44ed909cdc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b9c9ccf-c5e5-4bfe-8bc1-9f2421a19a3f', 'e97ab548-b474-4580-9445-d542f1dc23e8', 'add92f9c-8e64-4bcc-a7df-9e387c91dc00', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '258eb6c4-f704-4d65-8425-040c9ba6eb20', '44bb8ea7-74d4-4bbe-8796-f894cb41b6d6', 'fddf3bfd-3c3c-4a3b-a1e7-5b340e48c198', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c729530-ce18-4e50-95d5-af1b39af36f8', '44bb8ea7-74d4-4bbe-8796-f894cb41b6d6', 'dade1cc3-f4a7-4c7b-8594-ba4e00c8f818', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b2bf5abe-1b0f-4f2b-b273-7e23c455088d', '44bb8ea7-74d4-4bbe-8796-f894cb41b6d6', 'a606862d-85fa-415f-a575-d1a65ab9781e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c9eb9a76-2c0a-4bd0-8eac-eedd636a91ff', '6ec31d87-799f-4f00-bfa2-008dc519a305', '20679dc4-527c-4143-bb60-7451bebe9c5c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bcdcf2f8-3d79-463f-9882-903f3def1c59', '6ec31d87-799f-4f00-bfa2-008dc519a305', '6efaf3d1-78cc-4936-a0ef-06c1d6984a86', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4717961b-463f-4a4a-a80e-8192bac612f2', '6ec31d87-799f-4f00-bfa2-008dc519a305', '2b61bb62-5753-4481-bcdc-b96e09c63809', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '047d9871-a999-4410-bbd9-fbe54b716ed0', '6ec31d87-799f-4f00-bfa2-008dc519a305', '4b486972-cddf-4526-9e30-b674c2514c89', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7b3b9ca-c196-44f0-9ded-5ccb7f229afd', '64cb1cf8-2c48-4bff-aabc-23086112226c', '00bbe901-858d-4432-9459-2c960d70c872', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f6b305c8-1136-4254-a321-75a7f6ad5ebc', '64cb1cf8-2c48-4bff-aabc-23086112226c', '392be400-5c12-4f6e-ab36-0465a797d9db', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4797a194-a1e5-4fbb-bce4-a1c8e006f51f', '64cb1cf8-2c48-4bff-aabc-23086112226c', '0627b7b5-6e77-4ef8-ae12-ac662d229608', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '76fd453c-6975-4b1e-8ee6-edba21fe2816', '64cb1cf8-2c48-4bff-aabc-23086112226c', 'a8f535db-1a5b-478f-acb9-1658eb49f35e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ac6bb8e0-a297-493c-9e1c-660580750435', '019b84d3-deac-415c-aa70-02c442a11db6', '5c46b843-fa05-4b8a-8cdf-9b7fc61adbfd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '462f8cf6-1239-462c-bfec-0dd80dd2b908', '019b84d3-deac-415c-aa70-02c442a11db6', '1568c6f9-a8bb-464f-8d6a-17851ee7022a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd82b6cb0-d024-4ea4-aa6b-d922db1149fa', '019b84d3-deac-415c-aa70-02c442a11db6', '0e0568bc-4c2f-4731-93d1-0270b219dba2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c60444a4-9fc3-4ebb-8ba5-75271914351b', '019b84d3-deac-415c-aa70-02c442a11db6', 'ad7e87c6-25e7-499c-80a3-3ffa88f65986', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f15ca79e-287d-492f-a2cc-2040453efb8d', '019b84d3-deac-415c-aa70-02c442a11db6', 'cf6bcf29-579f-4d2e-823b-740c08bd180d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f116773d-be47-44ca-9527-2a23c138a715', '2e513fd7-3d20-4354-aa9f-7532829b72cf', '31d879fa-3032-462b-9a37-3f375f7029d3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a6808a7-54e4-4bf1-b6f0-d106f313b887', '2e513fd7-3d20-4354-aa9f-7532829b72cf', '4bcd4c68-1840-4ca2-b683-813e042842d6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be76c64c-d0e2-45dd-ae39-819afd6bf746', '2e513fd7-3d20-4354-aa9f-7532829b72cf', 'beb55818-a6b2-49ca-9bf3-4e53bdd9e0ad', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51b0f0da-3924-4145-b245-59df52e0d6fc', '2e513fd7-3d20-4354-aa9f-7532829b72cf', '604b83d6-8d38-4a94-b62d-00b33f757d9b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be974ed1-9278-42f8-8d90-e638eeb3140a', '24a8b156-1e76-4bba-af2a-ec194bc1400b', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b1f84e04-4501-4c54-ae5e-53d1a448ca91', '24a8b156-1e76-4bba-af2a-ec194bc1400b', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dfddcfaa-d3f6-4723-a248-d527d9d1143c', '1641f863-d506-4a25-b428-bcd167d11837', '393a09a2-5cc2-46a9-a2e3-eb4d26bc9a0b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5e1d512-74ef-40f7-830f-8e9963605018', '1641f863-d506-4a25-b428-bcd167d11837', '3eb4f528-b2e8-452a-a3fe-e51e319bde3b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '29d993ca-93ab-4c56-96e0-05318f93b1c1', '1641f863-d506-4a25-b428-bcd167d11837', '6d4f4c9d-83f4-442c-a84b-bd3d820511c8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad45ef0f-8614-4b34-943c-590eb13ee6ef', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '500e55af-8f9a-44ca-a55d-97bdb9cfb3f8', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', '2b9995a3-05b6-41cb-b935-92ede22c2846', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df9d5b28-bd74-4dc5-941a-9f26b6b4e748', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', 'd8292bb1-1828-4d9b-ad1b-5bcf1624e8d8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4cab81a0-3759-4015-84b6-619dd1bf1615', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d89b571-f9ec-4988-aa81-ad5fe5be967f', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', 'ac41d7ff-128b-440a-9f16-0b5d15ba822f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e577c74d-46a7-4fcb-9b3d-49c0a2f826f0', '8a7e01d7-67ca-4d86-9c5f-c4162b6ff45f', 'b14c2def-842b-46f3-a1b5-59bec942a7d0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee96d240-df63-4ef7-bcff-4f1ca0582fa2', '230460f0-37d6-4683-ac49-46b42d5b240b', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4020dbce-6b53-443e-9cc2-28debaea487f', '230460f0-37d6-4683-ac49-46b42d5b240b', 'd4becab6-f9ab-43c3-9698-d002cf9789f6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '332986aa-fc2b-45de-a641-2061637612d6', '230460f0-37d6-4683-ac49-46b42d5b240b', '91e7b7fe-6a62-4948-9c97-38f6eaac72e8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd209e4eb-cd35-467e-b2dc-977bfc254e3c', '230460f0-37d6-4683-ac49-46b42d5b240b', '20679dc4-527c-4143-bb60-7451bebe9c5c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd08b15f8-03b3-4835-bacd-a81d3c0911de', 'd9d1989c-4012-4a52-9d4d-321e8b5bc726', '6a8e2a1e-1084-495c-9c26-8eee5eb4a134', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '95e224a9-00ed-4648-98ab-93a1362d4e24', 'd9d1989c-4012-4a52-9d4d-321e8b5bc726', '0e0568bc-4c2f-4731-93d1-0270b219dba2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f52974a-b9ff-4ed0-8e28-b7f62ff5e5ba', 'd9d1989c-4012-4a52-9d4d-321e8b5bc726', '13c05956-b96e-4cc0-b680-3869834d47a9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff469060-5877-4c0a-8c12-b698ae01f2e2', 'd9d1989c-4012-4a52-9d4d-321e8b5bc726', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9e700225-ddfb-4b47-b69e-0ae8d56bc1e7', '815ef986-e66f-439a-9862-153bdd207d8a', '74bcb337-2165-47d1-b757-1f0d33082169', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3879f099-d396-4947-b7f0-d0d8a449ec93', '815ef986-e66f-439a-9862-153bdd207d8a', '6b46d3f9-268a-44ba-882a-254e29e857c1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92ab3778-fa8c-41a8-a226-02ff5b967e7d', '815ef986-e66f-439a-9862-153bdd207d8a', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '768956bd-8316-413f-aa73-31b79070d711', '815ef986-e66f-439a-9862-153bdd207d8a', 'a9b56f5f-5476-42fa-af8b-b0362c828e92', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd2f07b5e-277d-4fec-ac3e-6d091c68678a', '815ef986-e66f-439a-9862-153bdd207d8a', 'ad7e87c6-25e7-499c-80a3-3ffa88f65986', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '76ec10cb-91b9-4826-b505-d52def9b9d1b', '815ef986-e66f-439a-9862-153bdd207d8a', 'e504f668-6b68-4a63-a298-fc9a76e574a6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6722d369-7330-4867-b0a9-ff2f6b79e5a0', '347f3d58-8869-4189-bc62-1ed2e8fc7840', 'cffcb8a9-60d2-46b5-9c0f-0f152a460ecc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0394482a-9e78-42f1-aa87-1731044901fc', '347f3d58-8869-4189-bc62-1ed2e8fc7840', '05683879-5d33-47b5-8344-d00fa9d2cae0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0ca3d124-4428-4fa8-8c29-03efd6887880', '347f3d58-8869-4189-bc62-1ed2e8fc7840', 'b933a604-0815-4ffc-87c5-fdc9ac4a9389', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '328e2478-e791-4e53-9e0d-6fb03de00d71', 'ea1e7ccc-a9c3-4932-9134-c76f7aeb4d67', 'afae1cf2-1b45-497b-87d8-af7bedd9db66', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5c1b39dc-b65c-4f63-b668-443a2682c3fb', 'ea1e7ccc-a9c3-4932-9134-c76f7aeb4d67', '0e14eda4-ce4e-49f5-bdfe-3b92a93fa10d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5d5f3867-bc28-42b9-aea3-c6d73e0b1eef', '9ff31779-f48c-44db-86ab-149e6deba37b', '4375fe02-a93b-4b98-a140-e1b1382be199', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63479384-60eb-4408-92d9-4938938ef9de', '9ff31779-f48c-44db-86ab-149e6deba37b', 'e94f2068-aaec-4356-847d-a8fb0c3404cb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e4232de7-6e98-4cac-87e4-20eb42f08d01', '1959544e-4de3-4db2-9d13-9f10f60a01d1', 'cf97d9b6-6208-4c0a-bd58-be770c384716', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d745f44-e646-463e-a287-6982172205fd', '1959544e-4de3-4db2-9d13-9f10f60a01d1', '21a45a26-a909-4b3c-8011-399bed88b276', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf9bd901-6593-4afa-97d7-dd08fa4f8038', 'f068ceac-0160-465d-b745-333aab520665', 'feb489b1-5d57-41cc-a636-cd2fadb3a906', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33c21efa-efc7-4c27-bebb-b127dd258b2f', 'f068ceac-0160-465d-b745-333aab520665', '1bb0d9c6-c6c7-46f3-a2b0-d8f5434e9e34', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43724341-9242-47e8-af9b-664a8297696b', 'f068ceac-0160-465d-b745-333aab520665', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '001b0f68-9b22-4cde-a22e-7b13a8d18ff5', 'f068ceac-0160-465d-b745-333aab520665', '68f1ae44-e616-47a4-ac02-deaa6a5b15e0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b832c973-d58c-4517-a1e7-d2802513602c', 'f068ceac-0160-465d-b745-333aab520665', '22a3a856-63b4-48ba-8864-8e5f4ed425c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c26f15a0-743a-41f3-a2ea-6351aa430064', '5fe6bda8-4838-4b22-a48b-7b2c5ef82518', '19b0eeb1-4d3f-407a-9b2a-44ef11a81403', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '38a67e6d-bcd3-4171-b532-726df4e96b1a', '9135acfa-81bd-4132-91e1-3eac4aac395e', 'b3bbcbb7-6e85-4ddf-bc9c-63228f0cdc7c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44bbef82-de49-41f5-9c06-60c681681622', '9135acfa-81bd-4132-91e1-3eac4aac395e', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0dda03f8-58e4-4c7d-a203-2fa832036f1b', '9135acfa-81bd-4132-91e1-3eac4aac395e', 'dec84ed8-a608-4358-8409-f18b88e3b97a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8d2862ee-7e9a-455e-8dbf-b83c7a1b5169', '9135acfa-81bd-4132-91e1-3eac4aac395e', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7dd23bee-a2a7-4434-87b0-27d6db9be915', 'f4b13d90-604c-4b9a-9ee9-0a571d20906c', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '15438457-2bab-491e-ad5b-09f514ae4a57', 'f4b13d90-604c-4b9a-9ee9-0a571d20906c', '58722f5e-e835-4b2f-b769-25d649d8c979', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5bd43e71-aa60-4880-887c-01ff78c55c38', 'f4b13d90-604c-4b9a-9ee9-0a571d20906c', '1e34fffe-3d67-49e3-bfc9-74677838f032', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '02804965-5cde-4089-a113-896278005e26', 'f4b13d90-604c-4b9a-9ee9-0a571d20906c', '6e758030-3f43-4325-9175-8928fc54edb6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '69b2ea7a-0064-4079-81a1-b7632965cb35', 'd5b0c32f-de6c-467d-8a29-753cf064e81e', 'bf6be0e2-0baf-447a-bb52-8f7c1d794a41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a160f3a-a260-42a0-8313-e771104205ca', 'd5b0c32f-de6c-467d-8a29-753cf064e81e', 'b10fbcb9-a17d-4891-b32d-f065b9481513', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '410fc7f5-4153-4352-9295-8d75e3fe3828', 'd5b0c32f-de6c-467d-8a29-753cf064e81e', '3672eceb-bdd3-4864-80b5-5a4fffdb0685', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a103dcc5-0e4f-4363-82a6-fc88897c4553', 'd5b0c32f-de6c-467d-8a29-753cf064e81e', '4106fe03-085d-46a4-80be-29940f91074c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e05e3350-e2cb-4e0c-8457-12731a3b7acd', '100e757f-faa8-4d61-aabd-80e501ecef17', '580fb600-c101-46af-94ea-1a223cb6fae1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '535c3c78-35b0-4d41-ac81-9265a81fd729', '100e757f-faa8-4d61-aabd-80e501ecef17', '09586172-a929-4f1a-9d30-987216e63c8a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '14f03049-8261-4a74-b38b-a4405aa07391', '100e757f-faa8-4d61-aabd-80e501ecef17', '886755b2-c253-4d71-9513-e366a5f4d3f8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1af8fa9e-ee75-40e3-9c41-1340359e4471', '100e757f-faa8-4d61-aabd-80e501ecef17', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1fae45b6-01d3-4b94-8324-5c5dc38a806a', '100e757f-faa8-4d61-aabd-80e501ecef17', 'de168f86-9631-482b-b894-a074dae1fd26', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4dd3cc20-8bfc-490f-ba59-f90198a8055e', '100e757f-faa8-4d61-aabd-80e501ecef17', '00bbe901-858d-4432-9459-2c960d70c872', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd6a54eb1-7149-4b48-a438-139bfac3c64a', '7b09d908-7372-401f-a9f9-123297f02ecf', '3765a164-7f32-49de-8911-e4ee177ec8d8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5043911f-3562-4ff7-bc75-3d803117aea4', '7b09d908-7372-401f-a9f9-123297f02ecf', '291b1f28-41d5-45fd-ac05-d535a38a411c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa506418-a8af-4980-a208-07a6539a8065', '7b09d908-7372-401f-a9f9-123297f02ecf', '3c714f12-5d52-4129-b033-86517e006d1e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ddcb2180-6ef8-4d14-813f-7d349e1162e1', '1125a0c7-6751-407b-b4f2-fcb76a544c86', 'a0b391a3-b775-4ade-a403-621d0bc3b1b6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cba5f70-00b2-4e61-9ef0-40c38ab2b457', '1125a0c7-6751-407b-b4f2-fcb76a544c86', 'dec84ed8-a608-4358-8409-f18b88e3b97a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd9f0399-68d5-41f6-ad0d-c96e3db51820', '1125a0c7-6751-407b-b4f2-fcb76a544c86', '975ac04a-aac9-4afb-9794-ddba445b7db5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4bb4c2a9-292a-4357-a242-5249100ad005', '1125a0c7-6751-407b-b4f2-fcb76a544c86', '24ae5acc-627c-40bc-8618-855d2c3d83c5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '50258c1e-e3f5-4a88-9cab-231f75f56ae4', '1125a0c7-6751-407b-b4f2-fcb76a544c86', '882a4586-34f5-46f7-81c6-2762a06367b5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff582499-3c8c-40bd-963e-35c8f6e43f8d', '1125a0c7-6751-407b-b4f2-fcb76a544c86', '25cd3b70-bca3-46d9-98b4-19c23c57e1dc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '69dcee0a-288f-41ac-ba47-5903753f27cd', '7eb04281-77c8-46a1-abe2-04a908bd4100', '7737ca04-2890-4ea9-9eca-413d2e92d334', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7a92821-200a-4451-8459-e4677e91bb80', '3b375702-682e-42df-90fa-d57b08079f76', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cf90049-46cb-4855-9fa1-583f0f88f6ba', 'a76809fe-79ea-4b1b-8a61-09392857a545', 'db4c1a63-5dfc-44fe-907d-3c6deffaf354', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3327bfb9-120f-449b-a42f-d211036afd00', 'a76809fe-79ea-4b1b-8a61-09392857a545', 'ba8e8f86-2ed2-44c0-af5d-013c43502110', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e70b5c9-08c6-4c29-9e59-ed2015238127', 'a76809fe-79ea-4b1b-8a61-09392857a545', 'ac551793-b05d-4b3b-82cc-613c0cf2245f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd96fc2a-b656-4fef-8679-b7a1f7a69311', 'a76809fe-79ea-4b1b-8a61-09392857a545', 'd6f94d6c-7c35-448c-b7fd-3b6437bcbb6f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '58faae91-6639-45b4-86cd-82bb4df41af3', 'a76809fe-79ea-4b1b-8a61-09392857a545', '19bc4f58-b2ab-4d73-a744-bfa636dc7b08', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dff1f53b-91e9-40d7-bca0-cef3866d912d', 'a76809fe-79ea-4b1b-8a61-09392857a545', 'd7354f3f-69d9-4e2f-bfd9-da605a9441ba', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1b7fb81-3c05-44f0-982f-a91b32732ab2', 'caa9107c-1cfd-4677-ab4e-c8f66380844f', 'b4378b5d-8d57-4347-a838-af81377a3c91', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1da89475-e358-4ec1-9464-f3f98b18afef', 'caa9107c-1cfd-4677-ab4e-c8f66380844f', '0d9bbc4e-7f49-42b4-aa3d-2743d47482f4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a82535c9-5315-44ff-aca7-c3cf75fb1bc0', 'caa9107c-1cfd-4677-ab4e-c8f66380844f', '43af3018-d41a-429e-b60b-fa2336854a70', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4b83adee-c4da-472e-85bf-0f68e488744d', 'caa9107c-1cfd-4677-ab4e-c8f66380844f', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '74c2e451-edfc-47a2-a3fd-1d4513e015dc', '97f9a827-7304-4eb2-b9d6-057236a0d39b', 'e79ac3e7-b0de-43f1-abc3-f08bfee18d07', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a75e60e1-a086-4107-a017-cc670251d996', 'be3a5c93-85f4-4378-9cac-3a7ca4f41447', '95d11dec-5e23-486b-8045-af3b2644bfb6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '080fefcc-6f2a-4906-a293-334d9377590a', 'be3a5c93-85f4-4378-9cac-3a7ca4f41447', 'd48f3bd3-4e75-45d1-8441-d8f386fc965e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3ecf769c-556c-4c7a-a64c-1535237e0dea', 'be3a5c93-85f4-4378-9cac-3a7ca4f41447', '79d8d205-6c9b-4d59-8ee4-7ab63c5e9443', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f168af33-5664-4646-9afb-4e43cfbaf965', 'be3a5c93-85f4-4378-9cac-3a7ca4f41447', '1bb0d9c6-c6c7-46f3-a2b0-d8f5434e9e34', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0884d114-a2ea-4283-ac2c-33d2688a2d13', '60dd88bb-b331-425b-930b-8f3222b09f00', 'd19cdfe4-eefb-41c4-a7b9-275ca0201100', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8875ad0e-c256-4c3f-8d38-33e692dac04f', '60dd88bb-b331-425b-930b-8f3222b09f00', '442573a3-ae08-4f32-bb59-e9be6c283e57', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c155895f-9cea-45eb-bc90-1c7be60e5680', '60dd88bb-b331-425b-930b-8f3222b09f00', '273dfa6c-20dc-472c-937e-5dabebc4f1ee', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd40da7f9-b8b5-47dd-9eb6-063d11a6febf', '60dd88bb-b331-425b-930b-8f3222b09f00', 'b1cbb984-650f-4a2e-bd0e-bad269c3b494', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a9f28ebb-c88b-49cf-8ad6-fc020cf1a101', '60dd88bb-b331-425b-930b-8f3222b09f00', 'e558a5ab-00ce-4717-94a8-9300b31c3e62', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '602c995e-5312-42c7-a677-d947c33a45c5', '60dd88bb-b331-425b-930b-8f3222b09f00', '0cb38ef6-8e16-4d99-81c2-907dbca7fbc4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9d5cd12a-9d93-4116-9c30-c5549957f7af', 'b7baf858-6059-4621-b6d4-fdeaf5a14083', '5f4a7eaf-c105-4a62-bb21-899e2f384927', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '401f1c14-03b4-49e3-a411-48a927eb2af6', 'b7baf858-6059-4621-b6d4-fdeaf5a14083', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e3e9d0c5-fa46-4c48-a43a-5fba1756574d', '8d35869d-b0d1-4252-85b1-fb285e983e25', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7cff4e1-5593-4a3d-ab52-76e380fba50d', '827f2605-bb1d-4876-8210-9f767673a2c7', '54afabe2-6eca-4f17-b4e1-4b2ac6f8a2b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '85c274a3-78a3-49dd-8f28-87055b83a190', '827f2605-bb1d-4876-8210-9f767673a2c7', 'bfbb30ea-d21b-400f-920e-538b7256a116', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4101fab2-34d9-4636-ab5c-9f1a6e07f542', '827f2605-bb1d-4876-8210-9f767673a2c7', '4ebb8dab-b6d0-42a8-a35a-434d58e956a5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cbcba1c-a779-4b4a-98f1-eebab7cbdf8c', '827f2605-bb1d-4876-8210-9f767673a2c7', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cebba7b7-1aae-403e-80e1-a2e0fca9d597', '827f2605-bb1d-4876-8210-9f767673a2c7', '4bcd4c68-1840-4ca2-b683-813e042842d6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '706baf2e-c871-47d5-a12b-942c37e22367', '827f2605-bb1d-4876-8210-9f767673a2c7', '0010f8ac-8ced-4ff2-9e9a-dcc1be27d332', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90b9ba9d-7ff0-4190-ad0e-58f7b872e78c', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', '99616bde-992e-495f-88cd-97281d6b88a4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '87197061-65ce-4a4b-9703-7ccce03f3c26', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', '8f61e370-93f6-4d15-bfa2-05350b5e6c01', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba75058f-369b-4b03-90f2-30562f161aa1', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', '7f18a34c-1207-4310-94a0-8ce38f23f508', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '314fcd4a-2c20-411c-b7a7-50e614f648d3', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', 'd1ccdf6c-9fb1-42a0-b80e-d203d6d79766', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01d189d3-4965-4a78-9ed1-d9eac6cab4ec', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c44e1561-2a8d-4e22-a2af-6b09c787b183', '10e99afd-0c4d-4a57-8087-8b0d4601fd20', '3e2652e1-cb99-4f61-b473-75affbac1b98', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'abcf92c5-8704-455e-9bba-5402a94a8891', '90edd605-b0ad-4d82-a393-7eba48b9729e', '32369757-6e44-4941-b432-c7267787659a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35fca0b8-0aae-4da5-98ea-f69760c71c6a', '90edd605-b0ad-4d82-a393-7eba48b9729e', '40c3697d-5e90-492d-b4bf-9a4812aaca73', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '396edc9e-a941-407c-8a92-1ff15e5b94fd', '90edd605-b0ad-4d82-a393-7eba48b9729e', '15c770ed-5ff8-4ee3-aec1-4d13f2f9b7c2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'edc86fe8-060a-4406-a140-a5287d7f9f51', '90edd605-b0ad-4d82-a393-7eba48b9729e', 'da44cf77-b20d-42cf-9831-aba6fa511087', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf4ddb59-d09c-4ed2-aa5e-9b5de6334765', '90edd605-b0ad-4d82-a393-7eba48b9729e', 'df4502f5-1e6d-4fcd-8653-3a5eb81d732e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17c91b5e-1469-410a-a57d-0c53b900bdee', '90edd605-b0ad-4d82-a393-7eba48b9729e', '96511d61-50cc-4d9e-be24-c9e20c1e50ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b80a48c-432f-4865-8029-d38c77c2eed8', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4bb1091d-e2ff-42dd-9d2c-7984332a3653', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', '5e204116-1ede-49e6-9bcd-e8913913dfa7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad24e1dc-be8d-4cdc-9186-2fe1b87fbec2', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', 'd005a8a9-0e11-435b-aeca-957bdac19869', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d282d06-80ff-432b-8120-18ff57b1a75c', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', '975ac04a-aac9-4afb-9794-ddba445b7db5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9cbb7003-2857-4bd5-aecc-038ad92aee4e', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', 'cd082850-c5ed-4baa-8702-67d6466400ee', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd96896cc-7eb8-4b53-b0eb-e2f891f014d5', 'a3b503fe-64f9-40a9-ba0d-40016a0062b9', 'e3449efc-60e9-402c-8e49-c002c023952d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7661481b-a998-4245-891b-6ba0f3a4cd17', '727970fc-d1ba-4209-a4c0-e7734874b2c8', 'fddf3bfd-3c3c-4a3b-a1e7-5b340e48c198', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dd6f2c5c-904a-4478-861c-e45ad250f15e', '4ef1e092-3b72-4542-b58e-f27059930fd4', '914ca3de-e0ff-4966-8aee-285650505d69', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aca17f2f-5392-4d44-87e5-0e9bc1d50257', '4ef1e092-3b72-4542-b58e-f27059930fd4', '758dd499-afba-4f81-8424-a7bfb3679a9f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b56011de-1a39-4580-becb-7b18be0b8fd1', '4ef1e092-3b72-4542-b58e-f27059930fd4', 'feb489b1-5d57-41cc-a636-cd2fadb3a906', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '253f2006-6702-452c-80cc-50657c316fe3', '4ef1e092-3b72-4542-b58e-f27059930fd4', '2eafb172-4259-4db6-b040-149d2dd78659', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '257f343d-24d2-42b4-bfaf-c1eb2121f089', '4ef1e092-3b72-4542-b58e-f27059930fd4', '6a19772a-c6e9-4d34-9190-2d109b8d7ba5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b9a9a2be-d13f-400c-8983-035491884478', '4ef1e092-3b72-4542-b58e-f27059930fd4', '02a8b0d2-92aa-433f-b035-0ae6e53ba50e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '650da99f-0a74-4fcb-ba71-166e3d36b3f1', '5360810b-7842-4648-990d-02c6864bdcde', '914ca3de-e0ff-4966-8aee-285650505d69', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0af8d9c6-2f80-44f5-b5e4-620eb176076d', '5360810b-7842-4648-990d-02c6864bdcde', 'a0b391a3-b775-4ade-a403-621d0bc3b1b6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3c687a10-d590-4ee0-b71f-e3fd8d8bd0c4', '5360810b-7842-4648-990d-02c6864bdcde', 'f81c1435-6d11-443f-aafd-59d5c772482e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb904fd1-7195-47bf-a065-f7507379ad8d', '5360810b-7842-4648-990d-02c6864bdcde', 'e2fb46de-bb34-4797-ab3a-1ea5d3c3429f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '09578e79-f843-4e30-8ff3-8eb08a9eb188', '5360810b-7842-4648-990d-02c6864bdcde', '282d469d-bf99-4b3d-9529-956eb5389d07', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd23b1eaf-f635-4da6-9245-1f6e1b49c9dd', '5360810b-7842-4648-990d-02c6864bdcde', '5d11abe5-9026-49e0-8b77-f73a2a6a5cdc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '09053ac3-7704-41dc-9a49-fe78038f5540', '0b04b2fd-af4c-4745-8fd5-d33849adc0fb', '0bbd9eff-498a-44e3-8b84-0a5c001e7755', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6513d53-baa9-4355-b1f0-866beb37418c', '0b04b2fd-af4c-4745-8fd5-d33849adc0fb', 'b5917921-7c21-4360-8afe-d1b9d9a935ed', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '48826bec-110e-4fd8-840e-5e584afa2986', '0b04b2fd-af4c-4745-8fd5-d33849adc0fb', 'e9b7f8c8-481f-4698-80ab-a858c85f252d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7abe607-efec-4d2f-a1b8-c87aae3303fc', '0b04b2fd-af4c-4745-8fd5-d33849adc0fb', '7f1da50f-4992-40df-ace1-2e5cf115cb59', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '759cb445-8f5c-4712-9e4b-1207d09b71a5', '408b0d61-869a-42ab-8b75-cffbfe8f4823', 'e11f98df-ae04-4008-9541-342211c97cc9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ebf661f-6124-4411-8957-e04f362ec570', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', 'd857384a-db9d-4867-b5c5-5dc6c1cd09af', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '40958b5c-1f42-4bf7-926b-6f982a79bbe3', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', 'fb372a2a-594b-4815-afb1-edb36dc77da3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '647d601d-02d5-4ddd-b63b-6917b2426ea8', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', 'b0be56fb-ee74-45b2-8ef5-28188b7e61f8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '154dc8a0-8ccc-4f63-a689-676c0df4c2a4', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', '609ab455-ec7f-4155-9b06-1b44ed909cdc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '112ac097-787a-482d-8621-5ac62e26b14b', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', '4accff2d-d435-42f8-9335-46faa3d6975a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '09f859cd-5e55-497f-a91e-9b30dc5cf129', '1ae74ccf-180f-4401-a42a-0d99c94d69d2', '7ffc3774-aa08-41d5-a6e1-cca31cb40330', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '004db7ce-1a01-4219-814e-162d82d6fdb9', '8dee82f0-3d14-475d-b10f-ad4c29693852', 'dec84ed8-a608-4358-8409-f18b88e3b97a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '603470e0-50a4-4d1d-b986-7c321ec01d9a', '8dee82f0-3d14-475d-b10f-ad4c29693852', 'c2dea58b-7faa-4a58-9f18-15acbc0f360b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ed9c6b5b-874a-4836-b1f5-42db1af8c465', '8dee82f0-3d14-475d-b10f-ad4c29693852', 'da44cf77-b20d-42cf-9831-aba6fa511087', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8229861a-ce61-46ee-94f6-5147b111c693', '8dee82f0-3d14-475d-b10f-ad4c29693852', 'c0b85182-1c32-4b3d-85f6-954e482ae060', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84ee23d2-a660-4dc9-928d-9f733035dab6', 'b1dade10-4ad7-44b0-b18d-9c539a32e8a7', 'b15c828e-97ac-420d-a5bb-885ffbbccbd6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51eb9a61-ea0d-4f1d-8d7a-4a58b4760fa9', 'b1dade10-4ad7-44b0-b18d-9c539a32e8a7', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '20cd7d70-2e47-473f-9ec1-f30836f3314d', 'b1dade10-4ad7-44b0-b18d-9c539a32e8a7', '2dd9b904-e82c-4744-b259-61eb1a4c5dd7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0db381b4-f36d-440d-a5d1-7b7d15b66744', '062ad291-abca-4900-a0e9-b84c6dc5bea6', '20679dc4-527c-4143-bb60-7451bebe9c5c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '863847e1-4d43-46d6-8d66-f7b406cd4307', '062ad291-abca-4900-a0e9-b84c6dc5bea6', '4375fe02-a93b-4b98-a140-e1b1382be199', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f212427c-018d-447e-9de7-a3945c7d7350', '062ad291-abca-4900-a0e9-b84c6dc5bea6', '58c559f7-245c-43b2-baea-c2d6868cf57e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4fd63700-c704-4e19-8734-dbed7bef8049', '062ad291-abca-4900-a0e9-b84c6dc5bea6', '9dfefd94-7a13-431b-9e8f-d55b21eafa3a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2fe638b5-ccbd-438a-9a57-3a6ac2c711b4', '062ad291-abca-4900-a0e9-b84c6dc5bea6', 'df4502f5-1e6d-4fcd-8653-3a5eb81d732e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a2f9afef-d7d6-4554-8420-261952db0ab6', '062ad291-abca-4900-a0e9-b84c6dc5bea6', 'ccfbbcf7-3b2c-446b-8b53-b89ac8f12605', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28ddcde3-3c94-455f-b16b-93a0bdc80b66', '125c3e2e-7d70-455d-b9e6-cd1caabb5d2e', '08b20754-77a5-4812-8421-c680535ca880', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0dcb6c11-141d-40b7-8934-2a35b7de9726', '125c3e2e-7d70-455d-b9e6-cd1caabb5d2e', 'e2351b31-b16c-48c3-90f4-fa947aca228e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3644807-1e4e-41eb-b495-8cb6e9b33ada', '125c3e2e-7d70-455d-b9e6-cd1caabb5d2e', '6a63746f-79a6-487e-99d6-4da3fa36843b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a1d5c069-810c-4d6f-9b09-d9b50979513b', '125c3e2e-7d70-455d-b9e6-cd1caabb5d2e', '910670d8-ec78-4438-a823-65c8ff57b297', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c151cf38-d9e8-4327-ad68-4ed2f68dea4a', '1bce0c54-aa49-4161-b890-9fd65d9a3c7e', '6e758030-3f43-4325-9175-8928fc54edb6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '18ad5fb7-800b-4f64-9874-97a73c7d4662', '1bce0c54-aa49-4161-b890-9fd65d9a3c7e', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2bb4d82c-7024-4769-86eb-321573272dbf', '1bce0c54-aa49-4161-b890-9fd65d9a3c7e', '1dede9b0-46a7-4162-9023-361a91571096', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3d7c4a5-0c94-439a-b893-acd0ae3a1ca6', '1bce0c54-aa49-4161-b890-9fd65d9a3c7e', '92c00d61-11f4-4b9c-a68c-bf31b49f58c3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '00fba2e6-7f3e-425f-b76e-2784f0bccfd3', '90c40f1b-ba7c-41db-b22e-2712e8332abb', '1018f285-309c-4f5b-ba84-b4c6854d2da4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e879e80a-c915-4c5f-a0f2-285abdd46970', 'fc01617c-df17-4297-8616-59ae723f64cf', 'd6f94d6c-7c35-448c-b7fd-3b6437bcbb6f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aec66e38-c10d-4ae6-b3ee-d2871cde7041', 'fc01617c-df17-4297-8616-59ae723f64cf', '3dd65778-543c-4c82-8044-a78918bac64e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '79b00f74-49e0-42fa-98d6-a033e6e37f7f', 'fc01617c-df17-4297-8616-59ae723f64cf', '59790de3-e38a-4db4-a078-2d15e4afb0c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0fd7ed0d-22d1-4bca-a72d-465e0224e13d', 'fc01617c-df17-4297-8616-59ae723f64cf', '38d10a6f-8450-43fd-9fa1-66c1a38c0428', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '67fe2369-f4d5-4fcc-a480-6aeaf7ec4871', 'fc01617c-df17-4297-8616-59ae723f64cf', '03af08d7-57bb-4854-9a8b-8d917015a162', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a9d22a6-ab95-4fe4-a484-414a3f1bc978', 'da416824-c07c-45c8-89cd-588f23b5d968', 'f3246397-36fc-49e1-9a4c-3e5c24cb5a76', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ae2786e5-5650-47cf-b0cd-b2a5e8a3f84d', 'da416824-c07c-45c8-89cd-588f23b5d968', 'fd5d4d8a-1873-43c1-8ef7-f8a8b0222502', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eba3e673-0705-40cb-892c-f8890d1630d8', 'da416824-c07c-45c8-89cd-588f23b5d968', '1586840f-db27-4ae0-b2c1-d94b89509643', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98124acd-f72f-4af1-9b49-aef5fd69398b', 'da416824-c07c-45c8-89cd-588f23b5d968', 'd2cda3ea-ea03-4093-a605-3117d10854e5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aad93903-7a1f-4e2f-a984-b8bf7a659452', 'da416824-c07c-45c8-89cd-588f23b5d968', '29d31cd9-510b-4ec1-8cec-ecd5ad0bbb4c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7a4aa4b-1ae0-4311-b789-2054829b0dde', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', '6f357604-106c-4750-89a4-ad4fda43c877', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cf226e78-b699-46a5-9878-4aaeef8ec8d8', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', '56e1daab-2060-4628-8862-f4c3e620399c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f36058db-359e-4c3e-afb4-9eac654c7ba7', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', '21257f12-fb35-4b8d-9e01-7d359b546a0c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b9857daf-b041-4170-afe8-246425c5413e', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', 'f8cbccfd-db71-4bdf-9968-cb58ea6a7e0d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01745232-6179-4b89-820b-55502b0ce03a', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', '657e95be-2b81-4022-8f76-556fbb5adef0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0e51007-ffab-4474-8786-40e1ef064944', 'b747aa1a-e3e7-46ec-990f-da57bfc4e1f2', 'e9905164-d389-4d88-ba70-e28cf7d5514c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33fc8f4f-d137-47cd-a58e-d4cb6eb8d322', '2a529f5a-02d7-4051-b9df-d68e76da2c04', 'e05ab1bc-9f32-4c40-8278-cfc14e39ad39', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'de15cd5f-c176-4607-9e0c-66922627b403', '69ccfb34-f3b0-431f-839e-6477fcb44510', '004e163e-5b7b-486e-8368-53fe4110c44d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cfb062b-6101-44de-b93b-c88c5acaf11d', '69ccfb34-f3b0-431f-839e-6477fcb44510', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7a8ebfe3-5028-4a7b-b716-bdde5684af8a', '722ed5d6-dee0-448b-b54a-308daf5b6b36', 'd2cda3ea-ea03-4093-a605-3117d10854e5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bf22a00b-d890-486a-8265-dd3f0084056b', '722ed5d6-dee0-448b-b54a-308daf5b6b36', 'd97089ef-5da5-4f8d-8bed-bd500184201f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c842a0dd-a934-4504-8125-9ec4f1bfb544', '722ed5d6-dee0-448b-b54a-308daf5b6b36', '29dd8c23-4d60-482d-9388-212c6281b71c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2b31c754-8773-444f-b67e-c5e615e3a6ef', '6a983869-8bce-4d52-a7e5-fcfb20b723f7', 'db42a19e-b9b0-47be-81c1-511625e68246', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49d3ad06-1824-4f76-a421-58f0d862917f', '6a983869-8bce-4d52-a7e5-fcfb20b723f7', 'ab2aa11c-52ba-425a-b46e-6041f008ff96', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1f7ef1b-2aeb-458a-9e16-2a1e78c4fbcb', '6a983869-8bce-4d52-a7e5-fcfb20b723f7', '942c496c-84dc-4732-a4d9-e97f54f8a051', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b701840-2fc1-4714-b80f-fa0dfe694e55', 'c9f71e77-7dc3-4c9c-babd-a8246eb1111f', 'ac41d7ff-128b-440a-9f16-0b5d15ba822f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3740f2c3-ab66-4dac-9240-9a6e1c7db5e7', '4081454a-4ccb-44ff-8f42-63f492cc53dc', '46c7a13f-578f-4387-a603-e571096bfc41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bd91c062-3793-481f-8c04-02e5fbc7d2ae', '4081454a-4ccb-44ff-8f42-63f492cc53dc', 'b4378b5d-8d57-4347-a838-af81377a3c91', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa8e3af2-16c0-4b4f-8948-561d58d5a1a7', 'd4352aef-29e0-44f4-b100-6dc817825c3a', '13c05956-b96e-4cc0-b680-3869834d47a9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '20bde83a-fafe-4d9a-b6ab-0d2d96eab2d6', '2a3e11d0-2c18-4d69-9697-0fa4b84808bc', '1de17f62-9a17-45d7-92f7-2f056fb1b541', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0dade6e8-1450-4263-8b6f-6a79b1e188fe', '2a3e11d0-2c18-4d69-9697-0fa4b84808bc', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a6e239d-74b8-4834-b4b7-d2c479d60d29', '2a3e11d0-2c18-4d69-9697-0fa4b84808bc', '45a1ca74-a9f7-4f1d-ae98-625128fbb2b4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f9d7bb2-b655-4973-8c31-6674ae09d2de', '2a3e11d0-2c18-4d69-9697-0fa4b84808bc', '11548b2e-3164-41d6-b7c0-652f6ebbb3fb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07134fb2-3a56-4021-9fd0-3724a1d65e2c', 'e0452be4-6a7a-4c33-88f2-beb70f3b6ef9', '7c21a872-114c-4641-9bbc-b1ff02af6279', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70474df0-17f6-4768-854a-9788d1ddf4df', 'e0452be4-6a7a-4c33-88f2-beb70f3b6ef9', '2b1b12cb-fa6e-4db0-9c73-f49370305b49', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a81e21a8-e1f1-482c-a33b-64c122300670', '395afdba-30b5-46cf-895c-e7fcd35e6266', 'ece14142-95f2-46b7-98d3-fa8c2d057353', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4bf42ba7-27ae-4de3-b82d-bcb1e6af43ff', '395afdba-30b5-46cf-895c-e7fcd35e6266', 'abd69b2d-c6b1-4fd4-8b72-b47fc13081ce', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ec64490-b794-4237-bce1-e59ca96e7ed4', '98269c66-9174-4eee-b881-9aea17c1d904', 'ece14142-95f2-46b7-98d3-fa8c2d057353', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '58d390de-a0f0-4668-9a1f-f3db4e03180e', '98269c66-9174-4eee-b881-9aea17c1d904', 'e1f0df74-2db0-496b-8765-d23e7e61856c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '04a49e5e-79e6-407b-821f-b365761ec268', '98269c66-9174-4eee-b881-9aea17c1d904', '40c3697d-5e90-492d-b4bf-9a4812aaca73', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe9bd3f7-05de-441b-91ef-7d5bcf48b7a7', '98269c66-9174-4eee-b881-9aea17c1d904', 'f175b120-b0cb-4590-82e1-b9e95560f717', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17c4445e-1a83-474d-b3a1-cc9d6989060b', '98269c66-9174-4eee-b881-9aea17c1d904', '80193932-5d46-4131-ba46-39d94cfbbe95', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af984fd2-ff75-4f2e-9a03-56f7f4e768c0', '98269c66-9174-4eee-b881-9aea17c1d904', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a8475d53-bf3a-4d79-be90-c120af71be37', '4c66c29e-2e89-44dd-9174-58bf2abd137b', '591d792b-0b5c-464c-bb84-b22c44d96b5d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c0e486b5-fc5c-4096-9bbe-0a668e40c86c', '4c66c29e-2e89-44dd-9174-58bf2abd137b', '47a8066f-2587-4894-8c8e-ea833bf822f5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e44b1e2-4ec3-42b1-962d-e7e4921e5b54', '4c66c29e-2e89-44dd-9174-58bf2abd137b', '16c6e541-9047-4c48-811f-c1128a729d71', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '245fb0f7-d503-435d-8631-449bb2f756e4', '67b526fd-58a5-4e97-9cd7-3a646be4b971', 'cec27df6-d1f6-481a-be3f-805dcb36d013', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '659e7c06-5099-4624-8706-afcdd9760ae6', '67b526fd-58a5-4e97-9cd7-3a646be4b971', 'd0191083-64d2-4f70-9ea3-ba531b682285', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1741a33-86c4-48f2-9a04-46e77c6779c3', 'fb108695-750a-433a-9642-7075933b0f1e', 'b4c46d99-7732-4655-8680-4e5db00d1b42', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0e642d36-eb2a-45e9-9fab-5c94b03f546d', 'fb108695-750a-433a-9642-7075933b0f1e', 'fa0ec28f-269b-4968-818d-0b24b4ec4738', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '02a6bf2b-2c8a-4bb9-9fd7-dd83637f40ee', 'fb108695-750a-433a-9642-7075933b0f1e', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5804946a-8cb0-40a7-9ea6-bab38727a999', 'fb108695-750a-433a-9642-7075933b0f1e', '1bcf439e-b03b-4a87-97c1-ca0150d2f07c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '305885f1-d59c-4b01-9a98-6df13278c6d9', 'fb108695-750a-433a-9642-7075933b0f1e', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '222196d9-9813-4732-a3ba-ac7b0e66044e', '30b3c7bb-5e88-4e40-88ff-e5c4d2969568', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fda5e8c-d59b-496a-9329-ac7c73f4e474', '30b3c7bb-5e88-4e40-88ff-e5c4d2969568', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b5fb5845-1180-4575-9496-976a6aec6e58', '30b3c7bb-5e88-4e40-88ff-e5c4d2969568', '46c7a13f-578f-4387-a603-e571096bfc41', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '213b08a9-71d6-419b-8d8a-74722ad1d6fb', '30b3c7bb-5e88-4e40-88ff-e5c4d2969568', '3944b4d5-988d-42b0-9660-ea1d2013045e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4c378781-a91d-499f-b1dd-60e8f504d6a2', 'aa4e5664-7ff2-4a04-96ed-1bc20f364b00', '9584a34e-66de-4799-9d49-caa57bda627d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb11ccd5-f064-49c8-8103-c89ea36c7d96', 'a12eef61-77ce-434c-9a80-8f2c7b7c5291', '8d985cb7-1d42-48b5-b238-6e843f9089fe', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df71827f-57ab-4651-adba-3ec3949bb240', '5502a265-c43b-456f-a20b-c26f68e648f1', '6c76f6e5-1aea-4b4d-9917-92ac0fdc1ebc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd400a3bd-18e9-45b7-b6ff-f65a2824e457', '5502a265-c43b-456f-a20b-c26f68e648f1', 'ece14142-95f2-46b7-98d3-fa8c2d057353', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '054742bd-f701-4e8f-9967-3329c9bb949d', '5502a265-c43b-456f-a20b-c26f68e648f1', 'b9d12bb9-40d6-4d6f-91f3-8bd49156c99b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f0887358-b3c4-453a-9085-b4424cc76a87', '5502a265-c43b-456f-a20b-c26f68e648f1', 'bfbb30ea-d21b-400f-920e-538b7256a116', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fee22f78-4fb6-4c63-9550-d5c5b821948b', '5502a265-c43b-456f-a20b-c26f68e648f1', '9fb2ce77-018f-4c71-a554-b31a373f1963', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c800ae1f-5db1-4d9f-a1fd-c5316e8575da', '67c29601-7cad-4200-9c4d-79ae49535396', 'a30e0288-2e37-43fd-abec-248899a86cbf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '726f6ae6-0cbd-4381-9268-a6f9fb374ecd', '67c29601-7cad-4200-9c4d-79ae49535396', 'b12607c3-5063-4fe4-a795-490614c0164d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5fc5a88-cbc7-4d58-929b-ccac804e38d0', '67c29601-7cad-4200-9c4d-79ae49535396', 'd2cd2b37-3296-4997-a3fc-11c36d4da52d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2c04098-5b07-4acd-b699-6913ebf6e2f6', '67c29601-7cad-4200-9c4d-79ae49535396', '797e1ff7-b6b1-40ae-8715-074e12daa67d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '755e6eac-70c2-4a6c-a66b-7e877b16faf4', '67c29601-7cad-4200-9c4d-79ae49535396', '830c4859-9968-4816-870e-f7f50dc88224', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7d1f998e-4658-4638-b224-f08912a5b180', '67c29601-7cad-4200-9c4d-79ae49535396', '6f357604-106c-4750-89a4-ad4fda43c877', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bb80cfec-ca08-4c43-8e5c-fdf913f39d19', 'bc90c93a-96c2-44de-9cb3-bbaea5fdfd4e', 'ebc64562-238a-48bc-9198-b6eec8508242', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72ff7aa4-f7de-4b68-a62a-806afdc07b79', 'bc90c93a-96c2-44de-9cb3-bbaea5fdfd4e', '0782258a-f377-488e-ac37-db9d626573b3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '987112ee-4ed7-47d5-a56b-98faf2dbfe5f', 'bc90c93a-96c2-44de-9cb3-bbaea5fdfd4e', '495aa5df-9ab8-47ef-b75f-e7879cb8042f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e5e6b71b-1fe2-4377-b6ea-e69822e5832e', '956ee1c7-ebd2-4046-8e24-def91231d483', 'e11f98df-ae04-4008-9541-342211c97cc9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2708095d-668b-491f-ae13-85c01a335441', '956ee1c7-ebd2-4046-8e24-def91231d483', '29d31cd9-510b-4ec1-8cec-ecd5ad0bbb4c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f382ac7-4e95-4d69-88c1-c2cceba45ce9', '956ee1c7-ebd2-4046-8e24-def91231d483', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'badbb61a-3cc2-4482-b688-77e540394f3a', '87660c9f-426c-4594-a486-5bf4b59c57ba', 'df4502f5-1e6d-4fcd-8653-3a5eb81d732e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '389f047b-5dfa-409f-b595-72cf71570474', '87660c9f-426c-4594-a486-5bf4b59c57ba', 'ab39aa88-3735-4ac3-9cfe-b2e2a432e509', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '889a4016-a0d9-487f-8999-555d8d1ab714', '4ecf19b3-f908-4b43-b932-39759e5cf667', '533f5b43-f370-466f-884c-a6bdb54706f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd5873c80-338a-4052-b4e4-666015a61c58', '4ecf19b3-f908-4b43-b932-39759e5cf667', '94034811-e0de-40ca-a369-79fe86c36e99', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0efdfd33-735f-4a0c-813d-a40176d8c2cb', 'bf029306-4505-4ee0-a546-e2d22d8348de', '920e3105-02ec-4f77-b4d3-75a7c549fa5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '79be0de9-9f01-4efe-b33f-e1dc3b3b724f', 'e7bfce00-4020-4172-8bd2-820a40082236', '56b4129a-3ff4-480c-8dfc-1c3a1c4701f5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06949092-a67f-447f-a566-2e17805704ac', '9410c843-d767-4422-baba-0b6addd8221a', '14706e51-73ce-45d9-9a8d-e81a993712d5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b581eee0-7b32-4da4-bfd1-0014794d1569', '9410c843-d767-4422-baba-0b6addd8221a', '3f55507b-7916-4254-9fef-65767ad04c2f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4969aa3-628c-4ba5-9835-ee9d27094fc0', '76b75483-71cf-4519-84d6-0a8c0e6bbcae', 'f58201b7-910a-432f-bde2-a4d23e683a7a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eee9e2fd-a5d6-4f96-aa36-2092b289600c', '76b75483-71cf-4519-84d6-0a8c0e6bbcae', '4d10ca2c-449e-4de2-803b-e9e982e029e3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55abebe9-a411-40cd-b502-a25f7f4a9309', 'c90cd069-49a0-4d4b-95ad-a68575e76093', '859bfada-a0f7-4910-94db-49add95dece8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '83852552-3066-4d24-99b0-0f39c9dc1437', 'c90cd069-49a0-4d4b-95ad-a68575e76093', '3dd65778-543c-4c82-8044-a78918bac64e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9998557-bc08-47af-901c-37cded50f0ef', 'c90cd069-49a0-4d4b-95ad-a68575e76093', 'a82ba056-d100-41d7-9df5-342d7a87e7e3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '953954bb-cdb5-41aa-8c73-36ae77f7c5db', 'c90cd069-49a0-4d4b-95ad-a68575e76093', 'e1e63d17-aa8f-4eca-884f-94af4f81e269', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0edba8f5-e43d-4977-8143-3f7b2686b2dd', 'c90cd069-49a0-4d4b-95ad-a68575e76093', 'be9c626f-1c18-4e30-8a66-74fa110b8515', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '808356f2-67a5-40c4-88f7-5941a6bc3042', 'da535b1a-307d-4d47-824a-b097fe5a2dae', 'd6e040fd-e233-4792-be5b-e824ce9abb62', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1d24c5b-4b3d-41a8-8905-8d83af1b2f80', 'da535b1a-307d-4d47-824a-b097fe5a2dae', '19bc4f58-b2ab-4d73-a744-bfa636dc7b08', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'acf9dad9-38d5-4b78-bf9d-e3568d27e88a', 'da535b1a-307d-4d47-824a-b097fe5a2dae', '753b2de5-e2ba-4a1d-ac94-a3290dde0d17', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6bc126a9-eef6-4c6d-87fd-48265b2afa07', 'da535b1a-307d-4d47-824a-b097fe5a2dae', '8a42de0b-3471-49eb-b87e-5dd31f8b2269', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '38312825-2b5b-4cce-b9f3-00efcf118fc1', 'da535b1a-307d-4d47-824a-b097fe5a2dae', '53382a1a-0b8c-412f-9e3b-9cf3ccf1adc0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bfda8d5f-e80a-4864-af5e-ebe42ccad6fb', 'da535b1a-307d-4d47-824a-b097fe5a2dae', 'f893a4ab-7dc7-4356-a15d-cbf5aaf0021b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8ba62987-17da-48e0-8bf8-ea2acd9719f6', 'da11061c-6cb2-4c05-9aff-8e6065161461', '47bd0fd2-5d8e-4da7-bc17-fb7471dd44e2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '348537a8-d584-4ba7-bcb4-abf2d28ce2c0', 'da11061c-6cb2-4c05-9aff-8e6065161461', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '177adf4c-4a14-4075-8a59-44d1126200e7', 'da11061c-6cb2-4c05-9aff-8e6065161461', '5b0e60af-a249-40cc-b7a1-1e552b535545', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d6c148f-d80c-41ee-b174-ac3b58b9dae1', '99910d21-a318-46af-a078-812508fd4190', '2eaeee85-6a82-412c-a97f-4fb14bb058fa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f8302be7-d5a8-4e94-89c8-1d491e9bc7f2', '99910d21-a318-46af-a078-812508fd4190', '1586840f-db27-4ae0-b2c1-d94b89509643', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6342705-386d-4564-9719-b288e1ad308a', '99910d21-a318-46af-a078-812508fd4190', '451fb46a-d1bc-4262-bd08-bdda1a23d659', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3f31510d-f313-440b-9a63-64f7d9be7035', '99910d21-a318-46af-a078-812508fd4190', '913e1f18-2480-4178-9d7a-7bfe7e2933eb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad4d223d-ce45-41f9-8401-679eaa984715', '99910d21-a318-46af-a078-812508fd4190', '335aa242-73ab-4bb0-94e9-ee52829848c4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8305f248-1764-411e-b392-e0e775658d9a', '99910d21-a318-46af-a078-812508fd4190', 'd55af6bf-30da-4d0d-a736-316948bf541f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3fb1f05f-5d1c-46a0-9aba-6585ce6de2fe', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', '8ae5c6cb-9c56-4af6-890e-e291d7ec5436', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '89787342-b545-47f6-8768-d87784a7ff8a', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', 'a5a94225-29d6-4f57-ab7a-a3d3b758476b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd549e5a0-e090-4066-be54-3d1459f0067c', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', '47bd0fd2-5d8e-4da7-bc17-fb7471dd44e2', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91ac115e-b0fd-4d96-9818-354da7151740', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', '6c76f6e5-1aea-4b4d-9917-92ac0fdc1ebc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88e88920-029e-479a-b0ff-673295ac7959', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', '2687ae0d-b874-41db-936a-62101e27e74c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7a0e78b-fd1f-46f6-b241-87d0e066cfb3', '9db9dbbc-c189-46dc-90c6-d87a0624a31f', '5acb88e9-ee98-47cf-8ef0-4243afc4c617', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f11eea86-99aa-44e9-a208-94b579d66a5c', 'c2d52ec5-8f42-4b1d-b207-d08e18e01097', '76a9714f-7a32-4384-968d-9f478b31aa73', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3e03a261-0e36-42c8-b721-4c778421e212', 'c2d52ec5-8f42-4b1d-b207-d08e18e01097', 'cb954a9d-e485-4fc8-910d-7505d53b28d1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '018f793e-d4b1-40cf-86d1-178ec1ff4e06', 'c2d52ec5-8f42-4b1d-b207-d08e18e01097', 'e9b7f8c8-481f-4698-80ab-a858c85f252d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '126fc867-449d-4941-a236-533536d7f19a', 'bb0d6bc5-dc5a-4ca4-96dd-bf75d5d59d3e', 'a60fd2a2-2621-492b-98d7-281cf63190bd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c2440b42-81d0-4712-8190-6c3ddea78b7f', 'bb0d6bc5-dc5a-4ca4-96dd-bf75d5d59d3e', 'fddf3bfd-3c3c-4a3b-a1e7-5b340e48c198', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '831ac219-453a-4d55-9650-1e9a3eb427a2', 'bb0d6bc5-dc5a-4ca4-96dd-bf75d5d59d3e', '1568c6f9-a8bb-464f-8d6a-17851ee7022a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b1afcd2-34c6-4f30-a823-953839466c37', 'bb0d6bc5-dc5a-4ca4-96dd-bf75d5d59d3e', 'c1cb9783-74c2-4cc1-974b-f5b3c7e02fbd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6af474db-25e2-4ce4-bb3d-e18ef0698aea', '7188e458-f886-4c1c-8c34-eec48829036c', 'aea68a5a-38cd-403d-984c-44e05ebf1b48', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7d4b6a9b-8ad6-4e1d-a751-9d4f5d81017b', '78b9cff1-d58a-42a0-9030-3890c19cd6a5', 'e1bc0590-9aed-47d8-956f-27b86fbd88ae', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eef23b10-e2e0-4f9c-a7c2-4eda9e4bc2c5', '78b9cff1-d58a-42a0-9030-3890c19cd6a5', '1586840f-db27-4ae0-b2c1-d94b89509643', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f87f3bde-4473-40f3-9e72-2fcc361dcf24', '78b9cff1-d58a-42a0-9030-3890c19cd6a5', 'a952c7bb-d160-4b3e-a901-03af3ee5efa7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bfd7c59a-ed14-4d29-aaf1-795caa5137a1', '30d1eb6d-ab40-4a41-b122-3e170c0c95fa', '880f623f-bf0d-4a16-b8b0-4b2e0d1bc197', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e7ff0709-71fe-47e3-95b3-0a5ac91b011d', '30d1eb6d-ab40-4a41-b122-3e170c0c95fa', '5f11a5ee-0e64-44e1-bbb5-33562f7b5ec5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ccccdb7b-0c79-4d76-99c3-b38b50320d6f', '30d1eb6d-ab40-4a41-b122-3e170c0c95fa', '1ad32f84-294f-49c3-b1b5-8e22727d30cc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ef886367-2219-47dc-96d8-bed4482ef53c', 'd111b560-e22b-4945-aed8-b87489b04ece', '1065f0d8-bff3-41cf-8cb9-4fb6077a96de', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6b48a6a-206b-40c6-b78b-9905c3d35625', '0a3496b3-0e64-4ec3-8972-70f434df076b', 'afac821b-021a-4ded-b552-ab52d18f3777', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '42d9e7e7-ab7d-4168-970e-9738e6b17e07', '0a3496b3-0e64-4ec3-8972-70f434df076b', 'a30b8920-b3c8-470c-aaf4-9a1cfd931f40', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eeb351ce-2538-47f5-9b2c-509aa7fdbac7', '0a3496b3-0e64-4ec3-8972-70f434df076b', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f8f2f60e-cd14-43a2-b641-63c7f2122524', '0a3496b3-0e64-4ec3-8972-70f434df076b', '567f8382-4d1a-4777-b1bc-cd24c842eac2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7ba028b2-b848-412d-81cd-fd36d450e378', '0a3496b3-0e64-4ec3-8972-70f434df076b', 'd7ea6948-a1bd-42ef-8423-844b5f686462', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '19e570d5-b59d-4046-bcab-10d3fc73a8d4', '0a3496b3-0e64-4ec3-8972-70f434df076b', '366b704c-4f36-418d-bb5e-4fb58fe76528', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e1cea4c4-c2ee-46bd-adbe-f2ed6ad3fa55', 'da53d3f7-5d58-4473-9b46-23c2740632aa', '35466ad9-8105-42b8-840e-2e6fcb6b4d44', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6eaf1cb8-ce70-4f80-91f6-969cc55d8aa0', 'da53d3f7-5d58-4473-9b46-23c2740632aa', 'b6b8c240-f28e-483e-bba9-7325398384cd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '468152c9-2c40-4b93-9304-972e7756f122', 'da53d3f7-5d58-4473-9b46-23c2740632aa', '33220ed2-f3fc-4ad4-8c3a-58452d7ae64b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1269d43-8041-47b6-aeb4-ddae8548b5bd', 'd0c4c5e3-0b46-4c51-b973-34f569f447cb', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a8b21704-1d19-4687-8f22-9ccae6dad73f', 'd0c4c5e3-0b46-4c51-b973-34f569f447cb', '49cff7d4-7f76-4bb9-92ba-82459ad8ff89', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49607138-5a25-46da-91d5-abb88bf46758', 'd0c4c5e3-0b46-4c51-b973-34f569f447cb', '33e7abbc-a6d6-4fd2-adde-d051e43862f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd3d8d21a-6abf-462e-90a0-882cf2ade657', 'cefb2719-1df7-40a9-8760-43fa9ebaf9e5', '55336b12-8a45-49e6-9ecf-080a7fca92de', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63dc263c-1811-4c26-9558-5a9944805088', '42ee3060-f884-48c0-9814-7e6d375795c9', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0a8865fb-16f7-4cb2-a762-179d1ee3e068', '42ee3060-f884-48c0-9814-7e6d375795c9', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad528849-7b44-4cae-a17f-aec1ed54e6e2', '42ee3060-f884-48c0-9814-7e6d375795c9', 'a3581c70-af94-418c-8789-bdc7f6f17c2c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cca82dc-e4b9-4165-bd1a-5ad0748491d2', '42ee3060-f884-48c0-9814-7e6d375795c9', '59489675-58b6-415c-8bbd-684f477d5305', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba1a5295-6a7e-447f-89d3-9f3d6c92e77d', '24009b5e-0b5e-42e8-8d82-7d2a10ab9014', 'd2c22c5c-57f3-48db-9005-9219a766292c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '135ec06f-a611-4fb9-b56a-19332a188ec8', 'c3a9989c-2abb-469a-a98d-ac3359abbaf7', '9ee8d647-1cf6-4945-8003-3a664e1a3ff9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '46a4d01a-8cfa-4318-9762-b4187cb47f35', '44ac9707-79d3-420f-86c9-3c32728cbd31', 'b7b4f2e8-5792-4443-a32e-7e21b98dd7d2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '36dfdd2e-9e47-4df9-89f1-dce76f4b83c8', '44ac9707-79d3-420f-86c9-3c32728cbd31', '38dd3c0e-bf88-4bd3-b3bd-ad103eb54024', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '209ca8c8-3824-4a01-b50a-1af5b9726d4d', '01ab476c-a426-4e4b-a47a-47cdd177a666', '2b1b12cb-fa6e-4db0-9c73-f49370305b49', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1248324a-4e9d-4014-a25d-f3da9b580ef9', '01ab476c-a426-4e4b-a47a-47cdd177a666', '99c36f58-bbd5-4b13-a38e-8b18ff6992a0', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '44b82393-95e4-4a8b-834c-a062db016883', '01ab476c-a426-4e4b-a47a-47cdd177a666', 'e41e762f-2b4b-48a0-8f44-2a77a1c2f2d9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63ff2d91-9d8d-4d7c-9195-afd42db4e483', '01ab476c-a426-4e4b-a47a-47cdd177a666', 'f3246397-36fc-49e1-9a4c-3e5c24cb5a76', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '18f1a6b8-3590-43df-9b58-598e8e9df402', 'e821dc11-572d-4e99-a92a-4f1a86df821e', '8a191997-cc1d-4162-a42c-da3a8d03326d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3dea9790-bdba-4086-bc87-53ecd065d715', 'e821dc11-572d-4e99-a92a-4f1a86df821e', 'bee8964e-69c5-4a27-b5b9-fb7d30b6b43f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aeb192ac-459f-4be3-a26b-721658e29333', '973fe212-860b-4622-961a-a684d0623d83', 'e41e762f-2b4b-48a0-8f44-2a77a1c2f2d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ba016b10-aee2-4d5c-b38d-df4bff38aba4', '3ff93908-648a-4e94-80a7-ab555f974636', '6e40a324-86af-4b6f-a713-ab0cc5998b51', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'db11ba10-d331-44aa-82bc-301778e79ca2', '3ff93908-648a-4e94-80a7-ab555f974636', 'd07cb4a4-39e6-4a6a-a0bf-90981517274e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1aa0045-86fc-4677-b2e1-df074a10fcd0', '3bb6e852-b8ea-4cf7-89f0-5a97a9b2c16a', '21651896-65b6-4ffd-a8b3-4aa3389d7de3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b0944f24-13f0-4d5c-a961-c3cbb0647ca8', '3bb6e852-b8ea-4cf7-89f0-5a97a9b2c16a', '8f042032-ab6e-4510-aa57-feedc3e64fe7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '950528db-5abd-41f1-a49f-dd62586862b3', '3bb6e852-b8ea-4cf7-89f0-5a97a9b2c16a', 'd9715fec-8106-4b10-aa87-54df24f321dd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '537f9198-3c9a-4137-9880-b3749cb5861d', '3bb6e852-b8ea-4cf7-89f0-5a97a9b2c16a', '1608b57f-4edf-42a9-b547-0f70195d22da', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3acc71ba-e8f7-4387-acbb-5a882822df9a', '3bb6e852-b8ea-4cf7-89f0-5a97a9b2c16a', 'f4408de8-4e2a-4a6b-9e4d-854a3e436402', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a571276-67ba-4f5c-b48c-b0e184a274b1', '668a3dd5-9403-4736-a01d-4b08a75c6079', '5239de49-30cc-4780-880d-61e7af84143c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '77a01997-d6e5-48c8-aec0-aa1ea9e92d5d', '668a3dd5-9403-4736-a01d-4b08a75c6079', '9ee8d647-1cf6-4945-8003-3a664e1a3ff9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '62c89477-1364-4c9b-bb94-40ebebbb988d', '668a3dd5-9403-4736-a01d-4b08a75c6079', 'f1c50e38-f6f6-425e-9ab0-3b38e1329c58', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa5d5c6f-0b14-49ab-95f7-7c9fc01a1b44', '668a3dd5-9403-4736-a01d-4b08a75c6079', 'acf3d814-42a9-4086-bd31-9e951df70ac7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1da0f536-fa4a-4dad-8bd0-5653a53bf058', '668a3dd5-9403-4736-a01d-4b08a75c6079', '19edde11-1a42-4777-8b04-f126ffe4559b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b8dd11b-aab0-45a6-a3c8-16a604eba8ab', '668a3dd5-9403-4736-a01d-4b08a75c6079', '758dd499-afba-4f81-8424-a7bfb3679a9f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '606a3519-cff2-4407-bff7-02438b449894', '09a0f432-f9e4-4a37-b465-3ff95ef04182', 'c0b85182-1c32-4b3d-85f6-954e482ae060', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4d55e79-5d82-4bbc-9ef3-312f2b738e08', '09a0f432-f9e4-4a37-b465-3ff95ef04182', '58722f5e-e835-4b2f-b769-25d649d8c979', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cffe035-230d-42ab-aeea-868807fefcea', '09a0f432-f9e4-4a37-b465-3ff95ef04182', 'e7c1e3a0-5a54-4029-a526-91b20e5c1f33', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cfe6cd26-5dc0-40df-a58d-3d79a25aff33', '09a0f432-f9e4-4a37-b465-3ff95ef04182', '4e520497-9e26-4c60-b9b0-606efd4746f5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '477dd8a3-f404-4fdd-9aad-dcde2e82008c', '09a0f432-f9e4-4a37-b465-3ff95ef04182', '2c8d50ba-2033-4780-a723-ae5d1b431513', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ff131a5e-a7f8-4818-a1df-3883be9bc2aa', '09a0f432-f9e4-4a37-b465-3ff95ef04182', '1958fcd5-f4d9-4a9d-9f52-4444917d0c32', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '69e8745c-b572-4fd9-be8c-7d96cb1a4fac', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', 'beb51a42-e3e3-4511-be44-faadf85db339', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cf65f87-6dd6-4737-a89d-d9034cf05ddc', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', 'bcee356d-c30f-4f98-9100-5adfacecda78', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a249efa4-dd63-4d94-9054-af835bd140f1', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', '59a11857-0804-4f14-a05a-1510efe4772e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca6220d0-91ba-49ec-996c-0dee4c9595ec', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', '47a4c129-fb3c-474a-91c0-9e11a287a6db', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4b06575e-f641-418d-ba38-f989186c9870', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', 'ea66eda3-30e4-435b-9c41-c9a45ddb6696', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd4b84c5-1614-44ff-9a70-c435673d7ab5', '464ae2cd-7b62-49da-b21e-57c6ece96d2e', 'a8f535db-1a5b-478f-acb9-1658eb49f35e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6c40ba26-4dbb-4b87-8a8b-8644550ea500', '353449f1-224f-45dd-94dc-ce5fbb83cfd1', 'adf20b81-dd4f-42de-a6f6-dc0caa96ebce', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ac85e2b9-6a3f-4755-a736-b9b6a1cfcf0d', '353449f1-224f-45dd-94dc-ce5fbb83cfd1', '4bb2858d-8323-4164-b8cf-bfc859a20bf8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '78363820-b226-4bd8-9451-ec7697598b37', 'fac93e62-798c-4c8c-b087-4ed5e53973f2', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe381bfd-96b0-40fe-94c5-6fe1b2104fba', 'fac93e62-798c-4c8c-b087-4ed5e53973f2', 'beb51a42-e3e3-4511-be44-faadf85db339', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7a379cd9-c360-434b-a5e1-160ae35851f3', 'fac93e62-798c-4c8c-b087-4ed5e53973f2', '1e17815d-62f8-4a7a-bbf1-03586e94687a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b05f24ae-88c7-4756-a8e2-b2ecd9448d90', 'f5fc7e9c-cc1b-4659-b881-f1c3f3d3c269', '9a29daa4-ac48-47d6-a182-ca0be94c6127', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3a207afa-4c5d-493b-abc2-a7b676ea558b', 'f5fc7e9c-cc1b-4659-b881-f1c3f3d3c269', 'a4429c51-5140-429f-8b10-bf8b6a087b14', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1d83d5b8-07e1-4e9c-8903-6eb7c0de7841', 'f5fc7e9c-cc1b-4659-b881-f1c3f3d3c269', '3f678dc6-011b-45c8-b5ce-c407d45ed1ba', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35d853de-de47-494a-8a69-aa837b18183c', 'bc3bd851-60ad-458b-a96a-d70d59734bd9', 'df3ca82e-9aa8-422a-950d-f3bd41daa1a7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '134b594d-3a9a-4e83-be9f-814c04aad22e', 'bc3bd851-60ad-458b-a96a-d70d59734bd9', '4c301e2d-6686-4971-8c6e-ae697d0ea509', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5febaab7-a122-4803-b119-aa9dc679f6b9', 'bc3bd851-60ad-458b-a96a-d70d59734bd9', '2750bfb7-2217-4219-a574-76c4c6c3e689', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33e7e078-f548-4de2-9ab4-628849d10801', '1028364d-4a22-473e-9630-f7e43be2fc1c', '6a44091e-edb0-45a9-a197-14546f76758d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a93df180-1db9-47c5-9049-c61161b4df75', '1028364d-4a22-473e-9630-f7e43be2fc1c', 'cdabe458-9063-48d4-8a28-d4ebebfd9d4d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '434d7543-084e-427f-9fc6-0e2a7a91b391', '1028364d-4a22-473e-9630-f7e43be2fc1c', '451fb46a-d1bc-4262-bd08-bdda1a23d659', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2c98e4be-d7d7-4f7c-a9a6-a1e66e3ca2dc', '1028364d-4a22-473e-9630-f7e43be2fc1c', '58b0fc2b-c679-4849-9c52-7ed62b170e78', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'db1fa84c-b929-4b63-ad85-75742c92137f', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', '5c3a922e-fbe2-493a-8c34-5cd840f3ab95', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f6ccb045-69fa-4957-ae58-82a6705f93e2', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', 'cf05d3d0-d322-4904-bfb0-7c173e7769ac', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5272d430-04c2-4f31-9176-7e67f7e2e0e2', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', '5b619205-8c9d-4292-98bd-ce44ddd6bd27', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '17ce22d0-ba0a-4f58-94ef-694ede3494ef', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', 'be9c626f-1c18-4e30-8a66-74fa110b8515', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '74cdc87a-3c68-4526-b763-84c837bced9e', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', 'a54620b9-d27f-473f-9173-0a15459bf8b5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab5d5811-bcbd-4c3a-b720-0b0ac7daf746', 'c4afcc1d-b2b6-4b56-aa96-19eebc4b7f55', 'f9770d92-92eb-4ee6-802c-aae4b2e7bb2a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '12795346-a021-41be-958c-246799cea23e', '001dc02c-eb43-46b5-b495-a995509b365e', '84260257-4dce-4e66-8534-b27d243f4b88', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'face8c3c-efeb-420f-976c-125c41f6e2c8', '001dc02c-eb43-46b5-b495-a995509b365e', '309e0f9d-34f1-4040-bebe-ceed4c70c9c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9a18fe16-0050-43eb-a1bc-8cf2b76e9941', '001dc02c-eb43-46b5-b495-a995509b365e', '864fb451-2582-4166-b2d0-c6b2c9da843f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e750ca7b-88a8-4709-877b-11e11ad5f03d', '46f8b68c-6249-4c75-8def-06aa96637bb6', '3d0c7dfa-f7d2-44d9-a01f-427d013c2376', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c3c2b327-3f12-4bd2-b6e7-8c42b2d8d3de', '46f8b68c-6249-4c75-8def-06aa96637bb6', '45a1ca74-a9f7-4f1d-ae98-625128fbb2b4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '844cfbfc-88b1-48e3-89fc-9750ce69fbf8', 'c955f86e-cb81-4676-855f-644d9b0be9c8', '33e7abbc-a6d6-4fd2-adde-d051e43862f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72560167-afe0-4254-b778-afa59e61262e', 'b875d44e-5339-482a-b753-5540df4ff5b4', '2dd9b904-e82c-4744-b259-61eb1a4c5dd7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8fb9d85e-62a5-4124-882e-c405c6f60d9a', 'b875d44e-5339-482a-b753-5540df4ff5b4', 'f4195dd3-26d2-4c37-8dc4-a89fc65ff5f9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e4a89c56-42ae-4877-8ee0-f7bf8dcb24da', 'b875d44e-5339-482a-b753-5540df4ff5b4', '19b0eeb1-4d3f-407a-9b2a-44ef11a81403', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9afc8ac-26c4-4d1f-8507-8553a365bef9', 'b875d44e-5339-482a-b753-5540df4ff5b4', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cfe3548-8828-439a-8f6d-1a23b39ead62', 'b875d44e-5339-482a-b753-5540df4ff5b4', '22a3a856-63b4-48ba-8864-8e5f4ed425c8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '43eb5995-3ef1-4f66-b091-fbbdc0d8e2e8', '9ef62d3b-e3a1-4a8f-895a-d086571c625e', '8d1c8db8-506b-404d-ac41-8d1a25d1061f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0e08573e-cd09-48cd-8057-5e2ad216e4e0', '9ef62d3b-e3a1-4a8f-895a-d086571c625e', 'f893a4ab-7dc7-4356-a15d-cbf5aaf0021b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd39dc16c-d193-442f-9c0b-764a5868ab95', '8260a655-284a-4de1-a683-14a7ab06c5ad', '7e6f79a7-8d3e-44ca-bb61-ee6bd89a8a6b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '41848d71-2c67-461b-840a-8694881a8040', '8260a655-284a-4de1-a683-14a7ab06c5ad', 'e862d6fa-fb66-42ce-9788-a47119350b61', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a27a507d-b35c-46d6-87c9-418a6b5d3c6e', '8260a655-284a-4de1-a683-14a7ab06c5ad', '05251317-e60f-46f8-917e-a786960b2fd4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ea28df0e-7cc7-45f1-ad64-759f2dc58961', '90b56ee6-f8d3-4702-80ef-1c7cc3d11df2', '58c559f7-245c-43b2-baea-c2d6868cf57e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7dd7ea1c-c854-4488-ab5c-20ae26285ea5', '7222fc91-637e-4fda-94aa-7b9ac93255e6', 'ff86cdd0-7704-48c1-b193-cf1f2f4e5be7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f68b2544-2b09-4774-b7ef-fb856355c8cc', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b84b3cdb-3423-42e3-a497-fe4830436bec', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', 'bcee356d-c30f-4f98-9100-5adfacecda78', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0629c2ac-4d75-4f9a-8848-adfc364ba5f2', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', 'a1131ac6-01ad-47e8-b643-7e25cb89be34', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91cefef3-3336-4a4c-9736-d0413a131ec0', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', 'd2cda3ea-ea03-4093-a605-3117d10854e5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b261a82-9793-473c-98bf-d21e5b2bd2b1', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', '6652ef43-d3f6-49c4-9da4-e995a546cbfb', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd48eb92-e010-45c9-9a80-b5ccf407ff9b', '2cac0efc-8075-4b3a-bcc8-ab7ab8ef4070', 'fb372a2a-594b-4815-afb1-edb36dc77da3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '765d1cdf-01b4-4b34-86d2-46dd97c0fb3c', '7121362f-f54a-4436-9b4a-c54bf9cc97b2', 'ebc64562-238a-48bc-9198-b6eec8508242', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4e82e346-e5b0-499a-bb39-d41e116fd0ab', '7121362f-f54a-4436-9b4a-c54bf9cc97b2', '3e2652e1-cb99-4f61-b473-75affbac1b98', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d0d884c-1882-43e1-844c-e956372ae4f3', '21b39e1d-540b-42a5-9127-41e3977306ae', '0c8af2cb-fc41-4a1e-a094-cdd83b411dde', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0264c8e7-d061-4a2d-a9dc-90a6d24a4723', '21b39e1d-540b-42a5-9127-41e3977306ae', 'fd784dbf-f098-44ad-9ece-a8480c689e08', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f7ea211c-6f6e-4ea8-a72b-1fa3482d5b12', '21b39e1d-540b-42a5-9127-41e3977306ae', '2140cd59-c815-4890-ae70-0c5a83dcaf67', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce2e27b0-93a4-4317-bf17-692c09e344ad', '21b39e1d-540b-42a5-9127-41e3977306ae', 'f76224be-3da3-42c2-98e2-ac97cbdb8efd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d1524cf-e711-4fa3-9270-7ecba7756d93', '21b39e1d-540b-42a5-9127-41e3977306ae', '90791573-a29b-4dd1-bf94-3f27ae90af6a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47bef431-f357-4637-a5d8-81c4367c4c33', '65289731-bb80-441d-abc6-e8768faad230', 'd5e8749d-81ac-4014-b31c-0c19eef552fd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6654abea-6ce6-4662-90db-d268c7331281', '65289731-bb80-441d-abc6-e8768faad230', '580fb600-c101-46af-94ea-1a223cb6fae1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a2cc8f89-7a4c-479c-8f2d-048ae8acad0d', '65289731-bb80-441d-abc6-e8768faad230', '3571a5e3-13e9-4584-a585-1837e439d19a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '08a0b534-2650-44eb-b426-549be082f202', 'd8af3efd-9606-4191-9eae-139ae11e2fba', '36544c46-6bda-4fce-8dea-d0c366ee72d0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ac33788-7417-466a-b2a9-6da2a223f7f6', '29f17939-0490-4f83-997e-fe460862170f', '393a09a2-5cc2-46a9-a2e3-eb4d26bc9a0b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dacaccee-2490-4fab-91c2-f3433a77f3c0', '7e684a9a-a48b-420f-be65-df196c790549', '11d02007-dad8-44bd-ad46-e315bdd44ed5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '555248ea-6e83-48bd-8738-9e9d80ac4bb5', '7e684a9a-a48b-420f-be65-df196c790549', 'd69befc2-b522-4c10-a6c1-51ac7bd43c82', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0cebad65-cbe5-4efa-8607-0b0aa85f8a16', '7e684a9a-a48b-420f-be65-df196c790549', '429f7539-1e4d-435a-8559-ed2dd8f87eed', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c5dfcbdd-ade4-4b51-8128-940a37db73bd', 'c22cac7c-2253-4e32-9428-5629eee43ccb', '80bf9712-85a1-4195-aace-52adba5936f6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9bca1bfd-d677-4c22-8437-fdeddb537536', 'c22cac7c-2253-4e32-9428-5629eee43ccb', '8db0e867-57ce-4c92-b1c8-e1fcccd4f3b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a98903b-dbd9-496d-9296-7235d9e45634', 'c22cac7c-2253-4e32-9428-5629eee43ccb', '32c541ad-593b-437f-bca7-f85e683687cd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2415b08c-941c-4a97-a440-06270842213c', 'c22cac7c-2253-4e32-9428-5629eee43ccb', '98fff426-adb5-41c2-9cc7-528a9e0ed97a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5987d01f-5f49-47a7-8c86-12c54edfd512', 'c22cac7c-2253-4e32-9428-5629eee43ccb', 'ea6fb5fe-2d9b-449b-9a03-f43ef7ff297b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '137bcb0c-df93-42fe-ae2b-44cead4cb5f7', '88e211a8-444c-4707-ad98-92a46079e1de', '93c45de6-2a80-4cb0-9c8d-e21caf65c792', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb38fa3e-555e-4471-8c30-bfa9bc81ff63', '88e211a8-444c-4707-ad98-92a46079e1de', '9ef69afb-827d-49b9-ad20-b34d04d2147c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fca31dc-2b3d-4fa8-a198-d4bd8e63d5f4', '88e211a8-444c-4707-ad98-92a46079e1de', 'b3c73511-b0fc-4186-808c-46f490cae240', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c5477842-d473-4f61-8ff1-497b574ea692', '88e211a8-444c-4707-ad98-92a46079e1de', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd0ef4f0d-105b-4156-aeda-ce55997b9730', '88e211a8-444c-4707-ad98-92a46079e1de', 'e947bd48-30d2-4bf4-af24-585b25d46466', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70a16b53-c6f7-437c-a899-724b86962d9e', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', '335aa242-73ab-4bb0-94e9-ee52829848c4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a6914fe-0b03-46bf-b120-293874c892f5', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', '90791573-a29b-4dd1-bf94-3f27ae90af6a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4bc0be37-a7bf-4745-a471-32f0b1c5c22e', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', '6e7f34ed-2355-4192-8520-0cd377bf3178', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c54eb2a3-04d3-45c9-aa50-9b24e236d38f', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca0c0924-673b-44c4-856e-3d221a44ff67', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', '65f8c5e2-3e55-4716-a6b6-7fe116554655', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ee4ea56a-002d-46d7-a9ef-ed69c1412015', '223e60a9-4ec4-4f45-a807-02d9e7a2e39b', 'f58201b7-910a-432f-bde2-a4d23e683a7a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4a723944-359d-4c1d-a1df-d8baeed85bf7', '977e4ace-aa4a-4487-875d-a5f16b00d4a0', 'ea48ff9e-3a7e-4fc2-90ed-2e87441704a9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49d02cdd-89e2-4716-94fc-86571b3a7d7e', '977e4ace-aa4a-4487-875d-a5f16b00d4a0', '1e17815d-62f8-4a7a-bbf1-03586e94687a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fef657c-5258-40d4-86f5-34229ec77faf', '5cf6479c-c845-4a14-bb59-a61d588c347a', '93b1f86a-6a56-4c99-9f93-a83dadc009c7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bae0f733-e99f-4265-b5ca-38c2d04ab456', '5cf6479c-c845-4a14-bb59-a61d588c347a', 'cc3d54a7-6dcf-4729-9fb5-3ce279a3b991', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b5146a82-9783-497f-9805-ebf788299548', '5cf6479c-c845-4a14-bb59-a61d588c347a', '1173c2cb-1a20-4b34-aa05-037d950c379f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d335efe-0045-419a-b9bb-b9b6b1b6d647', '5cf6479c-c845-4a14-bb59-a61d588c347a', '0627b7b5-6e77-4ef8-ae12-ac662d229608', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f42d0c8-0888-4ca6-bc71-6d827957d63a', '5cf6479c-c845-4a14-bb59-a61d588c347a', 'b9d310cd-14d1-4ca8-9892-332e611fe35e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a119048-0360-4012-98d5-9db4a2ec43e3', '5cf6479c-c845-4a14-bb59-a61d588c347a', 'a82ba056-d100-41d7-9df5-342d7a87e7e3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '790afc42-607d-462b-a675-4dc9cbee8c25', '20ac87f1-82e6-405d-89c6-5fcde8df25a2', '456620c0-01e9-4eea-a89a-6bf728e015c1', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'acc0f646-bca2-4a8a-98e0-1497fbcf9732', 'c401cbe5-2565-4762-a7a6-7841a9a32959', '8c363725-27cb-431a-a4ea-ff9cab9dc661', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd117dfa9-3e03-4034-a3d4-4075a7ae996a', 'c401cbe5-2565-4762-a7a6-7841a9a32959', 'e862d6fa-fb66-42ce-9788-a47119350b61', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '925552df-8d41-4147-b2db-e1a48d96d4ae', 'c401cbe5-2565-4762-a7a6-7841a9a32959', '533f5b43-f370-466f-884c-a6bdb54706f7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55c806a1-5bb2-42ca-bc2a-b672e5d369d6', 'c401cbe5-2565-4762-a7a6-7841a9a32959', '22e3d8e5-a493-497f-9689-290b578514c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd547cec3-8961-4eff-87a6-d46b47a51712', 'c401cbe5-2565-4762-a7a6-7841a9a32959', '3d0f2589-169d-4990-a2c4-55d579a04ac1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6f7d017-a000-4041-acc2-d78e1825d568', 'c401cbe5-2565-4762-a7a6-7841a9a32959', '480686ef-424d-46b7-9a22-5225d05581dc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a7d5e19-94b8-4e90-9c55-7a553a9960c1', '2d9c8e85-8434-4a90-912c-b787fa2b5875', 'c4d59b6b-5ca5-43b7-a727-fde0e6b34cf3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4275fdbc-b5b4-4da8-8814-fb89c5fed517', '2d9c8e85-8434-4a90-912c-b787fa2b5875', 'ef97d906-6b92-4fcc-ab57-06ebfbd26398', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '115a6636-9132-467f-a4fa-65fffc9ee65a', '44a8c43c-7f04-42bd-b848-4366d89c7f6f', '02a8b0d2-92aa-433f-b035-0ae6e53ba50e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33073546-16ce-4c37-b32e-4fde3fb2f3c8', '44a8c43c-7f04-42bd-b848-4366d89c7f6f', '9261dca2-44d4-4992-a84b-f0171a3736a3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '59a8b80d-41df-4a12-a81a-d6766031f457', 'e2c4e4ec-8eae-4c7a-8a71-8ff5a23fcfff', 'cfa6eb46-5d95-41f3-b491-e57a9c65c620', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9de4decf-4836-41ea-91e8-123205dd99c4', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', '7464ab9f-cd70-4741-b8d9-12e31ebf599e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2cdf5a29-eacc-4729-839a-225ff442039f', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', '8c73e5b6-11fb-419b-a319-1868d8cb89aa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b9e23bd-dab3-4529-895f-fd47a93bca1e', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', '98e291c6-a267-4fbd-9ae5-704734886aaa', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cfd08df3-f575-4fe7-95a0-6eb11233a526', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', 'cc5592a9-9b89-4788-9e81-610cad6ebc9f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bef63df0-51fa-42e9-ac6c-dd08ba7c5fad', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', 'ab2aa11c-52ba-425a-b46e-6041f008ff96', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5c01ce29-fd79-4c32-ac9e-a093b5894c37', 'b4fd3db7-1ff9-4d16-8ff1-aeb802aceda2', '38dd3c0e-bf88-4bd3-b3bd-ad103eb54024', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7b350779-0b3b-4313-a953-2ab4a0fb550d', 'd6f83b76-551b-4143-8bbe-26bc2e344c60', '22e3d8e5-a493-497f-9689-290b578514c1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '025ebe2d-abdb-4ec9-adbb-4e087f71b54d', 'd6f83b76-551b-4143-8bbe-26bc2e344c60', 'fe3297c5-7375-4269-b13f-0747aad0de5a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '34d01730-df5e-4a34-b175-e6751ba461f3', 'e4fa3a78-c0f2-408a-8460-e99846db0184', '6e4f5fd8-7fa9-48e4-b24c-073705bc3643', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce2fcdd2-7d1e-447d-b679-ac30f2a07f2a', 'e4fa3a78-c0f2-408a-8460-e99846db0184', 'a54620b9-d27f-473f-9173-0a15459bf8b5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1bc057e-b02f-47e1-ba23-059ee1db512d', '5237a3f0-5ba5-45a9-94b0-abe6a02ceebb', 'a9b56f5f-5476-42fa-af8b-b0362c828e92', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b651f3a-d628-4ad2-b346-e4144b296240', 'e5643901-a911-4601-aae8-b3ae145be75d', 'a0b7f90d-582c-40ec-9766-e6f66fb5b5a0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c8bb3e3e-bed2-446b-9692-57f2843a4179', 'e5643901-a911-4601-aae8-b3ae145be75d', '3ca3226f-8c0f-4446-a24d-0beddbdf0c9a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '40c0acf3-a8ec-434c-9e92-87e7db8d8b39', 'd98cc4c0-f30c-4ee1-adc9-2f0000878dc0', 'ef97d906-6b92-4fcc-ab57-06ebfbd26398', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3d3565f3-0abc-446e-9885-620f813a5402', 'd98cc4c0-f30c-4ee1-adc9-2f0000878dc0', 'd511d1df-0dcb-418c-bc3d-cbd43ee05d88', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa691da3-3dcb-4514-a104-7a79f2cb93aa', 'd98cc4c0-f30c-4ee1-adc9-2f0000878dc0', '4ed2d621-cb48-4e1f-a0e3-3371bace8048', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f141866-ee45-436c-8c89-c825fc21aac6', 'd98cc4c0-f30c-4ee1-adc9-2f0000878dc0', 'd13522a9-fff2-4869-a835-c62d3900a771', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a5e796e3-e5cb-4828-a910-90c5abae1d14', '4fdb480d-c551-45eb-8bac-df4350bc2848', 'aa7b4a73-88a0-4b44-8880-5cd7d70f02ba', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fdc657e6-402c-4629-adf2-d671027f087d', '4fdb480d-c551-45eb-8bac-df4350bc2848', '9df550a9-e885-40d8-8380-28f787934c71', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab9c0b01-13da-4f55-af1f-ab3319d2fec8', '4fdb480d-c551-45eb-8bac-df4350bc2848', '6f80ab1c-aea6-4822-b237-780a14ea8a41', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d3ab50b-efe3-4d34-abf2-e94c4acd0324', '4fdb480d-c551-45eb-8bac-df4350bc2848', '0e14eda4-ce4e-49f5-bdfe-3b92a93fa10d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47834da1-b2be-4ad2-955f-955edda322f3', '4fdb480d-c551-45eb-8bac-df4350bc2848', '96511d61-50cc-4d9e-be24-c9e20c1e50ea', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '46d0fece-cbb2-4669-826a-884d58c31e83', '5039f20a-4e4f-416d-9ce6-9b21d2f21e2c', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '003e4519-a5f9-4e1a-b343-0807a5aa46b1', '5039f20a-4e4f-416d-9ce6-9b21d2f21e2c', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '59fdc19b-ca50-4587-a4eb-58edd9b82b20', '5039f20a-4e4f-416d-9ce6-9b21d2f21e2c', '28ee18c4-6518-4f36-b23b-e2ca4e911459', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7b02b65-66ff-48df-8c4a-28318a7a0e23', '5039f20a-4e4f-416d-9ce6-9b21d2f21e2c', '70788350-dc58-4dd8-969f-7684159279d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dba39e94-c353-40ea-9ef5-89be970f089a', '9f16ccc5-1d3f-420a-829c-91b526074f48', '0ece0ec0-da04-4b37-8c85-949cb882d961', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd7ec418c-3b6a-4e50-b0b7-878cf1202d65', '9f16ccc5-1d3f-420a-829c-91b526074f48', '5f940f14-a31d-46b5-b904-a3a6e0402a27', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '677243c8-d3ff-4383-a4ca-a39f7d2de6dc', '327fa3b6-a6a4-444e-8bef-8a2c261c3908', '2b61bb62-5753-4481-bcdc-b96e09c63809', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '371747b8-fcc2-4702-8f4d-ccd93bd806fd', '327fa3b6-a6a4-444e-8bef-8a2c261c3908', '2726002e-f0a7-4c64-9875-d6a83a1f70ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '16cd6088-a65d-409c-948a-f0118cc78e6d', '327fa3b6-a6a4-444e-8bef-8a2c261c3908', '47a4c129-fb3c-474a-91c0-9e11a287a6db', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '27d98504-61a6-4b45-ade7-2c3a9b1c3bf3', 'fb4800d4-bbd0-4a4a-88fb-6cc04ae113cc', '0a9aae87-5212-4e11-a0c6-52ac3a3cbe4a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eded937b-74e2-4230-85df-9a5173ae4904', 'fb4800d4-bbd0-4a4a-88fb-6cc04ae113cc', '657e95be-2b81-4022-8f76-556fbb5adef0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9c214ce6-50da-40dd-9a03-cb55e3f34b5f', 'fb4800d4-bbd0-4a4a-88fb-6cc04ae113cc', 'e47bd62b-89a7-4550-ba65-5e5bd5088bf8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84a8601f-13f9-4e4d-a890-a269ab771aa1', 'fb4800d4-bbd0-4a4a-88fb-6cc04ae113cc', 'd5e8749d-81ac-4014-b31c-0c19eef552fd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b78838c6-28dd-4c00-9525-839261f8f53c', 'f143408b-7565-43ef-8fb8-a90b4b0a7b98', '7f15d0b1-eefe-46d2-8077-d59277d759fe', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '65ba19fb-3fe8-4005-b45f-3ec9fcabc305', 'f143408b-7565-43ef-8fb8-a90b4b0a7b98', 'f7f8a814-483d-4ac7-b7e6-6de393cc66fb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '35c8da81-8954-4a72-80ef-5edc81135d5f', 'f143408b-7565-43ef-8fb8-a90b4b0a7b98', '02b9f5db-4859-4094-a972-00af950a38fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ccc9a9b8-3bf8-4ae8-8feb-cbe4d08a795d', 'f143408b-7565-43ef-8fb8-a90b4b0a7b98', '2297c7dd-0003-4db9-830a-1d00c0b44b0d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'deb789f2-fc9e-42ee-a5de-6b9b9f22c0d1', 'f143408b-7565-43ef-8fb8-a90b4b0a7b98', 'afe04a85-d9fc-4515-89c4-04cba94c192f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '62bc9980-92c9-45a6-93f1-185b8202e2d2', 'e883bc31-449d-43f0-be6b-bf3112ab0e09', 'd079aeec-b6eb-43ab-8e34-2c564453ae62', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b7567ac-1a57-4b4d-b191-9443071277aa', 'e883bc31-449d-43f0-be6b-bf3112ab0e09', 'a96b7998-30fe-4bd8-b6d9-fb67e2d9e9d9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '48f70509-2211-4038-8ced-903824205eba', 'e883bc31-449d-43f0-be6b-bf3112ab0e09', 'f58201b7-910a-432f-bde2-a4d23e683a7a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8184e0d1-d124-4f5e-bd80-e38b7b64349d', 'e883bc31-449d-43f0-be6b-bf3112ab0e09', '5ea49cb5-7e76-4352-a854-24acbb35776e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '116cecd7-9d53-40cd-97cb-f8146422d1c5', '3ca63cef-fe04-4983-9f3a-411b28d8f16e', '004e163e-5b7b-486e-8368-53fe4110c44d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c7f4c4d4-742b-405f-b5aa-8191c0efc0dd', '3ca63cef-fe04-4983-9f3a-411b28d8f16e', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a54d5631-538c-4768-ab22-e57bf49833f1', '3ca63cef-fe04-4983-9f3a-411b28d8f16e', 'c063b080-cc27-4882-82a0-3470c0ea5740', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f36bc3b9-9e25-430f-990c-f9f5c92e40b1', '80f93a8d-21a8-46d6-8202-6e35974e0ef4', 'be06fd03-469f-48d3-b0ba-759238cd79ef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7e6c5df0-b7bd-421f-bdc7-5e2de54a3917', '58df1a1a-df57-4e20-9719-74272b3943a6', '58c559f7-245c-43b2-baea-c2d6868cf57e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b3849f52-bd33-474c-b0b2-676606b05d3f', '58df1a1a-df57-4e20-9719-74272b3943a6', 'e5ea7b16-1837-43eb-9fec-7446affd6040', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8784390c-0eb1-4a56-85be-0d68834615e0', '58df1a1a-df57-4e20-9719-74272b3943a6', '76e8adff-0689-4a7e-b860-d0e9078c049c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90a1515b-e29b-40f5-be44-4f3af34467bd', '58df1a1a-df57-4e20-9719-74272b3943a6', '45a1ca74-a9f7-4f1d-ae98-625128fbb2b4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3cd4a201-60a2-40c6-ac70-0dd05f9ab79e', 'a165b953-71d8-422c-adab-bdb07a7b54b6', '96511d61-50cc-4d9e-be24-c9e20c1e50ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6bac772b-8fd5-4bab-9ce9-e1866bb576a6', 'a165b953-71d8-422c-adab-bdb07a7b54b6', '491b9d32-2ad4-44df-82e4-b74559feddaf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f20549ee-3dee-456a-a8ae-045f1cd9772e', 'a165b953-71d8-422c-adab-bdb07a7b54b6', 'e2816772-d02b-457e-a672-9d4a9c068461', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '96ba8ae6-2e0e-4302-9440-974d42a4ad7f', 'a165b953-71d8-422c-adab-bdb07a7b54b6', '900c7501-20f2-4d77-bbb8-456416efecb9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1c0ad1a3-ee73-4f41-8df7-1f68a4b764f2', 'a165b953-71d8-422c-adab-bdb07a7b54b6', '880f623f-bf0d-4a16-b8b0-4b2e0d1bc197', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ecc6196e-6a8d-46d9-8729-3ee7614ae792', '778b53a6-1c4f-4698-ab90-71ec6a7f0e74', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ace5b9cb-ee19-47be-9b51-fafad32c41d2', '95fad362-6b2e-487c-ab2b-0629bb46bd14', '491b9d32-2ad4-44df-82e4-b74559feddaf', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6195e565-6efb-4ea4-81e4-db023488bdcc', '95fad362-6b2e-487c-ab2b-0629bb46bd14', '715f12ea-5dfd-404b-81e8-c8baf29738f3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '19dfdc3f-9751-4c9f-93dc-86aa6340e519', 'ed606a85-8ac1-40a8-814d-6cb516ec9bda', 'e2fb46de-bb34-4797-ab3a-1ea5d3c3429f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '987f03ac-ab6a-4d8f-afad-da4b3085c351', 'ed606a85-8ac1-40a8-814d-6cb516ec9bda', '54afabe2-6eca-4f17-b4e1-4b2ac6f8a2b2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4e04742-6bb0-41dd-ba3e-0c24e6d7158e', '317d6470-def3-4f63-b16a-96a6ae4929e4', '3ab7b90c-fffd-4b52-92e1-cc699e60e27b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '19139d45-fa03-4bc5-a961-e672c08e5738', '10c01c67-a1db-4355-bab7-3b1eefc3b09c', '792056e1-2ffb-44ce-82ad-2dbb803ff390', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2211b604-29dc-45e9-af9c-bb8094025d15', '74461bb4-d1ec-418e-ba1c-8bba47431ab1', '9fbd48a9-2d70-4821-846e-0720e4e3a740', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2d8fb93-82fe-41c1-864f-55204568e0a9', '74461bb4-d1ec-418e-ba1c-8bba47431ab1', '2c298184-9836-4202-93af-af9c389a13e6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '98cb162c-51f5-4cbc-8315-2da91218c8ed', '74461bb4-d1ec-418e-ba1c-8bba47431ab1', '3eea4bec-3239-44be-bb19-0dbe8e2a9468', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fecaf38f-99f4-4c54-9374-fd5e061e393a', '706b9cf9-5e97-4270-a0c2-561213107b6a', '376fdbf2-62bc-4aff-bb84-f6639e0409e5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f7eaa8c-446f-485c-9aee-f504114216a8', '200249c9-9a77-41ef-9a4a-9cddde9da753', 'cfa6eb46-5d95-41f3-b491-e57a9c65c620', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '51e40344-342c-4b11-a095-79ba2ee37920', '200249c9-9a77-41ef-9a4a-9cddde9da753', 'ab2aa11c-52ba-425a-b46e-6041f008ff96', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dbfd729f-86d5-43b7-a0f5-170e08aa6016', '528bb41e-d405-41e6-914f-4caf8893d296', '7f24cbcc-eb4b-4d0b-9cf9-7b659727c134', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d0b7c49-7e36-483f-9d69-9562dddd2038', '528bb41e-d405-41e6-914f-4caf8893d296', 'a00be8fd-1931-4236-97d4-9e5220e9bcdc', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d15cd4d-f77d-4a35-8db7-50cd469c42d2', '528bb41e-d405-41e6-914f-4caf8893d296', 'aea68a5a-38cd-403d-984c-44e05ebf1b48', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a7009f7-f9b0-4c67-b402-98626f1d4e83', '528bb41e-d405-41e6-914f-4caf8893d296', '1e34fffe-3d67-49e3-bfc9-74677838f032', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7c254882-fce0-46e3-98ff-bbe9d4373a4c', 'e117d220-fa7a-4dff-9ca2-0989d2030a70', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b49d8dc7-d9cd-4f24-bfce-e7353ed1f5d4', 'e117d220-fa7a-4dff-9ca2-0989d2030a70', 'e62bd9e4-3b48-48ca-8e1d-8db814a92ae1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '304a49dc-9883-4516-a084-370ad2229983', 'e117d220-fa7a-4dff-9ca2-0989d2030a70', 'f1c50e38-f6f6-425e-9ab0-3b38e1329c58', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5bad178b-ec4b-4514-9314-a040daa4f1a4', 'e117d220-fa7a-4dff-9ca2-0989d2030a70', 'c37daf23-0363-4119-9179-71de03e1c751', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd65cfd26-cc44-4599-9b78-a074d4dd474f', 'e4409dff-c887-438f-b0ed-5eab1ebadec0', 'ebb553bb-93a7-4c8f-aa61-ae0e46072f32', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f31e578b-d8fe-45e6-8f7b-c8aea776955f', 'e4409dff-c887-438f-b0ed-5eab1ebadec0', '1fa5a045-897c-4a04-ac97-14c65d053721', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd0627c3-74b4-47c9-92b8-ed2d44937ef6', 'e4409dff-c887-438f-b0ed-5eab1ebadec0', 'fc09214f-42f4-4912-b869-4cda97effbc4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af1b8f0b-02bd-4448-a185-4962f2a31984', 'e4409dff-c887-438f-b0ed-5eab1ebadec0', '7e2b335d-1e0b-4855-9d66-cbecdfb382b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e0577f12-d39b-4438-9d63-e69b518fb59c', '2cecd241-4d54-4033-aad0-b3d7a90af355', 'bf6be0e2-0baf-447a-bb52-8f7c1d794a41', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4256944c-f506-4db3-aff9-c5ef90b46850', '0c57d380-7378-4457-be26-eb7226f95502', '797e1ff7-b6b1-40ae-8715-074e12daa67d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6c407ad-a81b-44bd-ab2d-78fbfcc1b166', '0c57d380-7378-4457-be26-eb7226f95502', 'a9144dec-a200-419e-ac61-57df38f3ceef', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25dca0c2-930b-4331-a4cf-387a8db0d8fa', '0c57d380-7378-4457-be26-eb7226f95502', '7f18a34c-1207-4310-94a0-8ce38f23f508', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8726ede2-d181-4335-bb7e-363a9cde1c0b', '0c57d380-7378-4457-be26-eb7226f95502', '10b0b66f-8e75-4aa7-ade7-31641da1cd94', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1f55e50a-68cf-4563-b70a-b43cb493404f', '0c57d380-7378-4457-be26-eb7226f95502', '3eb4f528-b2e8-452a-a3fe-e51e319bde3b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c0a55cd2-8ec6-43fe-92f0-2116c5bc83ea', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', '3e270283-b252-4281-b4a2-e51c795d5f68', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '319c1c4e-7501-4087-b479-b55dea7f0ccb', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', '1ca5f178-722f-4b80-9c27-d16991b19e45', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60649701-6ff1-4306-988b-8d74a7c56956', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', 'c3676238-bd12-4ef6-b1ae-7063e76f0d0c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '93afbb09-cc37-4f8b-9f73-63b820f59221', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', '0bbd9eff-498a-44e3-8b84-0a5c001e7755', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4a0f04c2-60f4-4f9c-9891-be4de435a5cc', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', 'b7b4f2e8-5792-4443-a32e-7e21b98dd7d2', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dafb684e-44eb-4cb8-944b-52fa0108c6b0', 'c639a99f-87ea-416d-8ce0-4af70fc17e26', 'e776fefa-9cab-4bfa-9fa0-2ad228dbb88a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4a20fb5-f3ed-49b9-bce9-35939aab3d84', '7e6d83ee-efd4-4c64-800c-a0337a7ca99c', '4d254302-736b-4c9e-bd77-4d3036856570', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '71b042e0-0752-427c-bfd2-83f8b0f77b0f', '7e6d83ee-efd4-4c64-800c-a0337a7ca99c', '5239de49-30cc-4780-880d-61e7af84143c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cd2a6c9f-9aec-4055-9083-be79c134d39a', '7e6d83ee-efd4-4c64-800c-a0337a7ca99c', 'f3388d36-3602-46f2-86fe-ca14e7c9948b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b8431b1c-cbda-468c-b05b-8f22667dc308', '7e6d83ee-efd4-4c64-800c-a0337a7ca99c', '34eed2dc-ee5c-41c7-b653-bef7aadd348f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8a31e7f5-16b6-4eb4-8d6f-afb273cc2ce5', '7e6d83ee-efd4-4c64-800c-a0337a7ca99c', 'e8ddcc25-d210-4c6f-820e-1a2ab72ae749', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ea8f4e43-369e-4af3-9d05-0d345335095f', 'a6df2b40-e5a0-4dc1-a0a7-38ea63fc1063', '366d2b5f-1445-48b5-8f76-e59443e2dffb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7df2901-fc5a-4601-85c5-31c6f3a997d8', 'a6df2b40-e5a0-4dc1-a0a7-38ea63fc1063', 'b832e0fb-5b9d-4925-a782-33e4f8312629', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8be6f9cf-6c56-4488-a9a7-d560eec266cd', 'a6df2b40-e5a0-4dc1-a0a7-38ea63fc1063', '59489675-58b6-415c-8bbd-684f477d5305', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0a153bb5-d47b-48d3-a163-0e8eaabfe8a8', 'a6df2b40-e5a0-4dc1-a0a7-38ea63fc1063', '975ac04a-aac9-4afb-9794-ddba445b7db5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e536556-aa00-4da6-b34f-4be1d88c3575', 'a6df2b40-e5a0-4dc1-a0a7-38ea63fc1063', '864fb451-2582-4166-b2d0-c6b2c9da843f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce4f1e59-37bc-4166-b698-53440772d2a9', 'aeec6d44-ee15-4187-9532-b1afc628a84a', '76efdee8-4275-42d8-99bf-9d47082ecd1b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '91461dab-6aad-4b8f-8f2a-fe3b45bbc603', 'aeec6d44-ee15-4187-9532-b1afc628a84a', '1ad32f84-294f-49c3-b1b5-8e22727d30cc', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21888b1c-2b2e-4f75-8b3b-1204e8307d24', 'aeec6d44-ee15-4187-9532-b1afc628a84a', 'a8f535db-1a5b-478f-acb9-1658eb49f35e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0978090a-d8f8-4a2e-91d4-1e4b6a57dc18', 'aeec6d44-ee15-4187-9532-b1afc628a84a', '3e66ffcf-8981-4414-bb67-d1ca262f747b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '01a4da61-8f2d-47c0-a835-e7745699e91c', '7962918a-d19e-4be1-8c33-459a76d44f79', '84260257-4dce-4e66-8534-b27d243f4b88', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7510fabd-31b0-4c29-bdac-4395b51115ea', '7962918a-d19e-4be1-8c33-459a76d44f79', '0c23dcf3-e7f6-4309-9cbb-50ffa05fb537', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ad3640dc-28e4-48da-858a-950eb824d02c', '7962918a-d19e-4be1-8c33-459a76d44f79', '40c3697d-5e90-492d-b4bf-9a4812aaca73', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1a5678ee-47a4-4b27-b5e6-39f1cdc5afdd', '4c47be64-8a69-4b8c-a24f-74e36c99aba9', 'f4d291a0-5f8a-4d50-99ac-42d90337065c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'bebe92a3-8502-46c7-961a-e07c586e34cd', '4c47be64-8a69-4b8c-a24f-74e36c99aba9', '4d254302-736b-4c9e-bd77-4d3036856570', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1413ec4c-da1a-422e-818e-5438541681a3', '4c47be64-8a69-4b8c-a24f-74e36c99aba9', 'e947bd48-30d2-4bf4-af24-585b25d46466', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eb977ec8-165c-4dbd-b896-930c14c6d3a6', '4c47be64-8a69-4b8c-a24f-74e36c99aba9', '99616bde-992e-495f-88cd-97281d6b88a4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c0fb0ce3-6c26-4b9e-9713-85f89d6c1d2a', '76965922-0ee4-44a5-8d67-8c1c82bc55c7', 'fcad698b-065a-4f83-b1fa-4896c5ed3b29', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4af8589f-d9ed-49f3-b984-b05133a481ac', '76965922-0ee4-44a5-8d67-8c1c82bc55c7', 'fa0ec28f-269b-4968-818d-0b24b4ec4738', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa2e2ba4-32ca-475e-9c6e-3e755111bfaa', 'cb55bd29-e7ed-4b64-88f8-7bdbf9022db5', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8af525d4-3517-4486-83ce-76459a1f5a9f', 'cb55bd29-e7ed-4b64-88f8-7bdbf9022db5', 'fe3297c5-7375-4269-b13f-0747aad0de5a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b6c0e124-3e5d-44d5-9936-b4803b434b12', 'cb55bd29-e7ed-4b64-88f8-7bdbf9022db5', 'ccae9821-14af-4f7e-a2fb-eb11c3b6b9e3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0a99a40e-f12d-41b2-9560-001b8ac0dc03', 'cb55bd29-e7ed-4b64-88f8-7bdbf9022db5', '181e1e5d-779a-47c5-a6b7-5236f9ebe895', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4eaace2a-bdb8-4c59-80c1-3b408cee933a', 'cb55bd29-e7ed-4b64-88f8-7bdbf9022db5', '19be0c44-6891-4ae6-b156-409fb2422850', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b948f9cb-5869-4379-b0e1-aeb6e70ac5a4', '9a40c76a-cb8e-4849-b4b7-88431b97510c', 'd2cda3ea-ea03-4093-a605-3117d10854e5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '278ce08e-0c56-4487-9052-d9228b7d70e6', '9a40c76a-cb8e-4849-b4b7-88431b97510c', '3a7a9fe8-31bd-42be-b689-b7ec7865b771', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88adaa6f-0e3c-4c87-8c6a-41c864d04c75', '9a40c76a-cb8e-4849-b4b7-88431b97510c', 'e5e6c18f-2c94-4ca2-b9f4-928da8b31a37', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '03903d50-a4cd-49a5-b692-3420d3bb9388', '9a40c76a-cb8e-4849-b4b7-88431b97510c', '4e520497-9e26-4c60-b9b0-606efd4746f5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b81468b9-f724-4653-bff5-764bed7faefc', '9a40c76a-cb8e-4849-b4b7-88431b97510c', 'e4f281a3-f814-4e22-a053-27d86ebe03b5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '139e270f-4e27-4448-97fe-6f5c6d79f879', '9a40c76a-cb8e-4849-b4b7-88431b97510c', 'd005a8a9-0e11-435b-aeca-957bdac19869', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f90fc611-d3b8-48d8-aa9e-3927bbd981f5', 'a05a6c36-8b93-4bc3-835f-a38ada78f1ff', '1bb0d9c6-c6c7-46f3-a2b0-d8f5434e9e34', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1c7288b3-18b0-498e-8a5d-22a0b6cfea77', '3c2ad869-628c-441f-a2de-ed19de913104', '0ece0ec0-da04-4b37-8c85-949cb882d961', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b471b4d3-d7b6-425d-858c-ed74b7baf2ff', '3c2ad869-628c-441f-a2de-ed19de913104', 'b535d98d-2b4e-4df9-a530-a407d9ed6877', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55a8a833-500c-4f13-8106-82c39b879f00', '3c2ad869-628c-441f-a2de-ed19de913104', 'b8358b5d-e709-4f54-8e27-bf69b9235cf0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c2cb057a-0b22-4ce5-b9b1-c1723f38e4d6', '3c2ad869-628c-441f-a2de-ed19de913104', '11548b2e-3164-41d6-b7c0-652f6ebbb3fb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e6574f0f-1cbd-432c-b59d-4b5457ad4e13', '3c2ad869-628c-441f-a2de-ed19de913104', 'd80a903f-0861-4675-84c0-be7249a5ade1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5bfc440d-e3d1-429c-9064-d1a618ebdd7e', '3c2ad869-628c-441f-a2de-ed19de913104', '3607eba2-668e-4045-89c6-62e50d0264ce', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6f0eb2d4-9ae4-46d8-b980-b597a9d02e58', 'dbe9d8da-6f64-4927-a529-100d1dbf3359', '1a7cfa45-e4d4-41d0-ba61-602173b166da', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a056cd8-ef29-40b5-b496-cd73c3120dc9', 'dbe9d8da-6f64-4927-a529-100d1dbf3359', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8091c3ba-6151-4910-8a97-4bab79a94a90', '0513e230-7a20-418c-96cd-a18db8d3690d', '0e10d3c3-1565-4b2d-90ba-479657a75f72', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f1f05e09-cca4-4855-a2e6-59dcb069b367', '0513e230-7a20-418c-96cd-a18db8d3690d', 'f955443d-8a0d-4d0f-bef0-11fd8d0a9301', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0b22b4fb-eee9-48ee-bcac-dfa7e6f29aae', '0513e230-7a20-418c-96cd-a18db8d3690d', '8a191997-cc1d-4162-a42c-da3a8d03326d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0124233c-aeb9-4d7f-a003-5bfb1afd2ad6', '0513e230-7a20-418c-96cd-a18db8d3690d', '6ebe8812-fed0-4b95-b129-32275583f40d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3065cf18-3a5a-4009-8e4a-179ffae524a4', '385a41dc-cda9-4574-b1f9-e1021804fd69', '4f336694-131f-44c0-8158-aa913f274606', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3b61b0da-ee98-4485-a341-65c3f439f678', '385a41dc-cda9-4574-b1f9-e1021804fd69', 'e6f370a7-0163-4c5f-aaee-d5acbd839cad', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '088a27d9-222c-43cb-8755-6e5e407ca4b6', '385a41dc-cda9-4574-b1f9-e1021804fd69', '4957f9aa-7390-4d97-ba35-f5636f160b2b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '92ee5c97-3b0b-4ba6-8505-f99cbb3ebc4b', '7de21b4f-8cce-4736-8a3d-5052e1ec359e', 'e56a3721-5cfc-4448-94c6-03c2c3ab1d10', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8f10c94d-b2c5-406e-b8c9-3f7be94a7a0c', '7de21b4f-8cce-4736-8a3d-5052e1ec359e', 'ac440ed5-b588-4e39-8808-1f28e21e111f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd91ab990-d645-4f48-b787-ef67cfd467d4', '7de21b4f-8cce-4736-8a3d-5052e1ec359e', '1afbd831-2aea-45f2-92c7-9d92d1ce2691', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f14d4cb3-e5e0-471f-a4c7-b852f748def1', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', '9c63e62b-23ff-4b7f-910f-8f82dc94aa87', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '26f9f479-2007-4bf5-a768-a6795907e276', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', '34850c8b-1e22-469a-9861-8c0246e884f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f2f89545-73ec-4a02-8973-cd25b9fc0bbc', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', '4e2ae242-a5ce-40d9-b619-627bef4e3526', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dafb6749-138a-47c2-8df9-16b8eec82ea9', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', '5b50fa85-a6ea-464b-b598-478927c96eb3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3d88c77-ffb0-4998-8dad-363060b91f0f', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', 'dc2fd452-a7c1-4988-9c37-da4d5525abd5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6f1cd8d4-7631-447d-be78-45001274e4f9', 'eebcf9c2-32e0-404c-b008-7ea659ae7b8a', '44cae59f-e769-4890-9105-1c64867cec9b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63d6cdd3-4085-4a09-b773-f693849986e1', 'ae31bd9c-aca9-461e-b0af-1f7fdd85c38b', '23aeff6e-d419-4476-928b-6653ff2ddf9a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '60c3f56c-7f13-46db-acb9-c124880329f6', 'ae31bd9c-aca9-461e-b0af-1f7fdd85c38b', '38dd3c0e-bf88-4bd3-b3bd-ad103eb54024', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5fe4221b-1c0f-4187-995e-4a2d84134dbf', '6c29f403-556e-4df8-9bb3-97e159a28e83', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '88c1ed34-0583-423c-9ead-456c97e7f69e', '6c29f403-556e-4df8-9bb3-97e159a28e83', 'c2dea58b-7faa-4a58-9f18-15acbc0f360b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aa3cc3be-8026-4490-8d48-2a11bc8b8f74', '6c29f403-556e-4df8-9bb3-97e159a28e83', 'f3246397-36fc-49e1-9a4c-3e5c24cb5a76', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a959077b-45e5-429c-9c77-5a4db5f1e5e4', 'a063659c-2f6c-495e-a437-767cfbf80372', '00e009aa-f79b-4481-9d8c-8bf4b77e1bad', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9def2c93-f142-4d67-8240-7f1e79b7a734', 'a063659c-2f6c-495e-a437-767cfbf80372', '1dede9b0-46a7-4162-9023-361a91571096', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6f1860fa-788e-4dc6-82a2-c446b845688c', 'a063659c-2f6c-495e-a437-767cfbf80372', '6ebe8812-fed0-4b95-b129-32275583f40d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ae07466a-a956-44dc-8a8e-f13e048b96e0', 'a063659c-2f6c-495e-a437-767cfbf80372', '0c23dcf3-e7f6-4309-9cbb-50ffa05fb537', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f3f657b-6256-4135-a634-7666031c57e0', '3d123928-30fb-4b77-8c0e-50c994f8dedc', 'cae3c610-bfb0-47a4-9b4b-7498f491aa08', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f746733-5561-491c-8cd5-42d2406bb99f', '2813a1dd-054d-4a51-86d6-0acadd239586', 'd63506b1-ed61-4450-a8c7-3e75f0eb6df8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a4c4982f-17f8-4c8c-9553-4f9662c070ba', '2813a1dd-054d-4a51-86d6-0acadd239586', '6b08b16c-4b1f-49df-91c2-8e78c6335cd8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca953ec5-415b-46cf-b519-394f0917de16', '2813a1dd-054d-4a51-86d6-0acadd239586', 'e516ce36-c916-476a-91ec-9cc628ac3c5b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4fbcc6e1-43ff-4eea-873f-a07735eaad33', 'c39c88d7-b74e-49ab-907d-f97f94196814', 'e4f281a3-f814-4e22-a053-27d86ebe03b5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '26e8ec8b-f733-4139-bda9-d3b96598ce00', 'c39c88d7-b74e-49ab-907d-f97f94196814', 'b778e810-da76-4d18-a57f-e050006ab51e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c24306b3-6343-4a80-8e24-25e70b7200ca', 'c39c88d7-b74e-49ab-907d-f97f94196814', '31d879fa-3032-462b-9a37-3f375f7029d3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '70b18f48-04a1-4f60-9dd1-3ddaf1217f72', 'b1a68626-769e-49a0-8c56-f02eee671b72', 'f347be98-7311-419f-9368-fc9c3bcda993', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3230ee59-f77b-4039-9581-c8346cc70c91', 'b1a68626-769e-49a0-8c56-f02eee671b72', '32369757-6e44-4941-b432-c7267787659a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'df40ebcd-271b-47e0-b542-6be28ef9d26a', '7b664242-06ae-4dbd-990b-daa31c4696bd', 'e97393e1-153c-443f-a990-26dc31bff385', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b138c449-5fac-49bb-afd7-c51694cfbd94', '7b664242-06ae-4dbd-990b-daa31c4696bd', 'ece14142-95f2-46b7-98d3-fa8c2d057353', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8b40491-b9b7-4d5d-bd23-d70b52d913e5', 'b0387403-6075-4810-b7ed-0bd3dabdb700', '6e7f34ed-2355-4192-8520-0cd377bf3178', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b369137c-8ef1-4802-a297-d5d0838c0152', 'b0387403-6075-4810-b7ed-0bd3dabdb700', 'b1d996e3-4b2f-422b-aa6f-e0a926bf0c2d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '33c00640-06da-461f-8df8-13190865ebaa', 'b0387403-6075-4810-b7ed-0bd3dabdb700', '5c3a922e-fbe2-493a-8c34-5cd840f3ab95', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0f96a113-4ab7-441b-9757-8a5039abedec', 'b0387403-6075-4810-b7ed-0bd3dabdb700', 'd2cda3ea-ea03-4093-a605-3117d10854e5', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '50d6113a-90bf-4bbb-80ab-60482e399240', 'b0387403-6075-4810-b7ed-0bd3dabdb700', '46c7a13f-578f-4387-a603-e571096bfc41', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '037d93ac-91ec-432a-aa62-c744808bebbf', 'b0387403-6075-4810-b7ed-0bd3dabdb700', '8571e7bc-c17b-4268-871e-65365f88fae0', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6a68c06f-e13a-4c12-9f13-06ff1dcdf2a7', '7a349403-a4a8-4783-b633-cbeef0f6fd5f', '598c7372-9c3a-49d8-8048-fb33099b620d', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '695be846-55db-478f-b4dd-6971fa523c02', '7a349403-a4a8-4783-b633-cbeef0f6fd5f', '6d89a54c-7d5a-499a-96be-3aaf17ebd683', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a7ba9546-ed9d-496f-bcea-c7372102e05f', '7a349403-a4a8-4783-b633-cbeef0f6fd5f', '3b441c71-6156-48d0-9931-a0d3e6ae3392', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4fe4c158-c890-4a75-b2fa-5f92671cdd3b', 'bf764724-028e-4e72-a4d6-e9011c79cd50', '0c8af2cb-fc41-4a1e-a094-cdd83b411dde', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '02efa406-aad7-48b1-b78b-442365e0db2b', 'bf764724-028e-4e72-a4d6-e9011c79cd50', '21257f12-fb35-4b8d-9e01-7d359b546a0c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '276c2e34-1f71-493f-a376-3e61814bc707', 'bf764724-028e-4e72-a4d6-e9011c79cd50', 'e11f98df-ae04-4008-9541-342211c97cc9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8bf0d95e-28fc-4c7e-810e-7c1736ef7a6b', 'bf764724-028e-4e72-a4d6-e9011c79cd50', '32369757-6e44-4941-b432-c7267787659a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '812c69c1-2504-469d-87e7-d46c06808b66', 'bf764724-028e-4e72-a4d6-e9011c79cd50', '00bbe901-858d-4432-9459-2c960d70c872', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b41aac8c-94b5-4a56-9ac6-42aa4452f97a', '0be2c453-cc81-488a-8209-00c598a997f8', '7737ca04-2890-4ea9-9eca-413d2e92d334', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1098608f-ccca-4e72-bf23-a29ad7a5b186', '89e63894-665a-49d6-a436-3447e0a290fa', 'f84624c4-39ed-48f3-a4c3-5901eb15caa0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd5c7e3fa-e022-4ae4-b69e-57bdc97ae312', '8ee2bda7-270e-4082-8063-b72fbf4ebb15', '753b2de5-e2ba-4a1d-ac94-a3290dde0d17', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be47ecc9-9e1a-4220-bf6b-61b4bd48618d', '8ee2bda7-270e-4082-8063-b72fbf4ebb15', 'dade1cc3-f4a7-4c7b-8594-ba4e00c8f818', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5e06a65c-84a3-4f36-a764-e2009111a3ca', '8ee2bda7-270e-4082-8063-b72fbf4ebb15', 'cece20db-225b-4839-8bc1-909b13552db6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b7c7b284-b36f-4e9d-831e-6698022d374e', '8ee2bda7-270e-4082-8063-b72fbf4ebb15', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '90e7a1dc-4cb0-405d-ab4a-e8e6a510b934', '8ee2bda7-270e-4082-8063-b72fbf4ebb15', 'df5854a3-de05-404b-85be-d3496485e9d5', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '25d33c72-3f0b-47d8-9e53-d8d9ac5145e0', 'b5f29c26-9d40-4e9d-9e6d-a228555d883e', 'a1b915f1-eec2-471e-ab66-8e3a7dd041ea', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '66fe0f9d-9300-4377-aee2-3f54771fc0bc', 'ec8cd46c-2390-46f6-a08f-4a3aadd9cdd4', '83ead427-df06-4a53-a873-219f272c394c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6d3b3f4b-1d8d-4417-93b9-3503f469cd9c', 'f9fe3eb1-42b3-4a80-8b9b-5d545d1747b1', '3177fdfe-c677-4947-99e1-b1cdce8264f6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ebf96f38-c392-4a41-ba2a-6d192075b349', '0f4f41ca-6f73-48fb-8f09-ee4a7ad79483', 'e776fefa-9cab-4bfa-9fa0-2ad228dbb88a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c4e9a425-59f8-4265-ac16-3613838c8086', '0f4f41ca-6f73-48fb-8f09-ee4a7ad79483', '58c559f7-245c-43b2-baea-c2d6868cf57e', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9b614e98-987a-4fbf-a5d9-d68d5dc2a894', '0f4f41ca-6f73-48fb-8f09-ee4a7ad79483', '54afabe2-6eca-4f17-b4e1-4b2ac6f8a2b2', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '817fb63c-11a2-4350-aaef-81548cff47f2', '0f4f41ca-6f73-48fb-8f09-ee4a7ad79483', 'ace6b1ba-e979-41aa-b070-2fcb93531c15', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5ffa84d5-2e00-4991-927f-46f07a7e7edd', '01d206d5-3b37-4ef4-ab2a-8cf784386bff', 'd659df36-86ba-41e6-b353-f987a0136525', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28a9763c-56e3-477c-ab76-dd0fdccc6672', '01d206d5-3b37-4ef4-ab2a-8cf784386bff', 'd1cfa948-763f-44f0-9ef9-96673d076c20', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b1967437-ee3c-4f9b-a38d-d4de5eb5b96f', '01d206d5-3b37-4ef4-ab2a-8cf784386bff', 'b6b8c240-f28e-483e-bba9-7325398384cd', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cc9c3432-52aa-42dd-8cc1-64538cafb524', 'df1faedd-d8fb-40d1-9c96-04ed710c4a2d', '2a185ebb-9ae0-4f36-91e9-f8054b7ed32a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '69616b86-8c4e-4b9b-bd45-0bd3eadf68d5', 'df1faedd-d8fb-40d1-9c96-04ed710c4a2d', 'ea9a729e-db4f-4033-a1d5-137aecf55766', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '159f7f92-a461-4911-a049-de61395e4d65', 'df1faedd-d8fb-40d1-9c96-04ed710c4a2d', 'd3a76a7f-19cb-47fe-960a-2fc6a45bd22d', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5cf0b4f2-0cd8-427b-9057-d6a596940ee8', 'df1faedd-d8fb-40d1-9c96-04ed710c4a2d', '49ac692b-2df9-4221-910a-cee1227ffb22', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'be9708cb-9e72-40dc-91be-2a8ff3b70981', 'df1faedd-d8fb-40d1-9c96-04ed710c4a2d', '2d6ab328-2959-4f99-8df2-94e80eb4aed4', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '80e08824-a9ce-4673-b7fe-78be17b737f5', '814751dd-22b6-43f4-9683-260ea1131487', '0d9bbc4e-7f49-42b4-aa3d-2743d47482f4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '83e12569-a4ed-4502-8aef-4a4a51425548', '814751dd-22b6-43f4-9683-260ea1131487', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '775bfd4f-4b96-41c2-809b-0136a7e40541', '9178f083-2584-48b8-8764-9da8ebb5ecc6', 'bc0edf9e-d06a-4723-be1e-1b1dae979c6b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '937071d8-4341-4eb5-b1ed-9fa18c04c3c0', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', '1173c2cb-1a20-4b34-aa05-037d950c379f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1b1c0ce3-bf13-4294-9a87-dbc30a0cbfa4', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', 'a448a1dd-9d28-4716-abb4-1c7dd8796acd', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f74265e6-c122-4eb1-b8a9-99b6ed76ecd6', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', '94dff0bb-86cd-4c63-9940-f1c6a46b1e2c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f380769-bbeb-4f70-bc2f-984235789e11', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', 'cfd6afda-7ade-4100-b279-0fdba443520b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '041a0088-5fb7-4794-892f-cfe9cd753a11', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', '7ff095a8-1f97-4f9d-be8d-e0f607801bd9', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '53d5b556-8301-4a99-b48b-a31106e71eb0', '35185f33-e0ed-45d8-82bf-52e59ce4de3c', '9fbd48a9-2d70-4821-846e-0720e4e3a740', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '28b3f0e1-334d-4a3b-8e15-9d4df1d7cce9', 'eed6e7d0-ac3e-4a78-861b-f5909ec6b322', '76a23eb4-f142-4606-a540-b7b277fb2b4f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6e023c1-f0fc-4a62-bf77-4398bd0d5165', 'eed6e7d0-ac3e-4a78-861b-f5909ec6b322', 'e06ddd04-b2c6-4527-9763-16eb070cbc30', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '12913335-a39c-4757-9925-0183ab88b5d1', 'eed6e7d0-ac3e-4a78-861b-f5909ec6b322', 'fb372a2a-594b-4815-afb1-edb36dc77da3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '760c6838-5eaf-4b7e-861b-630f513dee6b', 'eed6e7d0-ac3e-4a78-861b-f5909ec6b322', 'd6ca0f32-acc8-4dbd-b916-b308f1530b15', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'db87a5d5-65be-495a-a7e5-094426f46b09', 'd47c1985-ee35-4c09-a5ec-f1206eb2d6c7', 'a5aee8bc-dd02-47fc-9f88-694df4c4c0a6', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0e6b8bcd-93b6-4758-9fff-78a8ef355fcc', 'd47c1985-ee35-4c09-a5ec-f1206eb2d6c7', '1608b57f-4edf-42a9-b547-0f70195d22da', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e176b62b-e653-4667-8544-849e0183778f', 'd47c1985-ee35-4c09-a5ec-f1206eb2d6c7', '3f55507b-7916-4254-9fef-65767ad04c2f', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9dd86e1b-ea6b-414e-9cbd-5dda37b04dfa', 'd47c1985-ee35-4c09-a5ec-f1206eb2d6c7', '4e2ae242-a5ce-40d9-b619-627bef4e3526', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a6e76337-2875-4d51-859e-bf0b3a98a6fd', '5259ed5f-0cd5-4766-b1a0-8d1537616f48', 'b9d310cd-14d1-4ca8-9892-332e611fe35e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d6c2b79-615f-4716-8fd6-115998b4ebca', '5259ed5f-0cd5-4766-b1a0-8d1537616f48', '0ea2e0e2-4950-4dd0-9ecd-a575e4d512d8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2ca5b056-2392-462a-a35d-adc7e1887dcb', '5259ed5f-0cd5-4766-b1a0-8d1537616f48', '6b82cab3-4d62-450c-9897-59b0ceb72dd3', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd8ba39b8-bf6d-45f7-b4c6-b00ef2fe08c4', '5259ed5f-0cd5-4766-b1a0-8d1537616f48', 'e099b97d-35c0-418a-834f-0fb08fbcddb0', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '66830fb1-ac5f-4051-bd45-5ed3ae31c757', '5259ed5f-0cd5-4766-b1a0-8d1537616f48', 'b2da3cb2-dbca-4c39-b7c3-2808fd7dafba', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f5e39959-252b-43ce-8ee5-26100232270b', 'a51d0534-29a3-4b34-bf7d-3bc71a315f7d', '6f3569b0-2097-4ce7-87c5-2ab0436c05a7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '62d58eac-9cbd-4d8e-9571-02a5b2f3589e', 'a51d0534-29a3-4b34-bf7d-3bc71a315f7d', 'f893637f-80a6-41f9-9fd9-dd73ac86c6c6', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '079e46a1-8621-4453-b75c-5903e552b142', 'a51d0534-29a3-4b34-bf7d-3bc71a315f7d', '15887dbe-bd15-4f2a-95eb-cde03b0172e9', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '40816115-9e4c-476e-830d-2cfe5d7435a9', '54b9880e-41c4-48cd-8d0c-eb0cafc715e6', 'c7e2a24d-34b7-450f-adff-283570f2d3c3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4aba01e1-94b8-4532-bc2f-e8d97b0a1951', '54b9880e-41c4-48cd-8d0c-eb0cafc715e6', '8ff577f7-6463-4207-a371-004f9ddc57f7', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '854d2ed7-6ac0-4efb-a7be-003d408a96e0', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', 'd66b332f-0200-47b4-8426-4c8a40585cbe', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ade500e5-a044-4185-90c4-26a5b242f18c', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', '21a45a26-a909-4b3c-8011-399bed88b276', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '800506bc-f60b-42c4-aec2-6d34e51c0c3c', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', '758428b7-7a62-46b9-acee-90ff3c04156a', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55d8817c-dede-47bf-937b-75152c2a3f0c', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', '357997d1-7a69-491e-8acb-108737d0f377', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9850a8d3-7213-4485-91fe-6ac66fb766ad', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', 'ac975271-a9be-4e15-9a6e-5610a08f97af', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '85463ea3-a73e-488b-851d-8a17f44828d1', '0ab8a7b1-55b1-4c77-973e-f865cc1aa2f2', '99616bde-992e-495f-88cd-97281d6b88a4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'aaa04e13-8ba0-4bc9-b6e3-968338571187', '19b88f13-568c-4385-99dc-37426e3db844', '1a32fb68-b8b5-47f3-be5b-8651eaab56b3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '462603f4-6376-421b-a374-eea1e5d4ac73', '19b88f13-568c-4385-99dc-37426e3db844', 'beb51a42-e3e3-4511-be44-faadf85db339', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '146c4416-f5d8-47a2-8a1b-e4d15e2b545e', '13b96c39-2ff4-45bd-9ede-d50e1500366b', '7ece6d8a-3f5f-4eb6-a6fa-12189670958c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4599d786-dd78-47c9-8b64-cdd4f1519984', '13b96c39-2ff4-45bd-9ede-d50e1500366b', '9f3663b9-3a79-44f7-928d-fee786890f21', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5b844574-83e3-4bbc-9bf3-4cb7b04d89c1', '13b96c39-2ff4-45bd-9ede-d50e1500366b', 'e862d6fa-fb66-42ce-9788-a47119350b61', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '630d6e87-be25-4e8d-a4ff-7a78c6ccdd96', '13b96c39-2ff4-45bd-9ede-d50e1500366b', '0fa7cffb-3171-4ccf-b32f-b1dbe8dd1c66', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '81e0a737-98b8-4df1-b761-bb456c04a9b4', '13b96c39-2ff4-45bd-9ede-d50e1500366b', '4a978068-1cab-4df8-8438-6bd351eb66e1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '740a786a-bb82-4d71-876d-7863bfda274a', '13b96c39-2ff4-45bd-9ede-d50e1500366b', 'ebb6c895-c9e2-4d8d-8dea-dc5bdf19f42d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3c5212c-bccd-4464-8299-ef975427df61', 'f8bdf1bb-ace6-49b9-b95a-de255d155c23', 'd5e8749d-81ac-4014-b31c-0c19eef552fd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63523501-2e82-471e-8fb0-99e96ca5accb', 'f8bdf1bb-ace6-49b9-b95a-de255d155c23', 'ba064cb2-9bb9-4820-a4b7-b6879d0823a4', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8cae7613-a9ec-4c48-bd20-a2340a25859d', 'f8bdf1bb-ace6-49b9-b95a-de255d155c23', 'f56545cd-39ff-4184-a51e-033b379a45ea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1edcc053-bdcb-4d27-b89d-af579076c379', 'ec412f35-ccd2-4b06-bfeb-11afc158a4e6', '44cae59f-e769-4890-9105-1c64867cec9b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '49186b15-24c1-4565-8fb5-ca9b2d4eb085', 'ec412f35-ccd2-4b06-bfeb-11afc158a4e6', '4d254302-736b-4c9e-bd77-4d3036856570', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0548abca-3319-494d-bc4d-3595802de615', 'ec412f35-ccd2-4b06-bfeb-11afc158a4e6', 'b933a604-0815-4ffc-87c5-fdc9ac4a9389', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6e8fe6e0-0434-4c36-b8be-c16df4d4bb3e', 'ec412f35-ccd2-4b06-bfeb-11afc158a4e6', '0d4d6a51-e9b1-44e0-b598-e0ab4f876450', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '21595945-9cd3-4bb5-9db5-8f71a486a872', 'eb0a5338-f487-405c-9d2f-f866e44559d9', 'd07cb4a4-39e6-4a6a-a0bf-90981517274e', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0ae8d1c0-dec6-417f-815d-2e40f0b07cbd', 'eb0a5338-f487-405c-9d2f-f866e44559d9', '4d10ca2c-449e-4de2-803b-e9e982e029e3', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6f968471-ebaa-42a2-b421-40d3c2095ae9', 'eb0a5338-f487-405c-9d2f-f866e44559d9', 'bcee356d-c30f-4f98-9100-5adfacecda78', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c1afb5b3-1419-41ac-8a16-034fde6d9c1e', 'eb0a5338-f487-405c-9d2f-f866e44559d9', 'd9715fec-8106-4b10-aa87-54df24f321dd', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '55c58f86-1915-4eb4-ae81-9c4ffa5a8b41', 'eb0a5338-f487-405c-9d2f-f866e44559d9', '51ed9279-1aec-4bff-af22-74af285a7309', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e17f81ec-47bf-41ba-ac6c-41912d6e18aa', 'eb0a5338-f487-405c-9d2f-f866e44559d9', '0ecbacea-1fbf-46d3-bbc3-5393b2052895', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4b356c8f-a3c6-454e-8abe-4ec432d7a80b', '9bd3e046-c5ac-40e0-832f-4b3cc9e8b186', 'ac551793-b05d-4b3b-82cc-613c0cf2245f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce749ead-83ba-40b1-b20e-d7a3e735d90a', '9bd3e046-c5ac-40e0-832f-4b3cc9e8b186', '307c10c5-268a-41b6-847b-9eeeff56dcda', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8610fe23-f966-4cd5-b998-65c67bdae395', '9bd3e046-c5ac-40e0-832f-4b3cc9e8b186', '0d35ecc2-fd1e-479a-b40e-2b0b5d93ece9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '089710be-ca62-4b0e-9520-0fa5e3807460', '9bd3e046-c5ac-40e0-832f-4b3cc9e8b186', 'f175b120-b0cb-4590-82e1-b9e95560f717', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dc8b3917-2952-43a6-bd00-7edccb27d699', '9bd3e046-c5ac-40e0-832f-4b3cc9e8b186', '34f8f1ec-61a5-4d38-90eb-8bf15a6f5f4c', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8174aef2-ff8d-4b85-a342-68c842135b34', '1936e6ab-79ca-4cb1-86d4-6145225d7313', '059cd722-3069-4523-89dd-d801a059909c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '72311996-dae6-4da1-9a53-e2c32c2cf23c', '1936e6ab-79ca-4cb1-86d4-6145225d7313', 'b3c73511-b0fc-4186-808c-46f490cae240', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a3f7bb23-238e-4b08-84ca-d0e88bf28f8a', '1936e6ab-79ca-4cb1-86d4-6145225d7313', '55c64a92-af1c-471c-9768-8bd9e2905a68', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5c0a9f92-6e27-4d9a-8456-f3c2a4cf308a', '7e6d57b2-3024-4948-bbcd-bcfbc13c0658', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e441c35-2d88-4335-a1d8-12bc99363c95', '7e6d57b2-3024-4948-bbcd-bcfbc13c0658', '6e673ef5-8028-4370-88ae-68de9cd32e0b', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '47c71515-17a8-45af-a83f-9682ef5a91d2', '7e6d57b2-3024-4948-bbcd-bcfbc13c0658', '1e0625cd-58f6-4e81-912f-0f7f61893eaf', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '3a8f18e3-064f-45ca-8171-7aa5bc9feaef', '8bae9ca3-a11a-47af-9ea1-2d2451944399', 'ce2672a0-2781-4907-bcb7-7890221a61ee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '50f25995-609f-4ca0-9e81-365d8e606ce7', '8bae9ca3-a11a-47af-9ea1-2d2451944399', '4a8d84bf-ab25-4459-8b8d-fb89a2196a31', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fe78aafd-6c62-4b02-b44b-378832dd742c', '8bae9ca3-a11a-47af-9ea1-2d2451944399', '00e009aa-f79b-4481-9d8c-8bf4b77e1bad', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2f5b273d-8185-463b-b20f-ab5a23c23e17', '5b55997c-27c5-4a2a-881c-299d2430fd3a', '07968354-b1c6-41aa-9642-b1c1f8a7787f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9653dc1f-ca30-4751-be0d-72a7fe6754f0', '5b55997c-27c5-4a2a-881c-299d2430fd3a', 'c209b8c7-75eb-4c25-b660-2d73c5aa8fec', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1ec3efd0-c61e-47d2-beb8-169e3a318eca', '7f0ab731-081c-43fc-b8ed-db2c0e28c9d7', '31c3dff4-3107-4130-aea1-c1d1d69308ed', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1bcaa522-de9e-4055-8ac1-860e6f3f5e73', '7f0ab731-081c-43fc-b8ed-db2c0e28c9d7', '6e673ef5-8028-4370-88ae-68de9cd32e0b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e9a944f3-2526-4b00-b4d9-aaf8939b9a85', '9bc58462-ba4a-4423-a918-38f90fa2ff35', 'ab39aa88-3735-4ac3-9cfe-b2e2a432e509', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f4c86225-2c31-4e2f-9860-0842ea27da46', '9bc58462-ba4a-4423-a918-38f90fa2ff35', 'e2816772-d02b-457e-a672-9d4a9c068461', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '42e83b5f-64d5-4b9b-96f5-3fe90a3a4f65', '2b38445a-0e85-41eb-8ce1-d8c3a322f8d7', '263b3524-b994-4bd0-b81c-c2982595a8df', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a53ad7e3-d197-41da-81ac-52868aea0ebf', '2b38445a-0e85-41eb-8ce1-d8c3a322f8d7', '480686ef-424d-46b7-9a22-5225d05581dc', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1c32bf0a-32d6-4735-bca7-05c3c84332b4', '7d4859ff-e386-4603-b6fb-0d6879328b47', '98e880dc-72ea-44b8-8114-9d27fba72708', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9fc12f16-75ae-40dc-9245-3edc852ab455', '7d4859ff-e386-4603-b6fb-0d6879328b47', 'b6f17cf2-6be6-4775-a8c5-f1e31f66e45a', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '850cf280-094a-4c62-a599-39bec17d36e0', '7d4859ff-e386-4603-b6fb-0d6879328b47', '0fe62712-48de-484d-b9af-d494124090b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f3f999be-222a-4355-b603-4877363eb2ec', '7d4859ff-e386-4603-b6fb-0d6879328b47', 'bee8964e-69c5-4a27-b5b9-fb7d30b6b43f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'de43c20c-9f67-41d5-9564-586714fadd66', '7d4859ff-e386-4603-b6fb-0d6879328b47', 'feb489b1-5d57-41cc-a636-cd2fadb3a906', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8ccb35d9-1ada-4359-9d6b-87f714902225', '7d4859ff-e386-4603-b6fb-0d6879328b47', '50c33697-35a3-4ef9-86fc-13b8b31a4717', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fb3cfb3c-2960-4aeb-a46b-09f555da8615', 'd89818c2-1773-4ec7-834f-76c41de4b413', '4f435f2a-c15c-438c-b34c-2b2060d4569f', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '385531c9-f308-46be-88b4-4cba6641d0a2', 'd89818c2-1773-4ec7-834f-76c41de4b413', 'e97393e1-153c-443f-a990-26dc31bff385', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '444e1a78-87a2-4a8e-822f-a505d0681729', 'd89818c2-1773-4ec7-834f-76c41de4b413', '7d66c19f-575a-4e4c-ad89-776f802c4c62', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '76da5ff3-00c0-46bc-b558-e31ebce3fa72', 'd89818c2-1773-4ec7-834f-76c41de4b413', 'c914d06e-cf40-4dd5-ac79-92b1481332b9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5089623f-04c9-4b69-9adc-b7aa2cffefa3', '1d50aa60-0571-4039-b426-65948aeaa20e', '2d75253e-b640-42d8-a3c6-81b7833788aa', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1e291150-d38a-4761-97e9-210c8f447d2e', '1d50aa60-0571-4039-b426-65948aeaa20e', '70788350-dc58-4dd8-969f-7684159279d9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d7fba85-f475-4f68-adee-db4a3afa3db3', '1d50aa60-0571-4039-b426-65948aeaa20e', 'add92f9c-8e64-4bcc-a7df-9e387c91dc00', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '40b912ce-c2c8-4a44-8304-92948ecab769', '21bd363d-49b8-4fcf-9f8a-bd145f78a105', 'f56545cd-39ff-4184-a51e-033b379a45ea', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'af7e328f-052b-44f2-808c-a9f6cfeeda55', '21bd363d-49b8-4fcf-9f8a-bd145f78a105', 'afac821b-021a-4ded-b552-ab52d18f3777', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a080a9db-25e3-4c25-b2d8-f8868ec90f0c', '21bd363d-49b8-4fcf-9f8a-bd145f78a105', '642ed9a7-71fb-4160-a5f7-d11040089f0b', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '128c680a-07bd-4ade-bbe9-214d30e13e21', '21bd363d-49b8-4fcf-9f8a-bd145f78a105', '7d66c19f-575a-4e4c-ad89-776f802c4c62', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6464e0f2-0c36-41c3-9d5f-257787329e73', '90e09738-456b-42ba-8401-f7edb9813aaf', '1d015fea-31df-42c6-973b-f90785f52972', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5dde7496-148a-4076-822b-41b4d6007a0c', '90e09738-456b-42ba-8401-f7edb9813aaf', '0e14eda4-ce4e-49f5-bdfe-3b92a93fa10d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'fa2e6e83-5be1-420c-8bdb-ae504abccd94', '90e09738-456b-42ba-8401-f7edb9813aaf', 'a97da9bf-a565-47dc-a9a0-9df10f583e05', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ab79be7a-8fff-467e-a050-79ec4e9a88b4', '90e09738-456b-42ba-8401-f7edb9813aaf', 'e459308a-f6cb-485b-883c-62556a414582', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4f9f1648-2dd0-41f6-a74e-f23a66c0a582', '90e09738-456b-42ba-8401-f7edb9813aaf', '830c4859-9968-4816-870e-f7f50dc88224', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '73d7535f-766a-4c29-ab22-cc33f317944e', '90e09738-456b-42ba-8401-f7edb9813aaf', '1afbd831-2aea-45f2-92c7-9d92d1ce2691', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ca877b57-00d0-416e-8e84-cd7e08f60643', '7ec9db99-bee7-4562-9133-6279f380bd5b', '8db0e867-57ce-4c92-b1c8-e1fcccd4f3b1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '994fcdd9-289d-451e-ad5b-d90536b51fb8', '7ec9db99-bee7-4562-9133-6279f380bd5b', '33e7abbc-a6d6-4fd2-adde-d051e43862f7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '278eb22d-d187-442a-8f39-6ff9cae83c88', '7ec9db99-bee7-4562-9133-6279f380bd5b', '5e204116-1ede-49e6-9bcd-e8913913dfa7', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '79e93dd8-6c11-48e6-842b-61a294c179f9', '7ec9db99-bee7-4562-9133-6279f380bd5b', 'd52a7856-44c8-44d5-84a8-840cc6b803ff', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'a86bbed8-dc39-4f37-9abb-07d8ac601b0b', '7ec9db99-bee7-4562-9133-6279f380bd5b', '366b704c-4f36-418d-bb5e-4fb58fe76528', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b35d7a39-e3b5-4493-8821-25bb98a829f3', '7ec9db99-bee7-4562-9133-6279f380bd5b', '753b2de5-e2ba-4a1d-ac94-a3290dde0d17', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '75f5843b-3f3d-467f-9a5c-3efdd5012b3f', '7479bc27-035c-4eb5-91f4-9db58b7690c1', '56e1daab-2060-4628-8862-f4c3e620399c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0692e1f9-9ebf-45aa-b2c6-d2dcbb85e15f', '7479bc27-035c-4eb5-91f4-9db58b7690c1', '6b46d3f9-268a-44ba-882a-254e29e857c1', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'dfbb5032-beb8-4061-91c1-5498b1d643d0', '7479bc27-035c-4eb5-91f4-9db58b7690c1', 'db4c1a63-5dfc-44fe-907d-3c6deffaf354', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '445c1eea-819a-4f34-b310-250d84f3240e', 'fc44fc1f-5199-4926-bc36-bed013b74e19', '4bb2858d-8323-4164-b8cf-bfc859a20bf8', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '54883b55-0635-4348-9168-c14a299c3f1b', 'fc44fc1f-5199-4926-bc36-bed013b74e19', 'b0c2ce90-02ed-4aff-9e82-34dc9ddd3dcf', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'cb8fadbd-e10f-48f8-9d35-b3e4cfa26d2f', 'fc44fc1f-5199-4926-bc36-bed013b74e19', '442573a3-ae08-4f32-bb59-e9be6c283e57', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6b70ac61-e208-45a2-9cd2-8670dcde65fa', 'fc44fc1f-5199-4926-bc36-bed013b74e19', '3d1d493d-d62e-4f0e-9ecc-a45d6ab64c7c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '06a87580-a44a-48ec-b48c-bb99acf06420', 'fc44fc1f-5199-4926-bc36-bed013b74e19', '76e8adff-0689-4a7e-b860-d0e9078c049c', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2d759932-0b38-419a-bbc3-0a908b6450e4', 'fc44fc1f-5199-4926-bc36-bed013b74e19', '08df5c6e-4379-4eca-a396-115d68c261f5', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f2fb9aad-fcb2-4b02-a672-d5ff2496973f', '6323477a-f57a-4c27-a11f-22d40e4b8161', '9df550a9-e885-40d8-8380-28f787934c71', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '980c7145-dec8-48c4-a875-29189010ee40', '6323477a-f57a-4c27-a11f-22d40e4b8161', 'd2cd2b37-3296-4997-a3fc-11c36d4da52d', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1090d332-4c0c-488e-a6eb-866363be74e5', '6323477a-f57a-4c27-a11f-22d40e4b8161', '8141b25b-a8ab-4e91-a5b2-16305ac212ad', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b4302cad-c74c-4750-8e6d-843584218bd6', '6323477a-f57a-4c27-a11f-22d40e4b8161', '4ed2d621-cb48-4e1f-a0e3-3371bace8048', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cc33177-22c8-433b-9d3e-fd2f421c4e7b', '6323477a-f57a-4c27-a11f-22d40e4b8161', 'f0797a92-f3d9-4f28-b870-8e8a342b6b28', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '195317a6-198b-408d-b36c-a520b432a298', '6323477a-f57a-4c27-a11f-22d40e4b8161', '21651896-65b6-4ffd-a8b3-4aa3389d7de3', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'eeb4190f-48f9-4923-a98d-ecf587ff140d', '825a0360-bc14-4f87-a2ab-e8fb26730599', 'f872c558-b37b-4e7d-a8b0-4d56b0330602', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0525a05b-1b27-4fc5-8f95-cce1d010a0e0', '825a0360-bc14-4f87-a2ab-e8fb26730599', 'e6f370a7-0163-4c5f-aaee-d5acbd839cad', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'e2d01c2c-09d3-4ca0-a731-a3712a17accb', '825a0360-bc14-4f87-a2ab-e8fb26730599', '1c0adc5f-7329-4fa6-998e-bdbb9260d741', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7cbc1c15-d728-4c66-a8cc-62d7132b0b29', '825a0360-bc14-4f87-a2ab-e8fb26730599', 'da3d903f-18c1-4250-a1ec-996ca81af877', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '6376417f-ecc4-4f7b-95c5-2f8e214c33b7', '825a0360-bc14-4f87-a2ab-e8fb26730599', '29d31cd9-510b-4ec1-8cec-ecd5ad0bbb4c', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '997e881f-5bc5-4b44-905b-39ff1882a056', '825a0360-bc14-4f87-a2ab-e8fb26730599', 'bee8964e-69c5-4a27-b5b9-fb7d30b6b43f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '84bdb1c1-1c3f-48c4-8830-d2a3555d1feb', 'b420d7fd-c22f-43ef-9b23-81b86a6173af', '86965d74-453b-470c-8d90-e7bd57232ee9', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '75cc49bb-6c90-47be-8611-2c5ec0f94862', 'b420d7fd-c22f-43ef-9b23-81b86a6173af', 'e47bd62b-89a7-4550-ba65-5e5bd5088bf8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7541a140-3aca-4623-84da-43afd32af82f', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', 'f7f8a814-483d-4ac7-b7e6-6de393cc66fb', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '045130e6-0025-4187-8334-e0a03a38ba20', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', '4f6bc159-1ab4-449d-9539-7567470aa58b', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8c2d6aba-2f04-49ab-8bff-1fcd139d3314', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', '7f24cbcc-eb4b-4d0b-9cf9-7b659727c134', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '63a3c691-d34d-4b99-9b18-90e74332d842', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', '910670d8-ec78-4438-a823-65c8ff57b297', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9dcd2156-15b3-4fc0-aafa-ed5d0fd905c7', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', 'bca6e8b5-56f0-4d91-8535-f084c2cc4b20', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '1dd6c507-e6f9-4579-92a8-6a7941fd5776', '03d96426-6f0b-4fb4-9ba3-6393cf6ff5b5', '6c4be5b1-73a9-476b-ae7e-f49999f58ee8', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '5fcbed21-5048-429d-ae0d-e9ed378fdaa9', '12744087-af4f-4467-8989-3e4d30b474e0', 'bf0f50fa-bc4f-4904-b76f-9553b22f9493', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9f36d6a4-7a4f-4726-83ad-1a5232646d88', '12744087-af4f-4467-8989-3e4d30b474e0', '95d11dec-5e23-486b-8045-af3b2644bfb6', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '302eadbf-b06a-4af0-9f6d-0ef348d0f302', '685d019a-8a63-45d8-9e67-bd9dde83e7d1', '859bfada-a0f7-4910-94db-49add95dece8', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '07a992f5-22a0-41ae-b881-4a7bdfb7c9a0', '685d019a-8a63-45d8-9e67-bd9dde83e7d1', '1173c2cb-1a20-4b34-aa05-037d950c379f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '50139e00-4000-4832-9c67-9c4ca3a80f1a', '685d019a-8a63-45d8-9e67-bd9dde83e7d1', 'da8d4ce1-6d34-4b80-a2ac-ee3d0f7fa7b4', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '0d4be0f4-5aff-4ddd-b7dd-a599519b1d05', '685d019a-8a63-45d8-9e67-bd9dde83e7d1', '7a08a16e-182a-47e8-8a36-e8b9703afb75', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'c0381505-7048-44ab-8838-6d5d06478123', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', 'ea9a729e-db4f-4033-a1d5-137aecf55766', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '058b9bbe-4ab7-4bde-bc6d-d273a2ab4eb6', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', '273dfa6c-20dc-472c-937e-5dabebc4f1ee', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '8da88d0d-f05f-4d00-97c3-5dfaf54d5ed8', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', '495aa5df-9ab8-47ef-b75f-e7879cb8042f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'd4529bcf-ef90-4426-b98b-71114b2250aa', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', '7248f0d6-81d6-4bb5-a4de-44fad45616b1', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '97ce2618-b660-46d6-84da-9207dcd8d8eb', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', 'd857384a-db9d-4867-b5c5-5dc6c1cd09af', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'ce6ba145-1cc1-41b5-8f41-a648fcc83afd', 'e2e917bb-7c1a-4273-b85c-57a4db46dce0', '35bfa56f-2622-4abc-a17b-c8eb42108cc7', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'b70a90fa-1f83-4d26-aabc-96490d897878', '72e29289-1198-459a-b596-ba4983eb181e', '8a026bf9-9a29-4be5-9e4a-231f742f4a2a', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '531c6e0e-f6fd-401a-ad44-79831a4645ea', '72e29289-1198-459a-b596-ba4983eb181e', '07968354-b1c6-41aa-9642-b1c1f8a7787f', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9dda76a4-6e59-4d3c-a2e9-8e7bf1839027', '72e29289-1198-459a-b596-ba4983eb181e', '1ca5f178-722f-4b80-9c27-d16991b19e45', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9937f38f-412b-41e2-a87e-e445da2493db', '059e4dfc-fde4-41b9-b049-7c08dc7c3de3', '8a7ad4eb-197c-43f4-b4c9-93a8d18717ca', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '4870f544-edb5-4f2e-bd94-3650d2e4297d', '059e4dfc-fde4-41b9-b049-7c08dc7c3de3', 'c063b080-cc27-4882-82a0-3470c0ea5740', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            'f208ee8a-923e-4077-a8b8-3c858123d3ec', '059e4dfc-fde4-41b9-b049-7c08dc7c3de3', '35a1fa91-3b5a-42af-8b54-2b22e6105c78', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '9cd13970-6861-442d-8b45-62fc6de23db9', '059e4dfc-fde4-41b9-b049-7c08dc7c3de3', '9d19e82a-f16e-4043-a138-3472d72738bb', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '7aea97d0-150d-43f2-9427-9c7ec4d48f07', 'c5055f28-4b67-4ec8-8e75-2aff3f09eca5', '4e98e1c3-0a21-4725-8f9b-414522a60bea', 1
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '075a6a27-35a8-4fb7-a3dd-84c20b99b979', 'c5055f28-4b67-4ec8-8e75-2aff3f09eca5', 'f1e8cb70-7df2-4bc8-ae98-3ecdf44ce09e', 2
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '2a66b001-f21f-464f-a971-fd25b562f82f', 'c5055f28-4b67-4ec8-8e75-2aff3f09eca5', 'fa47533e-a058-4532-970f-9f3b8df44340', 3
+        );
+INSERT INTO public.cart_items (
+            cart_item_id, cart_id, variant_id, quantity
+        ) VALUES (
+            '31e92da8-b78f-4ad2-ad73-80814fd917db', 'c5055f28-4b67-4ec8-8e75-2aff3f09eca5', 'bfbb30ea-d21b-400f-920e-538b7256a116', 1
+        );
