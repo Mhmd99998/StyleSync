@@ -6,15 +6,17 @@ A full-stack, AI-powered e-commerce and automation platform designed specificall
 
 ## 📌 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [Getting Started](#getting-started)
-- [AI Recommendation Engine](#ai-recommendation-engine)
-- [Project Structure](#project-structure)
-- [Challenges](#challenges)
-- [Future Work](#future-work)
-- [License](#license)
+- [Features](#️-features)
+- [Tech Stack](#-tech-stack)
+- [System-Architecture](#️-system-architecture)
+- [Getting Started](#-getting-started)
+- [AI Recommendation Engine](#-ai-recommendation-engine)
+- [Project Structure](#-project-structure)
+- [Challenges](#-challenges)
+- [Future Work](#-future-work)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+
 
 ---
 
